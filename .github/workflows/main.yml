@@ -25,9 +25,9 @@ jobs:
         grep '||' ./AdguardHome.txt > ./AdList.txt
         
     - name: Push commit
-      uses: github-actions-x/commit@v2.9
-      with:
-        github-token: ${{ secrets.TOKEN }}
-        push-branch: 'master'
-        force-add: 'true'
-        files: AdList.txt ChinaList.txt
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "generated"
+        git push
