@@ -28,4 +28,4 @@ jobs:
     - name: push commit
       uses: github-actions-x/commit@v2.9
       with:
-        github_token: ${{ secrets.TOKEN }}
+        github-token: ${{ secrets.TOKEN }}
