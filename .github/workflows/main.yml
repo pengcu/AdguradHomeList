@@ -12,10 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Init dir
-      run: |
-        mkdir -p rules
-        
     - uses: actions/checkout@v3.3.0
     
     - name: Fetch files
