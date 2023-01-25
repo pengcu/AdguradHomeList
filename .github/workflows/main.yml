@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: init dir
+    - name: Init dir
       run: |
         mkdir -p rules
         
     - uses: actions/checkout@v3.3.0
     
-    - name: fetch files
+    - name: Fetch files
       run: |
         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > ./ChinaList.conf
         curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdguardHome.txt
@@ -28,7 +28,10 @@ jobs:
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./ChinaList.conf > ./ChinaList.txt
         grep '||' ./AdguardHome.txt > ./AdList.txt
         
-    - name: push commit
+    - name: Push commit
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.TOKEN }}
+        push-branch: 'master'
+        force-add: 'true'
+        files: AdList.txt ChinaList.txt
