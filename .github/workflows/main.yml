@@ -1,0 +1,25 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: init dir
+      run: |
+        mkdir -p rules
+        echo ${pwd}
+#     - name: fetch files
+#       run: |
+#         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > /ChinaList.conf
+        
+#     - name: Format & Custom
+#       run: |
+#         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' /ChinaList.conf > ChinaList.txt
