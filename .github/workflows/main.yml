@@ -23,5 +23,5 @@ jobs:
     - name: Format & Custom
       run: |
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./rules/ChinaList.conf > ./rules/ChinaList.txt
-        grep '||' ./rules/AdguardHome.txt > AdList.txt
+        grep '||' ./rules/AdguardHome.txt > ./rules/AdList.txt
         
