@@ -15,7 +15,7 @@ jobs:
     - name: init dir
       run: |
         mkdir -p rules
-        echo ${pwd}
+        pwd
 #     - name: fetch files
 #       run: |
 #         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > /ChinaList.conf
