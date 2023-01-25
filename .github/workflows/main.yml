@@ -22,6 +22,7 @@ jobs:
     - name: Format & Custom
       run: |
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./ChinaList.conf > ./ChinaList.txt
+        echo "10.10.10.11" >> ./ChinaList.txt
         grep '||' ./AdguardHome.txt > ./AdList.txt
         
     - name: Push commit
