@@ -15,11 +15,10 @@ jobs:
     - name: init dir
       run: |
         mkdir -p rules
-        pwd
-#     - name: fetch files
-#       run: |
-#         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > /ChinaList.conf
+    - name: fetch files
+      run: |
+        curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > ./rules/ChinaList.conf
         
-#     - name: Format & Custom
-#       run: |
-#         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' /ChinaList.conf > ChinaList.txt
+    - name: Format & Custom
+      run: |
+        sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' /ChinaList.conf > ./rules/ChinaList.txt
