@@ -25,3 +25,6 @@ jobs:
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./rules/ChinaList.conf > ./rules/ChinaList.txt
         grep '||' ./rules/AdguardHome.txt > ./rules/AdList.txt
         
+    - name: push commit
+      uses: github-actions-x/commit@v2.9
+      with:
