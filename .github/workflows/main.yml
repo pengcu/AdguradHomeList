@@ -18,7 +18,10 @@ jobs:
     - name: fetch files
       run: |
         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > ./rules/ChinaList.conf
+        curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./rule>AdguardHome.txt
         
     - name: Format & Custom
       run: |
-        sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' /ChinaList.conf > ./rules/ChinaList.txt
+        sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./rules/ChinaList.conf > ./rules/ChinaList.txt
+        grep '||' ./rules/AdguardHome.txt > AdList.txt
+        
