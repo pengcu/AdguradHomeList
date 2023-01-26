@@ -347,6 +347,7 @@
 ||huiyelu.com^
 ||huiyidui.com^
 ||huiyueting.com^
+||hvhudp.xyz^
 ||hzcp.fun^
 ||icyrwy.xyz^
 ||igusoft.com^
@@ -354,10 +355,12 @@
 ||ikbhgj.cn^
 ||imassg.xyz^
 ||inkuae.com^
+||inscan.cn^
 ||ionqv.cn^
 ||irygym.xyz^
 ||ituxzez.cn^
 ||iwjgwis.cn^
+||ixelcpo.cn^
 ||jbuzacg.cn^
 ||jfmfmgj.cn^
 ||jkxvvv.xyz^
@@ -419,6 +422,7 @@
 ||nypyzx.xyz^
 ||ockuc.com^
 ||ofgysy.xyz^
+||ohmpyq.xyz^
 ||omhoa.com^
 ||oulibf.xin^
 ||pafcpd.xyz^
@@ -446,11 +450,13 @@
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
 ||saccac11.com^
+||sairy.cyou^
 ||salangane.asia^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||scbt.asia^
 ||shhaiya.com^
+||shidaiheima.ltd^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -501,6 +507,7 @@
 ||wpiwoo.xyz^
 ||wschao.xyz^
 ||wuge20230104.live^
+||wwnyubs.cn^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
@@ -540,10 +547,10 @@
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||ohmpyq.xyz^
-||wwnyubs.cn^
-||ixelcpo.cn^
-||hvhudp.xyz^
+||oronwg.xyz^
+||yupphsl.cn^
+||hfjsbf.xyz^
+||yruvnmn.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -8790,6 +8797,7 @@
 ||baidu.com/api/wikiui/directad?
 ||baidu.com/api/wikiui/getasp?
 ||baidu.com/api/wikiui/guesslike?
+||baidu.com/article/ajax/getmarticlestepdata?
 ||baidu.com/brands/yxtg/source/yxCoupletsAd.js
 ||baidu.com/cms/rc/adSideConfig.json?
 ||baidu.com/common/fc/
@@ -12136,12 +12144,10 @@
 ||zhainanba.org/ac/
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 ||zhaofuli.*/data/content
-||zhaozi.cn/d/js/mini/extended
 ||zhengjie.com/a_d?
 ||zhenjiang365.cn/*/ad_
 ||zhev.com.cn/file/weixin/
 ||zhibo8.cc/js/adv-slide-toggle.js
-||zhiboba.org/gg_js/
 ||zhibok8.com/images/*.gif
 ||zhibok8.com/js/di
 ||zhibok8.com/js/scroll.js
@@ -12156,12 +12162,8 @@
 ||zhongyoo.com/shuju/
 ||zhuashi.oss-cn-beijing.aliyuncs.com^$domain=~zhuashi.com
 ||zhuji.net/2007_ad/
-||zhujiangroad.com/js/alltop.js
 ||zhujiwiki.com/ad/
 ||zhulong.com/detail/floorOneAd?
-||zhulong.com/poster/get?*_960
-||zhulong.com/poster/get?positions_name=ZY_JZ_300_02
-||zhulong.com/poster/get?positions_name=ZY_SP_300
 ||zhushou.360.cn/script/plugin_tiper.js
 ||zhuwang.cc/api.php?op=ad_
 ||zhuys.com/js/ysmm.
@@ -12170,8 +12172,6 @@
 ||ziyuanm.com/js/g11.js
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjjhfc.com/js/zt.js
-||zjjzx.cn*/push/
-||zjol.com.cn/www/zzhzbd/
 ||zjst.net/3.gif
 ||zjxc.com/source/plugin/e6_xc_ad/
 ||zk789.cn/Res/Scripts/Show/NetSys/Show.ashx
@@ -12185,12 +12185,8 @@
 ||zol.com.cn/adrs/
 ||zol.com.cn/js/ask/ask.js
 ||zolsky.com^*ad/*.js
-||zongheng.com/ajax/recommend.game.
-||zongheng.com/upload/ad/
 ||zongheng.com/upload/hzds/
 ||zongheng.com/upload/recommend/game/
-||zongheng.com/v2014/js/mod/bad.js
-||zongheng.com/zhuanti/2014/active/js/active.js
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zpgjz.com/cdn/new1/4.gif
 ||zpiyi.com/public/js/global.js
@@ -12829,8 +12825,6 @@
 @@||yunduanxin.xyz/static/js/banger.js
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||yygsz.com^$generichide
-@@||zhaopin.cn/js/app/popShow.
-@@||zhaopin.cn^*/adbox_
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxmee.com^$generichide
