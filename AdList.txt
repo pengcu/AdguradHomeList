@@ -333,6 +333,8 @@
 ||hcqsuqq.cn^
 ||hellobody.online^
 ||hellu.cyou^
+||hertzbeat.cn^
+||hfjsbf.xyz^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||hspffjx.cn^
@@ -424,6 +426,7 @@
 ||ofgysy.xyz^
 ||ohmpyq.xyz^
 ||omhoa.com^
+||oronwg.xyz^
 ||oulibf.xin^
 ||pafcpd.xyz^
 ||paongfh.cn^
@@ -503,6 +506,7 @@
 ||viope.cyou^
 ||wdasa.top^
 ||wdmdejd.cn^
+||weiqu.cyou^
 ||wjl58.icu^
 ||wpiwoo.xyz^
 ||wschao.xyz^
@@ -521,6 +525,7 @@
 ||xrewo.xyz^
 ||xtpez.xyz^
 ||xxsmcps.com^
+||xyblm.xyz^
 ||yanjiusuo.cc^
 ||yemueii.cn^
 ||yhjh04.com^
@@ -528,12 +533,15 @@
 ||yhzzzs02.com^
 ||yqgpic.xyz^
 ||yretx.cn^
+||yruvnmn.cn^
 ||ysgekq.xyz^
 ||ytpae.xyz^
 ||yunwu.red^
+||yupphsl.cn^
 ||yuqingby.fun^
 ||yyepa.cyou^
 ||yzgid.cn^
+||zawqwpajq.club^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
 ||zfykvns.cn^
@@ -547,10 +555,9 @@
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||oronwg.xyz^
-||yupphsl.cn^
-||hfjsbf.xyz^
-||yruvnmn.cn^
+||wbqosw.xyz^
+||ppltxv.xyz^
+||dfdaaa12.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -9590,6 +9597,7 @@
 ||ecpoc.com/style/ad
 ||ed2000k.com/ad/
 ||edmontonchina.*/pic/
+||edu-30130.sz.gfp.tencent-cloud.com^*.gif
 ||educity.cn/self_text/text_disp.aspx?id=
 ||eduuu.com/website/public_js/pc_aso.js
 ||ee021.com/Runtime/js/
@@ -12354,6 +12362,7 @@
 @@||baidu-taobao-av.com/js/jquery.
 @@||baixing.net/combine/*,/css/ad-
 @@||banma.com/statics/js/??
+@@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bchangtai.vip/static/ad/main.js
@@ -12651,6 +12660,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
+@@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||panjiachen.github.io^$generichide
 @@||papalah.com^$generichide
 @@||papi-service.jd.com/ads/
