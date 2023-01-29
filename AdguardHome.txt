@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3amBwF6KUoCvH3tlACLaQg
+! Checksum: XHP+re4+IuWnHUZ7cz/jPg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202301280828
-! Last Modified: 2023年01月28日 08:28
+! Version: 202301290832
+! Last Modified: 2023年01月29日 08:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1874,6 +1874,7 @@ ubmcmm.baidustatic.com
 ##.pagecon + .ad1
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
+##.pc_acmsd
 ##.pcd_ad
 ##.pcgg
 ##.photo-two > a[onclick^="_czc."]
@@ -2002,6 +2003,7 @@ ubmcmm.baidustatic.com
 ##a[href*="://2"] > img[src*=".qlogo.cn"]
 ##a[href*="://4"][href*="/vod."]
 ##a[href*=":10443/"] > img[src$="gif"]
+##a[href*=":7888/?register="]
 ##a[href*="?channelCode="] > img[src*=".com"]
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
@@ -2134,6 +2136,7 @@ ubmcmm.baidustatic.com
 ||595tuchuang.com^
 ||5r562.cn^
 ||78dfvv.com^
+||7nekc.icu^
 ||81xs.xyz^
 ||8499136.com^
 ||8881img.com^
@@ -2150,6 +2153,7 @@ ubmcmm.baidustatic.com
 ||bavxxf.xyz^
 ||bfdaawe.top^
 ||bgjjwl.cn^
+||bharalhallahs.com^
 ||bkisss.com^
 ||bqg16.cc^
 ||bqrkubs.cn^
@@ -2176,6 +2180,7 @@ ubmcmm.baidustatic.com
 ||e8jp9.com^
 ||ebzqyow.cn^
 ||ekdbfu.cn^
+||elsmom.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
 ||fdbskb.cn^
@@ -2265,6 +2270,7 @@ ubmcmm.baidustatic.com
 ||lmxzlb.xyz^
 ||loispp.com^
 ||looktt.xyz^
+||lpaehxw.cn^
 ||lw0mp.fun^
 ||lwpxhr.xyz^
 ||maccms10.cn^
@@ -2311,6 +2317,7 @@ ubmcmm.baidustatic.com
 ||ppltxv.xyz^
 ||ps123.online^
 ||qanduan.com^
+||qdutmef.cn^
 ||qgazysq.cn^
 ||qgermm.xyz^
 ||qiegoa.xyz^
@@ -2325,6 +2332,7 @@ ubmcmm.baidustatic.com
 ||rebunb.xyz^
 ||renzhongjiaoyu.xyz^
 ||rglctlo.cn^
+||rtcegcp.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
 ||saccac11.com^
@@ -2333,6 +2341,7 @@ ubmcmm.baidustatic.com
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||scbt.asia^
+||scfh9.cn^
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||sige20221230.xyz^
@@ -2348,6 +2357,7 @@ ubmcmm.baidustatic.com
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
+||tianmel.xyz^
 ||timothy.wang^
 ||tjxafmo.cn^
 ||tuape.xyz^
@@ -2402,6 +2412,7 @@ ubmcmm.baidustatic.com
 ||xtpez.xyz^
 ||xxsmcps.com^
 ||xyblm.xyz^
+||xznrtl.xyz^
 ||yang17.xyz^
 ||yanjiusuo.cc^
 ||yemueii.cn^
@@ -2413,6 +2424,7 @@ ubmcmm.baidustatic.com
 ||yruvnmn.cn^
 ||ysgekq.xyz^
 ||ytpae.xyz^
+||yuncaizhijia.ltd^
 ||yunwu.red^
 ||yupphsl.cn^
 ||yuqingby.fun^
@@ -2432,8 +2444,10 @@ ubmcmm.baidustatic.com
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||elsmom.xyz^
-||rtcegcp.cn^
+||evunmc.xyz^
+||xjpsrb.xyz^
+||guuds.cyou^
+||jmqmbsn.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -10367,18 +10381,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||360kan.com/v1/block?blockid=544&
 ||365kl.net/data/attachment/portal/
 ||365rich.cn/ba.aspx
-||36dm.*/images/680acgsou.gif
-||36dm.club/images/00
-||36dm.club/images/tb
-||36dm.club/images/top
-||36dm.club/js/nu
-||36dm.com/images/0
-||36dm.com/images/36dm
-||36dm.com/images/l0
-||36dm.com/images/ny0
-||36dm.com/images/tb
-||36dm.com/images/top
-||36dm.com/js/nu
 ||36kr.com/pp/api/ap/plan?
 ||373nn.com/java/
 ||39.net/a.htm?
@@ -10809,9 +10811,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||acgnx.se/images/adwork/
 ||acgnz.cn/static/b.js
 ||acgnz.cn/static/i.js
-||acgsou.com/images/ac
-||acgsou.com/images/tb
-||acgsou.com/images/top
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
 ||act.chinatimes.com/aimg/
@@ -19215,7 +19214,7 @@ pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
 house365.com##a[style*="1200px;"]
 hdzone.org##a[style*="fixed"]
 huaren.tv##a[style*="height:"]
-36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
+36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href*="show-"]
 939394.xyz##a[style="display: block;"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
