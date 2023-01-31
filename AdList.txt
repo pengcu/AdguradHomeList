@@ -288,12 +288,14 @@
 ||bfdaawe.top^
 ||bgjjwl.cn^
 ||bharalhallahs.com^
+||bjdqxt.com^
 ||bkisss.com^
 ||bqg16.cc^
 ||bqrkubs.cn^
 ||bqtwbx.xyz^
 ||brkxgfs.cn^
 ||buttn.cyou^
+||byzt8.top^
 ||ccemqe.cn^
 ||cerfbup.xyz^
 ||creawww.top^
@@ -325,6 +327,7 @@
 ||ffdcpvv.cn^
 ||forestwo1f.ltd^
 ||frpns.com^
+||ftrtnr.xyz^
 ||fujbjb.xyz^
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
@@ -335,6 +338,7 @@
 ||gfqsded.cn^
 ||ggrhsx.cn^
 ||glzniuy.cn^
+||grndhkd.cn^
 ||guge.red^
 ||guuds.cyou^
 ||guyu8855.club^
@@ -379,6 +383,7 @@
 ||ixelcpo.cn^
 ||jbuzacg.cn^
 ||jfmfmgj.cn^
+||jishiben.info^
 ||jkxvvv.xyz^
 ||jmqmbsn.cn^
 ||jojog.com^
@@ -400,6 +405,7 @@
 ||korydwf.cn^
 ||ktbelts.cn^
 ||kwivb.cn^
+||kzwwamf.cn^
 ||laafrce.cn^
 ||laxnlqn.cn^
 ||leeleo.top^$third-party
@@ -418,6 +424,7 @@
 ||mdi5k.cn^
 ||mfaec.cn^
 ||mffdn.xyz^
+||mfwlis.xyz^
 ||mgowec.xyz^
 ||mhivqcu.cn^
 ||micrhfk.cn^
@@ -447,6 +454,7 @@
 ||ofgysy.xyz^
 ||ohmpyq.xyz^
 ||omhoa.com^
+||opeem.cyou^
 ||oronwg.xyz^
 ||oulibf.xin^
 ||pafcpd.xyz^
@@ -539,6 +547,7 @@
 ||wpiwoo.xyz^
 ||wschao.xyz^
 ||wuge20230104.live^
+||wujiupic.com^
 ||wwnyubs.cn^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
@@ -552,6 +561,7 @@
 ||xkqit.com^
 ||xmmnsl.com^
 ||xrewo.xyz^
+||xryjyfb.cn^
 ||xtpez.xyz^
 ||xxsmcps.com^
 ||xyblm.xyz^
@@ -572,8 +582,10 @@
 ||yunwu.red^
 ||yupphsl.cn^
 ||yuqingby.fun^
+||yuske2.xyz^
 ||yyepa.cyou^
 ||yzgid.cn^
+||z82v0.icu^
 ||zawqwpajq.club^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
@@ -588,10 +600,11 @@
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||mfwlis.xyz^
-||ftrtnr.xyz^
-||xryjyfb.cn^
-||grndhkd.cn^
+||lgugsnp.cn^
+||xibpbov.cn^
+||fdtrjz.xyz^
+||mpymea.xyz^
+||rooby.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -12163,7 +12176,6 @@
 ||zcaijing.com/images/
 ||zdcj.net/html/weibo
 ||zdcj.net^*/ad
-||zdface.com/js/m/zw_banner.js
 ||zdqx.com/statics/v1/images/gif/
 ||zfs.cn/8th/
 ||zhainanba.org/ac/
@@ -12234,7 +12246,7 @@
 ||zzbaike.com/main/host
 ||zzbaike.com/sites/all/themes/zzbaike/images/
 ||zzc.cn/b1/live_b_
-||zzsky.cn/images/a_d_
+||zzsky.com/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||mydrivers.com/img/2005/202112011849.png
