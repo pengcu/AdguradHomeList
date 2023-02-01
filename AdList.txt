@@ -266,6 +266,7 @@
 ||401aww.com^
 ||51gpiao.cn^
 ||51xl.xyz^$third-party
+||5951835ccc.com^
 ||595tuchuang.com^
 ||5r562.cn^
 ||78dfvv.com^
@@ -273,6 +274,7 @@
 ||81xs.xyz^
 ||8499136.com^
 ||8881img.com^
+||8961a.com^
 ||8ccrv.xyz^
 ||98dvu.fun^
 ||9cgms.xyz^
@@ -313,6 +315,7 @@
 ||doubleclicks.biz^
 ||dreanrh.cn^
 ||dxgyl.xyz^
+||dxwyt3p.cn^
 ||e5z14.icu^
 ||e8jp9.com^
 ||ebzqyow.cn^
@@ -323,6 +326,7 @@
 ||fangyaomin.site^
 ||fdbskb.cn^
 ||fds-1230.cc^
+||fdtrjz.xyz^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
 ||forestwo1f.ltd^
@@ -411,6 +415,7 @@
 ||leeleo.top^$third-party
 ||leiersuqd.com^
 ||leiwo.xyz^
+||lgugsnp.cn^
 ||liuye.club^
 ||lmxzlb.xyz^
 ||loispp.com^
@@ -432,6 +437,7 @@
 ||mohretsu.com^
 ||monts.cyou^
 ||moons.cyou^
+||mpymea.xyz^
 ||mqquas.xyz^
 ||mryshl.com^
 ||mvbtp.xyz^
@@ -445,6 +451,7 @@
 ||noiea.xyz^
 ||nonabh.xyz^
 ||nouivjv.cn^
+||nqxvevk.cn^
 ||nuyqiolnc.cyou^
 ||nwrazu.cn^
 ||nykoubk.cn^
@@ -478,10 +485,12 @@
 ||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
+||rayss.host^
 ||rdoybkd.cn^
 ||rebunb.xyz^
 ||renzhongjiaoyu.xyz^
 ||rglctlo.cn^
+||rooby.cyou^
 ||rtcegcp.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
@@ -555,6 +564,7 @@
 ||xbptvaq.cn^
 ||xh33g.net^
 ||xhjxkgc.cn^
+||xibpbov.cn^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xkhall.xyz^
@@ -600,11 +610,6 @@
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||lgugsnp.cn^
-||xibpbov.cn^
-||fdtrjz.xyz^
-||mpymea.xyz^
-||rooby.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -8411,7 +8416,6 @@
 ||90oo.com/tp/msn.jpg
 ||90vs.com:3389/zs_img/.__
 ||90zy.cn/data/attachment/portal/
-||918999.com/xjgg/
 ||91avv8.com/vU18BNDYo1ktVpge.js
 ||91danji.com/attachments/201810/12/10/2hdyj7ut9.jpg
 ||91danji.com/js/lmt.js
@@ -8455,7 +8459,6 @@
 ||9669.cn/jsam/play_
 ||973.com/static/js/pccom.js
 ||98.126.219.*/ads/
-||98441.com^*gg
 ||988aiai.com/static/js/common.js
 ||9906g.com/js/jquery.js
 ||9938.net/video/tvg/footer.js
@@ -9704,7 +9707,6 @@
 ||feesoon.com/js/cnzz_
 ||feijisu5.com/js/huimi-
 ||feizl.com/images/smdd/
-||fenglan.oss-cn-shenzhen.aliyuncs.com^*.gif
 ||fenxiangdashi.com/img/banner/
 ||fenxiangdashi.com/Res/js/detail_
 ||ff.meikanguo.com^
@@ -9845,7 +9847,6 @@
 ||gg86.pinggu.org^
 ||ggcode.2345.com^
 ||ggg*.com/static/js/common.js
-||ggg.zj.com^
 ||ggs.myzaker.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
 ||ggw.gusuwang.com^
@@ -10465,7 +10466,6 @@
 ||jsdelivr.net/gh/supfree/supfree/top.gif
 ||jsdelivr.net/gh/te89899/
 ||jsdelivr.net/gh/vip888vip/*960x80
-||jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||json.cn/js/aliWindow.js
@@ -10637,7 +10637,6 @@
 ||lenovo.com.cn/lenovo/bid?clientType=
 ||lensdump.com/i/*.gif
 ||letv.com/pzt/hyhmzq/index.shtml
-||lezhuan.com/js/spread.js
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
 ||lgmi.com/right_ys
@@ -12172,12 +12171,10 @@
 ||zantj.com/diao
 ||zbjimg.com/static/union/
 ||zc173.com/173fee/
-||zc173.com/pp/
 ||zcaijing.com/images/
 ||zdcj.net/html/weibo
 ||zdcj.net^*/ad
 ||zdqx.com/statics/v1/images/gif/
-||zfs.cn/8th/
 ||zhainanba.org/ac/
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 ||zhaofuli.*/data/content
@@ -12221,7 +12218,6 @@
 ||zol.com.cn/active/*tmall
 ||zol.com.cn/adrs/
 ||zol.com.cn/js/ask/ask.js
-||zolsky.com^*ad/*.js
 ||zongheng.com/upload/hzds/
 ||zongheng.com/upload/recommend/game/
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
@@ -12230,15 +12226,12 @@
 ||zqzq*.com:*/da.aspx
 ||zrblog.net/gg/
 ||zsjjob.com/user/member/google.htm
-||zsnews.cn/js/adControl-
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
 ||zuofang05.com/template/mytheme/statics/image/1/
-||zwwooooo.com/images/hengtian.
-||zxip.com/2013_ad/
 ||zxzjtv.com/slade
 ||zxzjtv.com/t.js
 ||zzbaike.com/main/*-20
@@ -12266,7 +12259,6 @@
 @@||123dhang.com/supo/advertisement.js
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||159i.com/a_d/$media
-@@||16668.*/css/ad.css$stylesheet
 @@||16668tu.com/css/ad.css
 @@||17track.net/www/js/ad.min.js
 @@||182.150.59.104^*/ad.css?$stylesheet
