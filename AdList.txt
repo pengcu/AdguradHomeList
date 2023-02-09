@@ -259,12 +259,14 @@
 ||1129555.com^
 ||1134555.com^
 ||1190555.com^
+||2982a.com^
 ||2aqr.net^
 ||2pwja.cn^
 ||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
 ||3p8801.co^
+||3z7qn.cn^
 ||401aww.com^
 ||4jffu.cn^
 ||51gpiao.cn^
@@ -285,6 +287,7 @@
 ||8ccrv.xyz^
 ||94188.xyz^
 ||98dvu.fun^
+||9bph.top^
 ||9cgms.xyz^
 ||aaaesme.cn^
 ||afdplay.xyz^
@@ -351,6 +354,7 @@
 ||evunmc.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
+||faunaships.com^
 ||fdbskb.cn^
 ||fdgem.com^
 ||fds-1230.cc^
@@ -389,6 +393,7 @@
 ||hfjsbf.xyz^
 ||hhaobcj.cn^
 ||hibaby.ren^
+||hiqrnyn.cn^
 ||hnrjign.cn^
 ||hppmy.cn^
 ||hspffjx.cn^
@@ -445,9 +450,11 @@
 ||kingsun.online^
 ||kiymowg.cn^
 ||kmzayrt.cn^
+||knr1.xyz^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
+||kqwip.cyou^
 ||kscly.com^
 ||ktbelts.cn^
 ||kwivb.cn^
@@ -521,6 +528,7 @@
 ||pddbtn.xyz^
 ||pic123.top^
 ||pj0z5.cn^
+||pkeog.cn^
 ||plyuwqq.cn^
 ||porjjhu.cn^
 ||ppltxv.xyz^
@@ -556,6 +564,7 @@
 ||rooby.cyou^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
+||rthmnj.xyz^
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
@@ -569,9 +578,11 @@
 ||scbt.asia^
 ||scfh9.cn^
 ||scsdcsdcs.top^
+||sdfxv57.com^
 ||shguy.cyou^
 ||shhaiya.com^
 ||shidaiheima.ltd^
+||shikongbb.com^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -582,6 +593,7 @@
 ||ssjiancai.com^
 ||sxakca.xyz^
 ||sycrgc.xyz^
+||sygmtz.com^
 ||t3p58.com^
 ||tanghao.club^
 ||tfbulkidn.com^
@@ -630,6 +642,7 @@
 ||vokmhydy.xyz^
 ||w80n.fun^
 ||waterfairy.xyz^
+||wawqqfg.cn^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
@@ -660,6 +673,7 @@
 ||xrewo.xyz^
 ||xryjyfb.cn^
 ||xtpez.xyz^
+||xxp123.live^
 ||xxsmcps.com^
 ||xyblm.xyz^
 ||xyyejhm.cn^
@@ -669,6 +683,7 @@
 ||yc444.cn^
 ||yemueii.cn^
 ||yffjqvq.cn^
+||yfmhik.xyz^
 ||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhtuchuang.com^
@@ -705,11 +720,16 @@
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||rthmnj.xyz^
-||3z7qn.cn^
-||kqwip.cyou^
-||faunaships.com^
-||yfmhik.xyz^
+||nuiekka.cn^
+||ypoiea.xyz^
+||dvbuxcl.cn^
+||fnkio.cyou^
+||lymtreg.cn^
+||bhpprfk.cn^
+||nxxyjn.com^
+||hndhas.com^
+||rdjnjz.xyz^
+||ybfljs.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -7270,6 +7290,7 @@
 ||d3t3z4teexdk2r.cloudfront.net^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dingbu.bj.bcebos.com^
+||dlads.cn^$third-party
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||drmcmm.baidu.com^
@@ -10684,7 +10705,6 @@
 ||pfp.sina.com.cn^$script,subdocument
 ||pfp.sina.net/ea/ad/
 ||pg-ad-b1.nosdn.127.net^
-||pgcm58.com/files/h5/
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
@@ -10948,6 +10968,7 @@
 ||rjzxw.com/include/
 ||rkanr.com/data/cpcache/cp*.js
 ||rkxy.com.cn/js/text_
+||rltdxt.com/files/h5/
 ||rouman5.com/a2/*.gif
 ||rouman5.com/cps/*.gif
 ||rouman5.com/hlw.jpg
@@ -11866,6 +11887,7 @@
 @@||520call.me/ad/ad_1.php
 @@||520call.me/jspopunder.
 @@||520call.me^$generichide
+@@||520cc.cc/ad/$script
 @@||520cc.cc/ad/ad_1.php
 @@||520cc.cc/api/jspopunder.
 @@||520cc.cc/jspopunder.
@@ -12272,7 +12294,6 @@
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
-@@||pgcm58.com/files/h5/app.js
 @@||photopea.com/ads.js
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piccool.com/2home/phpAdsNew/
@@ -12309,6 +12330,7 @@
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||renfei.net^$generichide
 @@||right.com.cn/forum/*300*250$image
+@@||rltdxt.com/files/h5/app.js
 @@||rmdown.com/ads.js
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
@@ -12404,7 +12426,6 @@
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&
 @@||vast.btrll.com^$domain=hinet.net
 @@||video.520cc.cc/ad.php|
-@@||520cc.cc/ad/$script
 @@||video.520cc.cc^$generichide
 @@||viu.tv^$generichide
 @@||vlist.se/advertisement.js
