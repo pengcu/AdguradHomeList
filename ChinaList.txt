@@ -1565,6 +1565,7 @@
 [/17wclass.com/]10.10.10.1
 [/17weike.com/]10.10.10.1
 [/17wendao.com/]10.10.10.1
+[/17whz.com/]10.10.10.1
 [/17win.com/]10.10.10.1
 [/17ww.cc/]10.10.10.1
 [/17xie.com/]10.10.10.1
@@ -18155,6 +18156,7 @@
 [/digua.com/]10.10.10.1
 [/diguage.com/]10.10.10.1
 [/diguan.wang/]10.10.10.1
+[/diguazu.com/]10.10.10.1
 [/diguobbs.com/]10.10.10.1
 [/dihuikj.com/]10.10.10.1
 [/diiqu.com/]10.10.10.1
@@ -18439,7 +18441,6 @@
 [/dmjtxt.com/]10.10.10.1
 [/dmlei.com/]10.10.10.1
 [/dmm87d.xyz/]10.10.10.1
-[/dmmds.com/]10.10.10.1
 [/dmozdir.org/]10.10.10.1
 [/dmpans.com/]10.10.10.1
 [/dmqst.com/]10.10.10.1
@@ -19961,6 +19962,7 @@
 [/eduzs.net/]10.10.10.1
 [/edward-han.com/]10.10.10.1
 [/edwiv.com/]10.10.10.1
+[/ee-nav.com/]10.10.10.1
 [/ee1234.com/]10.10.10.1
 [/ee68.com/]10.10.10.1
 [/ee8828.com/]10.10.10.1
@@ -35445,6 +35447,7 @@
 [/lingdonghuyu.com/]10.10.10.1
 [/lingdunwang.com/]10.10.10.1
 [/lingduohome.com/]10.10.10.1
+[/lingduzuji.com/]10.10.10.1
 [/lingdz.com/]10.10.10.1
 [/lingfei.wang/]10.10.10.1
 [/lingfengyun.com/]10.10.10.1
@@ -39594,6 +39597,7 @@
 [/nbahjx.com/]10.10.10.1
 [/nbaidai.com/]10.10.10.1
 [/nball.cc/]10.10.10.1
+[/nbalxhf.com/]10.10.10.1
 [/nbaqmq.com/]10.10.10.1
 [/nbayaobasketballclub.com/]10.10.10.1
 [/nbazww.com/]10.10.10.1
@@ -40198,6 +40202,7 @@
 [/nlypx.com/]10.10.10.1
 [/nlzpy.com/]10.10.10.1
 [/nm8yx.com/]10.10.10.1
+[/nmbxd1.com/]10.10.10.1
 [/nmet168.com/]10.10.10.1
 [/nmgchigang.com/]10.10.10.1
 [/nmgd.com/]10.10.10.1
@@ -40791,6 +40796,7 @@
 [/okooo.com/]10.10.10.1
 [/okoooimg.com/]10.10.10.1
 [/okpush.com/]10.10.10.1
+[/okpython.com/]10.10.10.1
 [/okrecovery.com/]10.10.10.1
 [/okskills.com/]10.10.10.1
 [/oksun.com/]10.10.10.1
@@ -49148,7 +49154,6 @@
 [/suqicloud.com/]10.10.10.1
 [/suqishi.com/]10.10.10.1
 [/suqnn.com/]10.10.10.1
-[/surdoc.net/]10.10.10.1
 [/sure56.com/]10.10.10.1
 [/suremotoo.site/]10.10.10.1
 [/surgerycast.com/]10.10.10.1
@@ -55929,6 +55934,7 @@
 [/wufuba.com/]10.10.10.1
 [/wufun.net/]10.10.10.1
 [/wufuquanlawyer.com/]10.10.10.1
+[/wugongdong.com/]10.10.10.1
 [/wuguiyunwei.com/]10.10.10.1
 [/wuguoren.com/]10.10.10.1
 [/wuguyufen.com/]10.10.10.1
@@ -61395,6 +61401,7 @@
 [/yusi.com/]10.10.10.1
 [/yusi.tv/]10.10.10.1
 [/yusi123.com/]10.10.10.1
+[/yutaoyouxi.com/]10.10.10.1
 [/yuteng.site/]10.10.10.1
 [/yutennet.com/]10.10.10.1
 [/yutian.cc/]10.10.10.1
