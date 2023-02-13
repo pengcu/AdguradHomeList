@@ -253,6 +253,7 @@
 ||23.234.217.11^
 ||23.234.217.12^
 ||045zxnm.com^
+||07xm.fun^
 ||0s6s0.top^
 ||0vkkf.cn^
 ||100ytrf.com^
@@ -269,6 +270,7 @@
 ||3p8801.co^
 ||3z7qn.cn^
 ||401aww.com^
+||4iksy.cn^
 ||4jffu.cn^
 ||51gpiao.cn^
 ||51xl.xyz^$third-party
@@ -297,6 +299,7 @@
 ||aishan.shop^
 ||ajkcdpm.cn^
 ||aliyun6969.cn^
+||aliyunsupercdn.com^
 ||aol32.cn^
 ||aqtcw.cn^
 ||aqylmil.cn^
@@ -324,9 +327,11 @@
 ||buttn.cyou^
 ||byzt8.top^
 ||bzdntl.xyz^
+||caomeixz7.xyz^
 ||ccemqe.cn^
 ||cerfbup.xyz^
 ||creawww.top^
+||ctoyb.cyou^
 ||cuwuqo.xyz^
 ||cwpbohx.cn^
 ||damhixs.cn^
@@ -353,6 +358,7 @@
 ||dvrnszf.cn^
 ||dxgyl.xyz^
 ||dxwyt3p.cn^
+||e1jzk.cn^
 ||e5z14.icu^
 ||e8jp9.com^
 ||ealooov.cn^
@@ -413,12 +419,14 @@
 ||hspffjx.cn^
 ||htbdvx.xyz^
 ||hualu.live^
+||hufkzv.xyz^
 ||huifuhuo.com^
 ||huihemou.com^
 ||huijixian.com^
 ||huijizhen.com^
 ||huishij.net^
 ||huisifa.com^
+||huissl.com^
 ||huitoukao.com^
 ||huiyanzhi.com^
 ||huiyelu.com^
@@ -535,6 +543,7 @@
 ||obmpp.com^
 ||ockuc.com^
 ||ofgysy.xyz^
+||ogkfuw.xyz^
 ||ohmpyq.xyz^
 ||omhoa.com^
 ||oocie.cn^
@@ -548,6 +557,7 @@
 ||paradisemall.net^
 ||payoneok.com^
 ||pddbtn.xyz^
+||pgccaoy.cn^
 ||pic123.top^
 ||pj0z5.cn^
 ||pkeog.cn^
@@ -565,6 +575,7 @@
 ||qerbert78.xyz^
 ||qgazysq.cn^
 ||qgermm.xyz^
+||qheoy.cn^
 ||qiegoa.xyz^
 ||qingfengxq.com^
 ||qingganlan.ltd^
@@ -680,6 +691,7 @@
 ||whrgsmi.cn^
 ||wjl58.icu^
 ||wpiwoo.xyz^
+||wqmgqm.xyz^
 ||wschao.xyz^
 ||wuepo.cn^
 ||wuge20230104.live^
@@ -697,11 +709,13 @@
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xkhall.xyz^
+||xkjcpl.cn^
 ||xkqit.com^
 ||xmmnsl.com^
 ||xrewo.xyz^
 ||xryjyfb.cn^
 ||xtpez.xyz^
+||xunren.club^
 ||xxp123.live^
 ||xxsmcps.com^
 ||xyblm.xyz^
@@ -757,11 +771,11 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||ogkfuw.xyz^
-||qheoy.cn^
-||hufkzv.xyz^
-||4iksy.cn^
-||pgccaoy.cn^
+||rardi.cyou^
+||ihmbpow.cn^
+||ccgjmzv.cn^
+||wbe4sp.top^
+||pehlvl.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -8675,6 +8689,7 @@
 ||bp.blogspot.com^$domain=avmimi.com
 ||bp.blogspot.com^*/s1600/dealer
 ||bpimg.com/4851/19f7543667f26682.jpg
+||bqg23.cc/js/hf
 ||bqiapp.com/api/config/ad?
 ||brand.sogou.com/micro?yyid=
 ||bs.baidu.com/app-ads%
@@ -11306,7 +11321,6 @@
 ||szxljdsb.com/tl
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
-||t.cn/RkHfjHk|
 ||t.cn^$domain=28kys.com|92kvip.com
 ||t57.cn/cert.php
 ||taijuba.com/js/*_
@@ -11546,6 +11560,7 @@
 ||wangzhanmeng.com/link/link.html
 ||wanmei.la/a*.js
 ||wanwan.sina.com.cn/third_party/
+||wdff.buzz/hengf.
 ||we560.com/js/*.js
 ||weathercn.com/m_mobile/ad_image/
 ||web.900.la^
@@ -13573,7 +13588,7 @@
 @@||cdn.bootcdn.net^$script,domain=biquav.com
 @@||cdn.bootcss.com^$script,domain=59xs.com|ahzwx.com|biqudd.com|gllmh.com|luoqiuzw.com|shudai.cc|u33.me|xbiqugela.com|xhtxt.cc|xiaoshuwu5.com|ysxs8.vip
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com|yexiashuge.com
-@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xiaoshuo.com|biququ.info|bxwx.tw|feisucn.net|txtnovel.today|yushubo.com|ziyouge.top
+@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xiaoshuo.com|biququ.info|bookbao.me|bxwx.tw|feisucn.net|txtnovel.today|yushubo.com|ziyouge.top
 @@||dnsgom.net/public/$domain=jingwubook.com|xwdsc.com
 @@||jsqsjn.com^$script,domain=fyxfcw.com
 @@||lib.baomitu.com^$domain=meituhe.com
