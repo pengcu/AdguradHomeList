@@ -253,6 +253,7 @@
 ||23.234.217.11^
 ||23.234.217.12^
 ||045zxnm.com^
+||053h94.com^
 ||07xm.fun^
 ||0s6s0.top^
 ||0vkkf.cn^
@@ -342,6 +343,7 @@
 ||creawww.top^
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
+||cwobgp.cn^
 ||cwpbohx.cn^
 ||damhixs.cn^
 ||darzkrx.cn^
@@ -363,6 +365,7 @@
 ||doublechen.online^
 ||doubleclicks.biz^
 ||dreanrh.cn^
+||dtckvpc.cn^
 ||dvbuxcl.cn^
 ||dvrnszf.cn^
 ||dxgyl.xyz^
@@ -373,6 +376,7 @@
 ||ealooov.cn^
 ||ebpu2.top^
 ||ebzqyow.cn^
+||eijriol.cn^
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekqfkk.xyz^
@@ -408,6 +412,7 @@
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||gomhn.cn^
+||goopi.cyou^
 ||grndhkd.cn^
 ||gskbzle.cn^
 ||guge.red^
@@ -521,6 +526,7 @@
 ||looktt.xyz^
 ||lpaehxw.cn^
 ||lpncqju.cn^
+||ltwfd.xyz^
 ||lw0mp.fun^
 ||lwpxhr.xyz^
 ||lymtreg.cn^
@@ -529,6 +535,7 @@
 ||mbepa.xyz^
 ||mbqwwa.cn^
 ||mdi5k.cn^
+||meidd.cyou^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mfwlis.xyz^
@@ -544,6 +551,7 @@
 ||mpymea.xyz^
 ||mqquas.xyz^
 ||mryshl.com^
+||musdga.xyz^
 ||mvbtp.xyz^
 ||mvfrcio.cn^
 ||mzwzo.cn^
@@ -560,6 +568,7 @@
 ||nqhqpq.cn^
 ||nqxvevk.cn^
 ||nuiekka.cn^
+||nuubi.cyou^
 ||nuyqiolnc.cyou^
 ||nwrazu.cn^
 ||nxxyjn.com^
@@ -574,6 +583,7 @@
 ||omhoa.com^
 ||oocie.cn^
 ||opeem.cyou^
+||oqxep.cn^
 ||oronwg.xyz^
 ||oulibf.xin^
 ||owihyg.xyz^
@@ -633,6 +643,7 @@
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
+||rzxov.cn^
 ||s65m.win^
 ||saccac11.com^
 ||sairy.cyou^
@@ -730,6 +741,7 @@
 ||wpiwoo.xyz^
 ||wqmgqm.xyz^
 ||wschao.xyz^
+||wsdof.xyz^
 ||wuepo.cn^
 ||wuge20230104.live^
 ||wujiupic.com^
@@ -746,6 +758,7 @@
 ||xhjxkgc.cn^
 ||xiaohui668.club^
 ||xibpbov.cn^
+||xinllz.xyz^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xkhall.xyz^
@@ -812,14 +825,16 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||musdga.xyz^
-||oqxep.cn^
-||rzxov.cn^
-||nuubi.cyou^
-||goopi.cyou^
-||meidd.cyou^
-||eijriol.cn^
-||xinllz.xyz^
+||s3sng.cn^
+||pcmtf.cn^
+||meueeq.xyz^
+||fspjjp.xyz^
+||allicinarenig.com^
+||travescorylus.com^
+||anaxialaphonia.com^
+||wooledswards.com^
+||5takaitu.xyz^
+||peoir.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -10240,7 +10255,7 @@
 ||kiees.cn/jm.png
 ||kiees.cn/k1.js
 ||kikinote.net/iframe
-||killcovid2021.com/thumb/*.mp4
+||killcovid2021.com^*.mp4
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwi8.top/media/plugins/jquery_confirm/
