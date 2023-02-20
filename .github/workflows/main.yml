@@ -24,7 +24,7 @@ jobs:
       run: |
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./ChinaList.conf > ./ChinaList.txt
         echo "10.10.10.11" >> ./ChinaList.txt
-        cat ./Custom.txt >> ./GFWList.txt
+        cat ./Custom.txt >> ./GFW.txt
         sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./GFW.txt > ./GFWList.txt
         echo "10.10.10.1" >> ./GFWList.txt
         grep '||' ./AdguardHome.txt > ./AdList.txt
