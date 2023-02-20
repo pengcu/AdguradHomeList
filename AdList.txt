@@ -877,6 +877,9 @@
 ||handuwangluo.top^
 ||mxj.cx^
 ||boodi.cyou^
+||keshidianhua.xyz^
+||rdnucrn.cn^
+||fujifood.hk^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -7568,8 +7571,6 @@
 ||027cgb.com^*.gif
 ||02wq.com/script/
 ||02wq.com/script1/
-||0379home.com/public/js/ad_pic.js
-||0379home.com/public/js/beside.js
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=classify
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=topslide
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=zhuangx
@@ -7585,14 +7586,11 @@
 ||0598yu.com/api.php?mod=ad&
 ||0606kk.com/js/index/index.js
 ||0668gz.com/data/attachment/portal/
-||0712fang.com/Public/js/cf_flash.js
 ||0722fc.com/index/index.php?/ajax/get_adv/
 ||0722fc.com/index/tools/js.php
 ||073img.com/*/|
 ||073img.com^$subdocument
 ||0758net.com/data/attachment/portal/
-||0772fang.com/assets/js/lffoi.js
-||0772fang.com/assets/js/Newhouse/inserAds.js
 ||07908.com/images/
 ||0kkbb.com/js/i.js
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
