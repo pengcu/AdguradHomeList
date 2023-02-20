@@ -6132,4 +6132,5 @@
 [/zzcartoon.com/]10.10.10.11
 [/zzcloud.me/]10.10.10.11
 [/zzux.com/]10.10.10.11
+[/appstorrent.ru/]10.10.10.11
 10.10.10.1
