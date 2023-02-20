@@ -17,12 +17,15 @@ jobs:
     - name: Fetch files
       run: |
         curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > ./ChinaList.conf
+        curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt > ./GFW.txt
         curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdguardHome.txt
         
     - name: Format & Custom
       run: |
         sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./ChinaList.conf > ./ChinaList.txt
         echo "10.10.10.11" >> ./ChinaList.txt
+        sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./GFW.txt > ./GFWList.txt
+        echo "10.10.10.1" >> ./GFWList.txt
         grep '||' ./AdguardHome.txt > ./AdList.txt
         
     - name: Push commit
