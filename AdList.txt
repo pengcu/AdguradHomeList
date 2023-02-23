@@ -237,6 +237,8 @@
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
+||nunuyingyuan.com/serviceworker.js^$script
+||dandanzan.cf/serviceworker.js^$script
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
@@ -261,9 +263,11 @@
 ||109218er.xyz^
 ||1129555.com^
 ||1134555.com^
+||1170555.com^
 ||1190555.com^
 ||1368999.com^
 ||199aaa.us^
+||228tuchuang.com^
 ||2982a.com^
 ||2aqr.net^
 ||2hfby.top^
@@ -303,14 +307,17 @@
 ||98dvu.fun^
 ||9bph.top^
 ||9cgms.xyz^
+||9f11.win^
 ||aaaesme.cn^
 ||afdplay.xyz^
+||afx001.pw^
 ||ahclyq.xyz^
 ||ahwiaw.xyz^
 ||aifwjekfe.xyz^
 ||aishan.shop^
 ||ajfkwwpo.xyz^
 ||ajkcdpm.cn^
+||akdashang.vip^
 ||albertabelen.com^
 ||aliyun6969.cn^
 ||aliyunsupercdn.com^
@@ -344,6 +351,7 @@
 ||bqtwbx.xyz^
 ||bridalplums.com^
 ||brkxgfs.cn^
+||bs7li.cn^
 ||butaeit.cn^
 ||buttn.cyou^
 ||byzt8.top^
@@ -373,6 +381,7 @@
 ||dfdaaa12.com^
 ||dfepm.xyz^
 ||dfghaqea.xyz^
+||dfhdsi.cc^
 ||dfsd22.com^
 ||dfvvx58.com^
 ||dfzv25.com^
@@ -380,6 +389,7 @@
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
+||dqzirj.xyz^
 ||dreanrh.cn^
 ||dsfd67.com^
 ||dtckvpc.cn^
@@ -495,6 +505,7 @@
 ||ijvzmua.cn^
 ||ikbgika.cn^
 ||ikbhgj.cn^
+||iknwqdpo.xyz^
 ||imassg.xyz^
 ||inkuae.com^
 ||inscan.cn^
@@ -527,6 +538,7 @@
 ||k34jj.xyz^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
+||kcedmk.xyz^
 ||keoap.xyz^
 ||keshidianhua.xyz^
 ||keysmw.xyz^
@@ -574,6 +586,7 @@
 ||mbepa.xyz^
 ||mbqwwa.cn^
 ||mdi5k.cn^
+||mecop.cyou^
 ||meidd.cyou^
 ||meueeq.xyz^
 ||mfaec.cn^
@@ -589,6 +602,7 @@
 ||moons.cyou^
 ||mprjoat.cn^
 ||mpymea.xyz^
+||mq65.top^
 ||mqquas.xyz^
 ||mryshl.com^
 ||musdga.xyz^
@@ -596,6 +610,7 @@
 ||mvfrcio.cn^
 ||mxj.cx^
 ||mzwzo.cn^
+||n0644.com^
 ||ncrkff.xyz^
 ||ncvkzz.cn^
 ||neaqi.top^
@@ -693,6 +708,7 @@
 ||renzhongjiaoyu.xyz^
 ||resumes.ren^
 ||rglctlo.cn^
+||rikqo.cc^
 ||rooby.cyou^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
@@ -731,6 +747,7 @@
 ||srnov.top^
 ||ssjiancai.com^
 ||suyuhao233.xyz^
+||swill.icu^
 ||sxakca.xyz^
 ||sycrgc.xyz^
 ||sygmtz.com^
@@ -762,6 +779,7 @@
 ||u22066.com^
 ||u22077.com^
 ||u22088.com^
+||u22099.com^
 ||u23011.com^
 ||u23022.com^
 ||u23033.com^
@@ -789,6 +807,7 @@
 ||vilki.cn^
 ||viope.cyou^
 ||vokmhydy.xyz^
+||vw66i.top^
 ||vwvjzd.xyz^
 ||vykeavz.cn^
 ||w80n.fun^
@@ -870,6 +889,7 @@
 ||yurti.cyou^
 ||yuske2.xyz^
 ||yyepa.cyou^
+||yyrgz.cn^
 ||yzgid.cn^
 ||z4a.net^
 ||z82v0.icu^
@@ -896,12 +916,11 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||mecop.cyou^
-||akdashang.vip^
-||dqzirj.xyz^
-||kcedmk.xyz^
-||vw66i.top^
-||bs7li.cn^
+||jgqub.cn^
+||labgpz.xyz^
+||lbk7p.cn^
+||smgbka.xyz^
+||bhulgot.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -13642,6 +13661,7 @@
 ||bxwxorg.com/ui/vue/element.
 ||clewxc.com/xd3/
 ||cn3k5.com/images/*.js
+||cn3k5.com/requestData.
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||dabizi.net/images/pcad.png
 ||disixs.com/js/app_wap.
