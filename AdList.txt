@@ -340,6 +340,7 @@
 ||bharalhallahs.com^
 ||bhduan.xyz^
 ||bhpprfk.cn^
+||bhulgot.com^
 ||bitu.fun^
 ||bjdqxt.com^
 ||bkisss.com^
@@ -369,6 +370,7 @@
 ||cuwuqo.xyz^
 ||cwobgp.cn^
 ||cwpbohx.cn^
+||dagamemisdeed.com^
 ||damhixs.cn^
 ||darzkrx.cn^
 ||daspic.top^
@@ -386,6 +388,7 @@
 ||dfvvx58.com^
 ||dfzv25.com^
 ||dgozp.com^
+||dhl4.xyz^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
@@ -449,6 +452,7 @@
 ||gskbzle.cn^
 ||guangdongtaiji.com^
 ||guge.red^
+||guode.cyou^
 ||guuds.cyou^
 ||guyu8855.club^
 ||gvqrclx.cn^
@@ -519,6 +523,7 @@
 ||jbuzacg.cn^
 ||jcvty.cyou^
 ||jfmfmgj.cn^
+||jgqub.cn^
 ||jike001.top^
 ||jinkens.fun^
 ||jishiben.info^
@@ -558,8 +563,10 @@
 ||kzeqq.com^
 ||kzwwamf.cn^
 ||laafrce.cn^
+||labgpz.xyz^
 ||larbcc.xyz^
 ||laxnlqn.cn^
+||lbk7p.cn^
 ||leeleo.top^$third-party
 ||leiersuqd.com^
 ||leiwo.xyz^
@@ -610,12 +617,15 @@
 ||mvfrcio.cn^
 ||mxj.cx^
 ||mzwzo.cn^
+||n0544.com^
 ||n0644.com^
+||nccaer.xyz^
 ||ncrkff.xyz^
 ||ncvkzz.cn^
 ||neaqi.top^
 ||nehcqko.cn^
 ||neipa.xyz^
+||nexyzh.com^
 ||nhjwh.com^
 ||nissifresh.com^
 ||njslx.cn^
@@ -671,6 +681,7 @@
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||ps123.online^
+||pwcuu.cn^
 ||pxrs6.cn^
 ||qanduan.com^
 ||qaou.top^
@@ -732,6 +743,7 @@
 ||sdfv66.com^
 ||sdfxv57.com^
 ||seaflame.xyz^
+||sheena.ltd^
 ||shguy.cyou^
 ||shhaiya.com^
 ||shidaiheima.ltd^
@@ -742,6 +754,7 @@
 ||skiyvwu.cn^
 ||skzlz.cn^
 ||slowbeat.fun^
+||smgbka.xyz^
 ||soqikbe.cn^
 ||soulsoul.xyz^
 ||srnov.top^
@@ -891,11 +904,11 @@
 ||yyepa.cyou^
 ||yyrgz.cn^
 ||yzgid.cn^
-||z4a.net^
 ||z82v0.icu^
 ||zawqwpajq.club^
 ||zax01.com^
 ||zbc6hyepls.xyz^
+||zcck60eqyw.world^
 ||zczcvx.com^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
@@ -916,11 +929,11 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||jgqub.cn^
-||labgpz.xyz^
-||lbk7p.cn^
-||smgbka.xyz^
-||bhulgot.com^
+||swicgq.xyz^
+||zchkz.cn^
+||qunaw.cyou^
+||o0pvw.cn^
+||lkdhlp.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -11958,6 +11971,7 @@
 ||yzs.com/d/file/2020/06/21/5358e14b4556663a91f145f0635f95de.jpg
 ||yzz.cn/global_gg/
 ||z.nowscore.com^
+||z4a.net^*/960x
 ||zantj.com/diao
 ||zbjimg.com/static/union/
 ||zc173.com/173fee/
@@ -12272,6 +12286,7 @@
 @@||edgesuite.net^*/ad.css?
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
+@@||ekamus.info^$generichide
 @@||elife-cloud.blogspot.com^$generichide
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emome.net/files/advertising/
@@ -12470,7 +12485,7 @@
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
