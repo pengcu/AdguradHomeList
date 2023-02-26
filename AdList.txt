@@ -266,6 +266,7 @@
 ||1170555.com^
 ||1190555.com^
 ||1368999.com^
+||188aaa.us^
 ||199aaa.us^
 ||1kanz.cn^
 ||228tuchuang.com^
@@ -298,8 +299,11 @@
 ||78dfvv.com^
 ||7d108.cn^
 ||7nekc.icu^
+||7t56.com^
 ||81xs.xyz^
 ||8499136.com^
+||8499223.com^
+||8499234.com^
 ||8881img.com^
 ||8886i.top^
 ||8961a.com^
@@ -312,6 +316,7 @@
 ||aaaesme.cn^
 ||afdplay.xyz^
 ||afx001.pw^
+||agkacg.xyz^
 ||ahclyq.xyz^
 ||ahwiaw.xyz^
 ||aifwjekfe.xyz^
@@ -319,6 +324,7 @@
 ||ajfkwwpo.xyz^
 ||ajkcdpm.cn^
 ||akdashang.vip^
+||akh2o.cn^
 ||albertabelen.com^
 ||aliyun6969.cn^
 ||aliyunsupercdn.com^
@@ -328,6 +334,7 @@
 ||aqtcw.cn^
 ||aqylmil.cn^
 ||arejug.xyz^
+||asdffe22.com^
 ||asoeasy.cn^
 ||aswtai.xyz^
 ||atuhi.cyou^
@@ -361,6 +368,7 @@
 ||caomeixz7.xyz^
 ||ccemqe.cn^
 ||ccgjmzv.cn^
+||cdn-xinghuatupian-cdn.com^
 ||cerfbup.xyz^
 ||chumeng.link^
 ||ciaeue.xyz^
@@ -416,6 +424,8 @@
 ||etkht.cn^
 ||evunmc.xyz^
 ||ewmvim.xyz^
+||ewrwf.com^
+||ezfxpuo.cn^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
 ||faunaships.com^
@@ -521,6 +531,7 @@
 ||irygym.xyz^
 ||isuiguk.cn^
 ||ituxzez.cn^
+||iugbjkqwc.xyz^
 ||iwjgwis.cn^
 ||ixelcpo.cn^
 ||jbuzacg.cn^
@@ -657,6 +668,7 @@
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
 ||okmwfq.xyz^
+||okwa.top^
 ||okwg.top^
 ||omhoa.com^
 ||oocie.cn^
@@ -792,12 +804,14 @@
 ||travescorylus.com^
 ||ttzhongbao.com^
 ||tuape.xyz^
+||tuffhf.xyz^
 ||tuyqiolni.cyou^
 ||tvxqdp.xyz^
 ||twn2e.cn^
 ||txtcw.cn^
 ||tzsvodu.cn^
 ||u1011.com^
+||u1033.com^
 ||u22011.com^
 ||u22033.com^
 ||u22055.com^
@@ -868,7 +882,9 @@
 ||xh33g.net^
 ||xhjxkgc.cn^
 ||xiaohui668.club^
+||xiaolj.xyz^
 ||xibpbov.cn^
+||xiehao.me^
 ||xingyou70.asia^
 ||xinllz.xyz^
 ||xinnianqinggan.xyz^
@@ -878,6 +894,7 @@
 ||xkjcpl.cn^
 ||xkqit.com^
 ||xmmnsl.com^
+||xopew.cyou^
 ||xrewo.xyz^
 ||xryjyfb.cn^
 ||xtpez.xyz^
@@ -942,11 +959,15 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||xiehao.me^
-||xopew.cyou^
-||agkacg.xyz^
-||akh2o.cn^
-||tuffhf.xyz^
+||tehgfn.xyz^
+||mori.ink^
+||xihongshi.love^
+||coope.cyou^
+||iqmbao.xyz^
+||okwa.top^
+||cnshiw2.com^
+||asdffe22.com^
+||xiaolj.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
