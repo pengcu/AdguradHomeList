@@ -279,7 +279,6 @@
 ||2hfby.top^
 ||2pwja.cn^
 ||2r6.cn^
-||328888.xyz^
 ||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
@@ -319,6 +318,8 @@
 ||9bph.top^
 ||9cgms.xyz^
 ||9f11.win^
+||9fh6m.cn^
+||a-ads.com^
 ||aaaesme.cn^
 ||afdplay.xyz^
 ||afx001.pw^
@@ -437,6 +438,7 @@
 ||ewmvim.xyz^
 ||ewrwf.com^
 ||ezfxpuo.cn^
+||f9s6.top^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
 ||faunaships.com^
@@ -692,6 +694,7 @@
 ||ohmpyq.xyz^
 ||okew.top^
 ||okmwfq.xyz^
+||okod.top^
 ||okoy.top^
 ||okwa.top^
 ||okwg.top^
@@ -713,13 +716,16 @@
 ||payoneok.com^
 ||pcmtf.cn^
 ||pddbtn.xyz^
+||pe5a.top^
 ||pehlvl.xyz^
 ||peoir.cyou^
 ||pgccaoy.cn^
 ||pic123.top^
+||pigwin.net^
 ||pj0z5.cn^
 ||pkeog.cn^
 ||plyuwqq.cn^
+||poeid.cyou^
 ||pojjtt.xyz^
 ||polkmerty.xyz^
 ||porjjhu.cn^
@@ -740,12 +746,14 @@
 ||qgazysq.cn^
 ||qgermm.xyz^
 ||qheoy.cn^
+||qianbaobbs.net^
 ||qiegoa.xyz^
 ||qingfengxq.com^
 ||qingganlan.ltd^
 ||qinkuai.top^
 ||qitou20230204.live^
 ||qkoio.cyou^
+||qkqasu.xyz^
 ||qliiom.xyz^
 ||qnfvojfkw.xyz^
 ||qsezjy.cn^
@@ -814,12 +822,14 @@
 ||sxakca.xyz^
 ||sycrgc.xyz^
 ||sygmtz.com^
+||szsxy.vip^
 ||t3p58.com^
 ||tanghao.club^
 ||tehgfn.xyz^
 ||tfbulkidn.com^
 ||tfzozf.xyz^
 ||tg0qu.top^
+||tgktw.xyz^
 ||tgryfh.xyz^
 ||theads.xyz^
 ||thlnbzi.cn^
@@ -897,6 +907,7 @@
 ||wpiwoo.xyz^
 ||wqmgqm.xyz^
 ||wschao.xyz^
+||wsdd11.com^
 ||wsdof.xyz^
 ||wuepo.cn^
 ||wuge20230104.live^
@@ -995,11 +1006,8 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||poeid.cyou^
-||9fh6m.cn^
-||pigwin.net^
-||qkqasu.xyz^
-||pe5a.top^
+||xnrcnz.xyz^
+||ezwxia.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -10269,6 +10277,7 @@
 ||jinriguanzhu.cc^$domain=cgfdjz.net
 ||jinti.com^*/aspx/*gg
 ||jinyici.com/qq.js
+||jishulink.com/jishulink/searching/ad/get?
 ||jishuqq.com/images/haodian.gif
 ||jishuqq.com/wadsb.gif
 ||jishuyl.com/_skins/*/ad_
@@ -12113,6 +12122,7 @@
 ||zzsky.com/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||mestrip.com/widgets/
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
