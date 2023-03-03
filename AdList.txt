@@ -413,6 +413,7 @@
 ||dfzv25.com^
 ||dgozp.com^
 ||dhl4.xyz^
+||diqizu.xyz^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
@@ -431,10 +432,12 @@
 ||ebpu2.top^
 ||ebzqyow.cn^
 ||eijriol.cn^
+||ejyvgq.xyz^
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekqfkk.xyz^
 ||elsmom.xyz^
+||ermao20230220.live^
 ||etkht.cn^
 ||evunmc.xyz^
 ||ewmvim.xyz^
@@ -534,6 +537,8 @@
 ||iaozwe.xyz^
 ||ibgksw.xyz^
 ||ibjkafefertt.xyz^
+||ibjkdwsdko.com^
+||ibqswjdkpo.com^
 ||icentos.info^
 ||icyrwy.xyz^
 ||idkqtaa.cn^
@@ -562,6 +567,7 @@
 ||jdnlynb.cn^
 ||jfmfmgj.cn^
 ||jgqub.cn^
+||jiape.cyou^
 ||jike001.top^
 ||jinkens.fun^
 ||jishiben.info^
@@ -580,6 +586,7 @@
 ||jzzuwdn.cn^
 ||k0lksy.xyz^
 ||k34jj.xyz^
+||katynplum.ltd^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
 ||kcedmk.xyz^
@@ -698,6 +705,7 @@
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
 ||oiqdjksgpo.com^
+||okag.top^
 ||okew.top^
 ||okmwfq.xyz^
 ||okoc.top^
@@ -727,6 +735,7 @@
 ||pehlvl.xyz^
 ||peoir.cyou^
 ||pgccaoy.cn^
+||pgrjxpd.cn^
 ||pic123.top^
 ||pigwin.net^
 ||pj0z5.cn^
@@ -856,6 +865,7 @@
 ||tvxqdp.xyz^
 ||twn2e.cn^
 ||txtcw.cn^
+||ty-baidu.xyz^
 ||tzsvodu.cn^
 ||u1011.com^
 ||u1033.com^
@@ -872,6 +882,7 @@
 ||u23055.com^
 ||u25011.com^
 ||u25022.com^
+||u33011.com^
 ||u644.fun^
 ||u66099.com^
 ||uasvyi.xyz^
@@ -959,6 +970,7 @@
 ||xunren.club^
 ||xxp123.live^
 ||xxsmcps.com^
+||xxtalp.xyz^
 ||xyblm.xyz^
 ||xylkpj.xyz^
 ||xyyejhm.cn^
@@ -1018,12 +1030,17 @@
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||diqizu.xyz^
-||pgrjxpd.cn^
-||ejyvgq.xyz^
-||jiape.cyou^
-||xxtalp.xyz^
-||ibqswjdkpo.com^
+||lelouch.tech^
+||mtawcy.xyz^
+||qponfva.cn^
+||fhvbhx.xyz^
+||wanyi.pw^
+||fhvbhx.xyz^
+||ebten.xyz^
+||ewahj.cyou^
+||jqueryboots.com^
+||1203555.com^
+||996000996.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -8371,6 +8388,7 @@
 ||9duw.com/js/sj
 ||9duw.com/pic/
 ||9ez.me/embd.php?type=
+||9fum.ifeng.com^
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9jsp.com/pay.png
@@ -12139,7 +12157,13 @@
 ||zzsky.com/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||supfree.net/baotu.
+||achost.top/banner/
+||itxueyuan.com^*.mp4
+||itxueyuan.com/advPicture/
+||zztongyun.com/static/js/sh.
 ||mydrivers.com/img/2005/202112011849.png
+@@||996000996.xyz/ga/adview_
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
