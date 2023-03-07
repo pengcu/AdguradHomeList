@@ -9652,6 +9652,7 @@
 [/bangdao-tech.com/]10.10.10.1
 [/banggo.com/]10.10.10.1
 [/banghaiwai.com/]10.10.10.1
+[/bangjixia.com/]10.10.10.1
 [/bangkao.com/]10.10.10.1
 [/bangkebao.com/]10.10.10.1
 [/banglianai.com/]10.10.10.1
@@ -13116,6 +13117,7 @@
 [/cha-tm.com/]10.10.10.1
 [/cha001.com/]10.10.10.1
 [/cha127.com/]10.10.10.1
+[/cha138.com/]10.10.10.1
 [/chabeichong.com/]10.10.10.1
 [/chachaba.com/]10.10.10.1
 [/chachaqu.com/]10.10.10.1
@@ -16332,6 +16334,7 @@
 [/cshixi.com/]10.10.10.1
 [/cshnkj.com/]10.10.10.1
 [/cshope.net/]10.10.10.1
+[/cshuandu.com/]10.10.10.1
 [/cshufanyi.com/]10.10.10.1
 [/cshxdc.com/]10.10.10.1
 [/cshyqx.com/]10.10.10.1
@@ -17296,7 +17299,6 @@
 [/dawnlab.me/]10.10.10.1
 [/dawnled.net/]10.10.10.1
 [/dawuhanapp.com/]10.10.10.1
-[/dawuxia.net/]10.10.10.1
 [/dawx.com/]10.10.10.1
 [/dawx.net/]10.10.10.1
 [/daxi.com/]10.10.10.1
@@ -22636,6 +22638,7 @@
 [/gansuairport.com/]10.10.10.1
 [/gansunet.com/]10.10.10.1
 [/gansuyunshi.com/]10.10.10.1
+[/gantanhao.vip/]10.10.10.1
 [/ganxi666.com/]10.10.10.1
 [/ganxianw.com/]10.10.10.1
 [/ganxianzhi.win/]10.10.10.1
@@ -28155,7 +28158,6 @@
 [/hzwsjyjt.com/]10.10.10.1
 [/hzwtech.com/]10.10.10.1
 [/hzwxq.com/]10.10.10.1
-[/hzwyh.com/]10.10.10.1
 [/hzxhymc.com/]10.10.10.1
 [/hzxiaobao.com/]10.10.10.1
 [/hzxiyuege.com/]10.10.10.1
@@ -38741,9 +38743,7 @@
 [/mrqf.com/]10.10.10.1
 [/mrsta.com/]10.10.10.1
 [/mrsu.me/]10.10.10.1
-[/mrtbc.com/]10.10.10.1
 [/mrw.so/]10.10.10.1
-[/mrwfbk.bar/]10.10.10.1
 [/mrwish.net/]10.10.10.1
 [/mrzhenggang.com/]10.10.10.1
 [/mrzl.com/]10.10.10.1
@@ -42629,6 +42629,7 @@
 [/pythondoc.com/]10.10.10.1
 [/pythoner.com/]10.10.10.1
 [/pythonheidong.com/]10.10.10.1
+[/pythonke.com/]10.10.10.1
 [/pythonpub.com/]10.10.10.1
 [/pythontab.com/]10.10.10.1
 [/pythontip.com/]10.10.10.1
@@ -43208,6 +43209,7 @@
 [/qimingvc.com/]10.10.10.1
 [/qimingventures.com/]10.10.10.1
 [/qimingzi.net/]10.10.10.1
+[/qiminzi.com/]10.10.10.1
 [/qimo.biz/]10.10.10.1
 [/qimodesign.com/]10.10.10.1
 [/qimser.com/]10.10.10.1
@@ -46191,7 +46193,6 @@
 [/shangdandan.com/]10.10.10.1
 [/shangdaotong.com/]10.10.10.1
 [/shangdiguo.com/]10.10.10.1
-[/shangdingxin.com/]10.10.10.1
 [/shangdixinxi.com/]10.10.10.1
 [/shangdu.com/]10.10.10.1
 [/shangdu.info/]10.10.10.1
@@ -47571,7 +47572,6 @@
 [/sjhl.cc/]10.10.10.1
 [/sjhy.net/]10.10.10.1
 [/sjjob88.com/]10.10.10.1
-[/sjkhsl.fun/]10.10.10.1
 [/sjlqgg.com/]10.10.10.1
 [/sjm.life/]10.10.10.1
 [/sjmdh.com/]10.10.10.1
@@ -52180,6 +52180,7 @@
 [/uclmjs.com/]10.10.10.1
 [/ucloudgda.com/]10.10.10.1
 [/ucloudnaming.info/]10.10.10.1
+[/uclouds3.com/]10.10.10.1
 [/ucly.net/]10.10.10.1
 [/ucnaming.com/]10.10.10.1
 [/ucnano.com/]10.10.10.1
@@ -54280,6 +54281,7 @@
 [/weisiliang.com/]10.10.10.1
 [/weismarts.com/]10.10.10.1
 [/weistang.com/]10.10.10.1
+[/weisurvey.com/]10.10.10.1
 [/weisuyun.com/]10.10.10.1
 [/weitehui.com/]10.10.10.1
 [/weitiaozhuan.com/]10.10.10.1
@@ -58567,6 +58569,7 @@
 [/xymcp3.com/]10.10.10.1
 [/xymens.com/]10.10.10.1
 [/xymfqb.com/]10.10.10.1
+[/xymlcs.com/]10.10.10.1
 [/xymvip.com/]10.10.10.1
 [/xynbnb.com/]10.10.10.1
 [/xyniubi.com/]10.10.10.1
