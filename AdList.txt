@@ -255,6 +255,7 @@
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+||003aldjads.xyz^
 ||045zxnm.com^
 ||053h94.com^
 ||07xm.fun^
@@ -303,8 +304,10 @@
 ||5r562.cn^
 ||5takaitu.xyz^
 ||65oml.cn^
+||6617398ccc.com^
 ||6888i.top^
 ||688aaa.us^
+||7162a.com^
 ||78dfvv.com^
 ||7d108.cn^
 ||7nekc.icu^
@@ -425,6 +428,7 @@
 ||dbtojr.xyz^
 ||ddqhnjb.cn^
 ||dedcrfvdj.xyz^
+||dengtao.link^
 ||deude.ltd^
 ||df-long.cn^$third-party
 ||dfadas13.com^
@@ -499,6 +503,7 @@
 ||ftrtnr.xyz^
 ||fujbjb.xyz^
 ||fujifood.hk^
+||fujoe.cyou^
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
 ||fzbkgni.cn^
@@ -572,6 +577,7 @@
 ||huiyueting.com^
 ||hvhudp.xyz^
 ||hzcp.fun^
+||hzhuang.wang^
 ||i-fk.cn^
 ||iaozwe.xyz^
 ||iauto.wang^
@@ -590,6 +596,7 @@
 ||ikbgika.cn^
 ||ikbhgj.cn^
 ||iknwqdpo.xyz^
+||imageshh.com^
 ||imassg.xyz^
 ||inkuae.com^
 ||inscan.cn^
@@ -633,6 +640,7 @@
 ||jzzuwdn.cn^
 ||k0lksy.xyz^
 ||k34jj.xyz^
+||kalongyyds.com^
 ||katynplum.ltd^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
@@ -663,7 +671,6 @@
 ||larbcc.xyz^
 ||laxnlqn.cn^
 ||lbk7p.cn^
-||ldmnq.com^$third-party
 ||leeleo.top^$third-party
 ||leiersuqd.com^
 ||leiwo.xyz^
@@ -690,6 +697,7 @@
 ||lwpxhr.xyz^
 ||lwz.hk^
 ||lymtreg.cn^
+||lzzzjx.xyz^
 ||m6ku1.cn^
 ||maccms10.cn^
 ||mbepa.xyz^
@@ -701,6 +709,7 @@
 ||meueeq.xyz^
 ||mfaec.cn^
 ||mffdn.xyz^
+||mfjiaoyu.cn^
 ||mfwlis.xyz^
 ||mgowec.xyz^
 ||mhivqcu.cn^
@@ -809,6 +818,7 @@
 ||pojjtt.xyz^
 ||polkkqm.com^
 ||polkmerty.xyz^
+||poqoiwn.com^
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||pqjprom.cn^
@@ -837,6 +847,7 @@
 ||qingfengxq.com^
 ||qingganlan.ltd^
 ||qinkuai.top^
+||qist.me^
 ||qitou20230204.live^
 ||qkoio.cyou^
 ||qkqasu.xyz^
@@ -901,6 +912,7 @@
 ||sixarwr.cn^
 ||skiyvwu.cn^
 ||skzlz.cn^
+||sleuey.xyz^
 ||slfindmarket.live^
 ||slowbeat.fun^
 ||smgbka.xyz^
@@ -914,6 +926,7 @@
 ||swill.icu^
 ||sxakca.xyz^
 ||sycrgc.xyz^
+||syfl.ltd^
 ||sygmtz.com^
 ||szsxy.vip^
 ||t3p58.com^
@@ -966,6 +979,7 @@
 ||uasvyi.xyz^
 ||udifvi.cn^
 ||ufynxmf.cn^
+||uibjhqwkl.com^
 ||ukutuy.xyz^
 ||unevwe.xyz^
 ||uniway.cn.com^
@@ -1062,6 +1076,7 @@
 ||xxsmcps.com^
 ||xxtalp.xyz^
 ||xyblm.xyz^
+||xyh001.com^
 ||xylkpj.xyz^
 ||xyyejhm.cn^
 ||xznrtl.xyz^
@@ -1100,6 +1115,7 @@
 ||zax01.com^
 ||zbc6hyepls.xyz^
 ||zcck60eqyw.world^
+||zcczrvsaqw.world^
 ||zchkz.cn^
 ||zczcvx.com^
 ||zdreo.cyou^
@@ -1122,13 +1138,12 @@
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
-||qist.me^
-||sleuey.xyz^
-||lzzzjx.xyz^
-||fujoe.cyou^
-||uibjhqwkl.com^
-||poqoiwn.com^
-||kalongyyds.com^
+||1996faka.cn^
+||tjbxhn.xyz^
+||avgsco.xyz^
+||qiabayyds.com^
+||jh001.cc^
+||dcvbnzss.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -8225,6 +8240,7 @@
 ||bf99.com/User/Images/bg_Blued.jpg
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bian-min.com/javascript/a/detail.js
+||biancheng.net/uploads/ggxc/
 ||bianzhirensheng.com/img/banner.jpg
 ||bianzhirensheng.com/img/bianzhiji.jpg
 ||biaoge.tv/fa
@@ -9870,6 +9886,7 @@
 ||lcxw.cn/i/*dl.js
 ||ld0766.com/*20*a/
 ||ldb.cc/js/top.js
+||ldmnq.com/bbs/$third-party
 ||lecai.com/page/zhuanti/baidu/
 ||leiphone.com/uploads/new/category/pic/*/740x140/
 ||leju.com/abp/cmslead_new.v2.js
@@ -11380,6 +11397,7 @@
 ||youtube.com/iframe_api$domain=nownews.com
 ||youxi.baidu.com/tips/bdtips_min.js
 ||youyiya.com/Tpl/mobile/js/you
+||youzhan.org/img/aliyun-
 ||yrr56.com/mp4/pt_720.
 ||ysapp20.xyz/slf120.
 ||ysapp20.xyz^*.gif
