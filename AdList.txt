@@ -352,6 +352,7 @@
 ||aijilu.xyz^
 ||aishan.shop^
 ||aizhubo.co^
+||ajcnz1.com^
 ||ajfkwwpo.xyz^
 ||ajkcdpm.cn^
 ||akdashang.vip^
@@ -421,6 +422,7 @@
 ||ciaeue.xyz^
 ||cifzuqopdpzi.com^
 ||cj-sys.club^
+||clqrdxc.cn^
 ||cnredg.xyz^
 ||cnshiw2.com^
 ||coope.cyou^
@@ -518,6 +520,7 @@
 ||fnkio.cyou^
 ||forestwo1f.ltd^
 ||fqla.top^
+||franchiseworld.hk^
 ||frpns.com^
 ||frxcdn.xyz^
 ||fspjjp.xyz^
@@ -569,6 +572,7 @@
 ||heqinyyds.com^
 ||hertzbeat.cn^
 ||hevuabv.cn^
+||heytapimage.com^$third-party
 ||hfjsbf.xyz^
 ||hgsly.buzz^
 ||hhaobcj.cn^
@@ -577,6 +581,7 @@
 ||hiqrnyn.cn^
 ||hkbzl.hk^
 ||hladalliance.com^
+||hlggimg.com^
 ||hmpubc.xyz^
 ||hndhas.com^
 ||hnrjign.cn^
@@ -649,6 +654,7 @@
 ||jfmfmgj.cn^
 ||jgqub.cn^
 ||jh001.cc^
+||jiangzhou.ltd^
 ||jiape.cyou^
 ||jike001.top^
 ||jinkens.fun^
@@ -681,6 +687,7 @@
 ||kbbqwhf.cn^
 ||kbctii.xyz^
 ||kcedmk.xyz^
+||ke4x.xyz^
 ||keika.cyou^
 ||keoap.xyz^
 ||keshidianhua.xyz^
@@ -756,6 +763,7 @@
 ||mhivqcu.cn^
 ||micfu.cyou^
 ||micrhfk.cn^
+||mjxtiht.cn^
 ||mmtcw.cn^
 ||mohretsu.com^
 ||monts.cyou^
@@ -782,6 +790,7 @@
 ||neaqi.top^
 ||nehcqko.cn^
 ||neipa.xyz^
+||newspress.name^
 ||nexyzh.com^
 ||nhjwh.com^
 ||nissifresh.com^
@@ -917,6 +926,7 @@
 ||rdoybkd.cn^
 ||rebunb.xyz^
 ||regrfg33.com^
+||renxlx.xyz^
 ||renzhongjiaoyu.xyz^
 ||resumes.ren^
 ||rglctlo.cn^
@@ -974,6 +984,7 @@
 ||soqikbe.cn^
 ||souche.com^$third-party
 ||soulsoul.xyz^
+||sqfg002.xyz^
 ||srnov.top^
 ||ssjiancai.com^
 ||suyuhao233.xyz^
@@ -1086,6 +1097,7 @@
 ||weiqu.cyou^
 ||wfndponfd.com^
 ||whrgsmi.cn^
+||whum.top^
 ||wjl58.icu^
 ||wooledswards.com^
 ||wp8d.xyz^
@@ -1152,6 +1164,7 @@
 ||ybfljs.com^
 ||yc444.cn^
 ||yemueii.cn^
+||yeriri.ltd^
 ||yffjqvq.cn^
 ||yflog.me^
 ||yfmhik.xyz^
@@ -1166,6 +1179,7 @@
 ||yoydmhb.cn^
 ||ypoiea.xyz^
 ||yqgpic.xyz^
+||yqspiy.xyz^
 ||yretx.cn^
 ||yruvnmn.cn^
 ||ysgekq.xyz^
@@ -1207,11 +1221,13 @@
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
-||renxlx.xyz^
-||franchiseworld.hk^
-||newspress.name^
-||yqspiy.xyz^
-||sqfg002.xyz^
+||neg.hk^
+||itpest.cn^
+||zopvjn.xyz^
+||gauqeo.xyz^
+||huluxia.com^$third-party
+||tfallview.live^
+||effetspositifs.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -9299,6 +9315,7 @@
 ||haiyuer.com/didi
 ||haiyuer.com/nb.js
 ||haiyuer.com/uc
+||handjob.tw/ad/
 ||hanjutv2020.com/index.php?c=dudu_
 ||hanjutv2020.com/statics/skin/*/js/plus.js
 ||hanjutvn.com/template/alifun/js/Tmall/
