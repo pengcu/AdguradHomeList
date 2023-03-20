@@ -365,7 +365,6 @@
 [/0574bbs.com/]10.10.10.1
 [/0574nbjg.com/]10.10.10.1
 [/0575bbs.com/]10.10.10.1
-[/0575dsw.com/]10.10.10.1
 [/0575life.com/]10.10.10.1
 [/0575xf.com/]10.10.10.1
 [/0576dsw.com/]10.10.10.1
@@ -1065,7 +1064,6 @@
 [/126doc.com/]10.10.10.1
 [/126g.com/]10.10.10.1
 [/126qiye.com/]10.10.10.1
-[/126ts.com/]10.10.10.1
 [/126z.net/]10.10.10.1
 [/127.net/]10.10.10.1
 [/1278721.com/]10.10.10.1
@@ -4288,7 +4286,6 @@
 [/52muyou.com/]10.10.10.1
 [/52myqq.com/]10.10.10.1
 [/52njl.com/]10.10.10.1
-[/52njl.net/]10.10.10.1
 [/52opencourse.com/]10.10.10.1
 [/52pcfree.com/]10.10.10.1
 [/52pi.com/]10.10.10.1
@@ -4576,7 +4573,6 @@
 [/57ac.com/]10.10.10.1
 [/57auto.com/]10.10.10.1
 [/57dp.com/]10.10.10.1
-[/57ee.net/]10.10.10.1
 [/57gif.com/]10.10.10.1
 [/57go.com/]10.10.10.1
 [/57lai.com/]10.10.10.1
@@ -5091,7 +5087,6 @@
 [/666666.so/]10.10.10.1
 [/66667aaa.com/]10.10.10.1
 [/6669667.com/]10.10.10.1
-[/666baicai.com/]10.10.10.1
 [/666gps.com/]10.10.10.1
 [/666idc.com/]10.10.10.1
 [/666pic.com/]10.10.10.1
@@ -5884,7 +5879,6 @@
 [/84992446.xyz/]10.10.10.1
 [/849959.com/]10.10.10.1
 [/8499683.com/]10.10.10.1
-[/84dwc.com/]10.10.10.1
 [/84fk.com/]10.10.10.1
 [/84ju.com/]10.10.10.1
 [/84ktv.com/]10.10.10.1
@@ -6061,7 +6055,6 @@
 [/88cdn.com/]10.10.10.1
 [/88chuangyewang.com/]10.10.10.1
 [/88dushu.com/]10.10.10.1
-[/88eq.com/]10.10.10.1
 [/88fenxiao.com/]10.10.10.1
 [/88h3.com/]10.10.10.1
 [/88hd.com/]10.10.10.1
@@ -6548,7 +6541,6 @@
 [/94afx.com/]10.10.10.1
 [/94cb.com/]10.10.10.1
 [/94cto.com/]10.10.10.1
-[/94dreamer.com/]10.10.10.1
 [/94dwc.com/]10.10.10.1
 [/94he38.com/]10.10.10.1
 [/94i5.com/]10.10.10.1
@@ -7189,6 +7181,7 @@
 [/acgvr.com/]10.10.10.1
 [/acgw.pw/]10.10.10.1
 [/acgz.xyz/]10.10.10.1
+[/acgz1.com/]10.10.10.1
 [/acgzc.com/]10.10.10.1
 [/acgzyj.com/]10.10.10.1
 [/achiming.com/]10.10.10.1
@@ -8919,7 +8912,6 @@
 [/artverse.work/]10.10.10.1
 [/artvisioncg.com/]10.10.10.1
 [/artwe.com/]10.10.10.1
-[/artwer.com/]10.10.10.1
 [/artww.com/]10.10.10.1
 [/artxun.com/]10.10.10.1
 [/arvato-ocs.com/]10.10.10.1
@@ -10356,7 +10348,6 @@
 [/bgk100.com/]10.10.10.1
 [/bgl88.com/]10.10.10.1
 [/bgmfans.com/]10.10.10.1
-[/bgmgw.com/]10.10.10.1
 [/bgmlist.com/]10.10.10.1
 [/bgren.com/]10.10.10.1
 [/bgrimm.com/]10.10.10.1
@@ -11481,7 +11472,6 @@
 [/brandvista.com/]10.10.10.1
 [/brbtyt.com/]10.10.10.1
 [/breadtrip.com/]10.10.10.1
-[/breakyizhan.com/]10.10.10.1
 [/brentron.com/]10.10.10.1
 [/brg0.com/]10.10.10.1
 [/bricktou.com/]10.10.10.1
@@ -11655,6 +11645,7 @@
 [/buimg.com/]10.10.10.1
 [/bujie.com/]10.10.10.1
 [/bukamanhua.com/]10.10.10.1
+[/bukamh.com/]10.10.10.1
 [/bukeyi.net/]10.10.10.1
 [/bukop.com/]10.10.10.1
 [/bulaisi.com/]10.10.10.1
@@ -13507,7 +13498,6 @@
 [/chi588.com/]10.10.10.1
 [/chiang.fun/]10.10.10.1
 [/chianuos.com/]10.10.10.1
-[/chibaole.com/]10.10.10.1
 [/chichou.me/]10.10.10.1
 [/chichuang.com/]10.10.10.1
 [/chidaolian.com/]10.10.10.1
@@ -13691,7 +13681,6 @@
 [/chinabaogao.com/]10.10.10.1
 [/chinabaokan.com/]10.10.10.1
 [/chinabaoke.net/]10.10.10.1
-[/chinabathware.com/]10.10.10.1
 [/chinabbtravel.com/]10.10.10.1
 [/chinabda.org/]10.10.10.1
 [/chinabdh.com/]10.10.10.1
@@ -14964,6 +14953,7 @@
 [/cmol.com/]10.10.10.1
 [/cmpassport.com/]10.10.10.1
 [/cmpay.com/]10.10.10.1
+[/cmqxysg.com/]10.10.10.1
 [/cmread.com/]10.10.10.1
 [/cmri.cc/]10.10.10.1
 [/cms-live.pandora.net/]10.10.10.1
@@ -15438,7 +15428,6 @@
 [/cnqr.org/]10.10.10.1
 [/cnquanjing.com/]10.10.10.1
 [/cnradio.com/]10.10.10.1
-[/cnrainbird.com/]10.10.10.1
 [/cnraksmart.com/]10.10.10.1
 [/cnrancher.com/]10.10.10.1
 [/cnratchet.com/]10.10.10.1
@@ -15682,7 +15671,6 @@
 [/coding-pages.com/]10.10.10.1
 [/coding.me/]10.10.10.1
 [/coding.net/]10.10.10.1
-[/coding.red/]10.10.10.1
 [/codingapp.com/]10.10.10.1
 [/codingbelief.com/]10.10.10.1
 [/codingdao.com/]10.10.10.1
@@ -16274,7 +16262,6 @@
 [/cscec.com/]10.10.10.1
 [/cscec1b.net/]10.10.10.1
 [/cscecst.com/]10.10.10.1
-[/cscfsx.com/]10.10.10.1
 [/cscyw.com/]10.10.10.1
 [/csdc.info/]10.10.10.1
 [/csdeshang.com/]10.10.10.1
@@ -16712,6 +16699,7 @@
 [/cyudun.net/]10.10.10.1
 [/cyuew.com/]10.10.10.1
 [/cywetc.com/]10.10.10.1
+[/cywlxy.com/]10.10.10.1
 [/cywyjj.com/]10.10.10.1
 [/cyy18.com/]10.10.10.1
 [/cyypscl.com/]10.10.10.1
@@ -18159,6 +18147,7 @@
 [/divetgallery.com/]10.10.10.1
 [/diwork.com/]10.10.10.1
 [/dixintong.com/]10.10.10.1
+[/diyamh.com/]10.10.10.1
 [/diybcq.com/]10.10.10.1
 [/diybuy.net/]10.10.10.1
 [/diycode.cc/]10.10.10.1
@@ -18489,6 +18478,7 @@
 [/dodoeasy.com/]10.10.10.1
 [/dodoedu.com/]10.10.10.1
 [/dodoh5.com/]10.10.10.1
+[/dodomh.com/]10.10.10.1
 [/dodonew.com/]10.10.10.1
 [/dodovip.com/]10.10.10.1
 [/doergob.com/]10.10.10.1
@@ -18796,6 +18786,7 @@
 [/dper.com/]10.10.10.1
 [/dpevmh.com/]10.10.10.1
 [/dpfile.com/]10.10.10.1
+[/dplayersvideostatic.com/]10.10.10.1
 [/dplor.com/]10.10.10.1
 [/dplord.com/]10.10.10.1
 [/dplslab.com/]10.10.10.1
@@ -18979,7 +18970,6 @@
 [/duanshu.com/]10.10.10.1
 [/duantian.com/]10.10.10.1
 [/duanwenxue.com/]10.10.10.1
-[/duanwxue.com/]10.10.10.1
 [/duanxb.com/]10.10.10.1
 [/duanxin321.com/]10.10.10.1
 [/duanxin520.com/]10.10.10.1
@@ -19042,7 +19032,6 @@
 [/dunjiaodu.com/]10.10.10.1
 [/dunkhome.com/]10.10.10.1
 [/dunwang.com/]10.10.10.1
-[/duobaoqibin.com/]10.10.10.1
 [/duobei.com/]10.10.10.1
 [/duobeiyun.com/]10.10.10.1
 [/duobeiyun.net/]10.10.10.1
@@ -19914,6 +19903,7 @@
 [/efesco.com/]10.10.10.1
 [/eff-soft.com/]10.10.10.1
 [/effapp.com/]10.10.10.1
+[/effetspositifs.com/]10.10.10.1
 [/efficient.hk/]10.10.10.1
 [/effirst.com/]10.10.10.1
 [/efivestar.com/]10.10.10.1
@@ -20042,6 +20032,7 @@
 [/ejttp.com/]10.10.10.1
 [/eju.com/]10.10.10.1
 [/ejudata.com/]10.10.10.1
+[/ejujiu.com/]10.10.10.1
 [/ejunshi.com/]10.10.10.1
 [/ek6.com/]10.10.10.1
 [/ekaidian.com/]10.10.10.1
@@ -21838,7 +21829,6 @@
 [/fodlab.com/]10.10.10.1
 [/fodoco.com/]10.10.10.1
 [/foguanghui.org/]10.10.10.1
-[/fokan88.com/]10.10.10.1
 [/folluo.me/]10.10.10.1
 [/folou.com/]10.10.10.1
 [/fomen123.com/]10.10.10.1
@@ -22194,6 +22184,7 @@
 [/fumubang.com/]10.10.10.1
 [/fumuhui.com/]10.10.10.1
 [/fun.tv/]10.10.10.1
+[/funcdn.com/]10.10.10.1
 [/funchat.cc/]10.10.10.1
 [/functionads.com/]10.10.10.1
 [/fund001.com/]10.10.10.1
@@ -22255,6 +22246,7 @@
 [/fuwuce.com/]10.10.10.1
 [/fuwuqinet.com/]10.10.10.1
 [/fuwuqu.com/]10.10.10.1
+[/fuxiafood.com/]10.10.10.1
 [/fuxiaohei.me/]10.10.10.1
 [/fuxinbank.com/]10.10.10.1
 [/fuxing56.com/]10.10.10.1
@@ -22408,7 +22400,6 @@
 [/fzrsrc.com/]10.10.10.1
 [/fzshbx.org/]10.10.10.1
 [/fzsjob.com/]10.10.10.1
-[/fzswy.com/]10.10.10.1
 [/fzwcn.com/]10.10.10.1
 [/fzxiaomange.com/]10.10.10.1
 [/fzxyyqd.com/]10.10.10.1
@@ -22621,7 +22612,6 @@
 [/gaochun.info/]10.10.10.1
 [/gaodabio.com/]10.10.10.1
 [/gaodage.com/]10.10.10.1
-[/gaodalei.com/]10.10.10.1
 [/gaode.com/]10.10.10.1
 [/gaodilicai.com/]10.10.10.1
 [/gaoding.com/]10.10.10.1
@@ -22890,7 +22880,6 @@
 [/gdysdz.com/]10.10.10.1
 [/gdyunyin.net/]10.10.10.1
 [/gdyxc.com/]10.10.10.1
-[/gdzbs.com/]10.10.10.1
 [/gdzhbxg.com/]10.10.10.1
 [/gdzhongshan.com/]10.10.10.1
 [/gdzp.org/]10.10.10.1
@@ -22973,7 +22962,6 @@
 [/geishost.com/]10.10.10.1
 [/geisnic.com/]10.10.10.1
 [/geizan.cc/]10.10.10.1
-[/gejiawen.com/]10.10.10.1
 [/gejiba.com/]10.10.10.1
 [/gelicang.net/]10.10.10.1
 [/gelics.com/]10.10.10.1
@@ -22981,7 +22969,6 @@
 [/gelu.me/]10.10.10.1
 [/gemchina.com/]10.10.10.1
 [/gemdale.com/]10.10.10.1
-[/gemgsx.com/]10.10.10.1
 [/gemii.cc/]10.10.10.1
 [/gemini-galaxy.com/]10.10.10.1
 [/gemini530.net/]10.10.10.1
@@ -23202,7 +23189,6 @@
 [/gimmgimm.com/]10.10.10.1
 [/gimoo.net/]10.10.10.1
 [/ginshio.org/]10.10.10.1
-[/gio.ren/]10.10.10.1
 [/giocdn.com/]10.10.10.1
 [/gionee.com/]10.10.10.1
 [/gionee.net/]10.10.10.1
@@ -23253,6 +23239,7 @@
 [/gjgzpw.com/]10.10.10.1
 [/gjjcxw.com/]10.10.10.1
 [/gjjnhb.com/]10.10.10.1
+[/gjmrk.com/]10.10.10.1
 [/gjnlyd.com/]10.10.10.1
 [/gjpdh.com/]10.10.10.1
 [/gjrwls.com/]10.10.10.1
@@ -23371,7 +23358,6 @@
 [/gm99game.net/]10.10.10.1
 [/gmacsaic.com/]10.10.10.1
 [/gmanhua.com/]10.10.10.1
-[/gmb2b.com/]10.10.10.1
 [/gmcc.net/]10.10.10.1
 [/gmcchina.net/]10.10.10.1
 [/gmdun.com/]10.10.10.1
@@ -23690,6 +23676,7 @@
 [/goufw.com/]10.10.10.1
 [/goug.com/]10.10.10.1
 [/gougoujp.com/]10.10.10.1
+[/gougoumh.com/]10.10.10.1
 [/gouhai.com/]10.10.10.1
 [/gouhaowang.com/]10.10.10.1
 [/gouhuasuan.shop/]10.10.10.1
@@ -23843,6 +23830,7 @@
 [/grouplus.com/]10.10.10.1
 [/growingio.com/]10.10.10.1
 [/grt-china.com/]10.10.10.1
+[/grth.xyz/]10.10.10.1
 [/gruntjs.net/]10.10.10.1
 [/grvape.com/]10.10.10.1
 [/gryu.net/]10.10.10.1
@@ -24875,6 +24863,7 @@
 [/hamanw.com/]10.10.10.1
 [/hambut.com/]10.10.10.1
 [/hamir.net/]10.10.10.1
+[/han-ju.cc/]10.10.10.1
 [/han-tang.cc/]10.10.10.1
 [/han66.com/]10.10.10.1
 [/hanamichi.wiki/]10.10.10.1
@@ -24932,6 +24921,7 @@
 [/hanju-tv.org/]10.10.10.1
 [/hanjutiantang.com/]10.10.10.1
 [/hanjutv.com/]10.10.10.1
+[/hanjutv.me/]10.10.10.1
 [/hanjutvaa.com/]10.10.10.1
 [/hankeer.org/]10.10.10.1
 [/hankewins.com/]10.10.10.1
@@ -26165,7 +26155,6 @@
 [/himetoo.com/]10.10.10.1
 [/himmpat.com/]10.10.10.1
 [/himofi.com/]10.10.10.1
-[/himy2.com/]10.10.10.1
 [/hinabian.com/]10.10.10.1
 [/hinavi.net/]10.10.10.1
 [/hindlish.com/]10.10.10.1
@@ -26288,14 +26277,12 @@
 [/hk-vstart.com/]10.10.10.1
 [/hk.uy/]10.10.10.1
 [/hk515.net/]10.10.10.1
-[/hk8g0dd.com/]10.10.10.1
 [/hkaco.com/]10.10.10.1
 [/hkaik.com/]10.10.10.1
 [/hkance.com/]10.10.10.1
 [/hkance.xyz/]10.10.10.1
 [/hkanews.com/]10.10.10.1
 [/hkbchina.com/]10.10.10.1
-[/hkcd.com/]10.10.10.1
 [/hkcgart.com/]10.10.10.1
 [/hkcn2.xyz/]10.10.10.1
 [/hkcna.hk/]10.10.10.1
@@ -27325,7 +27312,6 @@
 [/huawanyun.com/]10.10.10.1
 [/huawei-3com.com/]10.10.10.1
 [/huawei.asia/]10.10.10.1
-[/huawei.co/]10.10.10.1
 [/huawei.com/]10.10.10.1
 [/huaweicloud-dns.com/]10.10.10.1
 [/huaweicloud-dns.net/]10.10.10.1
@@ -28325,7 +28311,6 @@
 [/ibtsat.com/]10.10.10.1
 [/ibuick.com/]10.10.10.1
 [/ibuscloud.com/]10.10.10.1
-[/ibuying.com/]10.10.10.1
 [/ibw.cc/]10.10.10.1
 [/ibytedapm.com/]10.10.10.1
 [/ic-ldo.com/]10.10.10.1
@@ -28685,7 +28670,6 @@
 [/iegee.net/]10.10.10.1
 [/iegourl.com/]10.10.10.1
 [/iejiu.com/]10.10.10.1
-[/ielts68.com/]10.10.10.1
 [/ieltschn.com/]10.10.10.1
 [/iemblog.com/]10.10.10.1
 [/iemiq.com/]10.10.10.1
@@ -28899,7 +28883,6 @@
 [/ii77.com/]10.10.10.1
 [/iiad.com/]10.10.10.1
 [/iianews.com/]10.10.10.1
-[/iiapple.com/]10.10.10.1
 [/iiaq.net/]10.10.10.1
 [/iibechina.com/]10.10.10.1
 [/iibq.com/]10.10.10.1
@@ -28991,6 +28974,7 @@
 [/ikepu.com/]10.10.10.1
 [/ikjtao.com/]10.10.10.1
 [/ikjzd.com/]10.10.10.1
+[/ikmhua.com/]10.10.10.1
 [/ikmt.net/]10.10.10.1
 [/ikonfx.com/]10.10.10.1
 [/ikongjian.com/]10.10.10.1
@@ -29206,6 +29190,7 @@
 [/imoduo.com/]10.10.10.1
 [/imoe.me/]10.10.10.1
 [/imoeer.com/]10.10.10.1
+[/imoemh.com/]10.10.10.1
 [/imoeq.com/]10.10.10.1
 [/imofan.com/]10.10.10.1
 [/imoffice.com/]10.10.10.1
@@ -29847,7 +29832,6 @@
 [/itaoyun.com/]10.10.10.1
 [/itavcn.com/]10.10.10.1
 [/itbegin.com/]10.10.10.1
-[/itbeihe.com/]10.10.10.1
 [/itbiaoju.com/]10.10.10.1
 [/itbilu.com/]10.10.10.1
 [/itbkz.com/]10.10.10.1
@@ -30090,7 +30074,6 @@
 [/iwenson.com/]10.10.10.1
 [/iwgame.com/]10.10.10.1
 [/iwhalecloud.com/]10.10.10.1
-[/iwhgao.com/]10.10.10.1
 [/iwhr.com/]10.10.10.1
 [/iwin10.cc/]10.10.10.1
 [/iwin10.com/]10.10.10.1
@@ -30825,7 +30808,6 @@
 [/jianzhiba.net/]10.10.10.1
 [/jianzhikeji.com/]10.10.10.1
 [/jianzhimao.com/]10.10.10.1
-[/jianzhiwang.com/]10.10.10.1
 [/jianzhiwangzhan.com/]10.10.10.1
 [/jianzhiweike.net/]10.10.10.1
 [/jianzhiyixin.com/]10.10.10.1
@@ -32100,6 +32082,7 @@
 [/jsypin.com/]10.10.10.1
 [/jsypj.com/]10.10.10.1
 [/jsyun.cc/]10.10.10.1
+[/jsyunmy.com/]10.10.10.1
 [/jsyxrcb.com/]10.10.10.1
 [/jszbtb.com/]10.10.10.1
 [/jszbug.com/]10.10.10.1
@@ -32525,7 +32508,6 @@
 [/jyl88.com/]10.10.10.1
 [/jyltx.com/]10.10.10.1
 [/jylw.com/]10.10.10.1
-[/jymdlz.com/]10.10.10.1
 [/jynews.net/]10.10.10.1
 [/jyoptical.com/]10.10.10.1
 [/jypc.org/]10.10.10.1
@@ -32926,6 +32908,7 @@
 [/kblcdn.com/]10.10.10.1
 [/kbrightlaw.com/]10.10.10.1
 [/kbscloud.com/]10.10.10.1
+[/kbshanju.com/]10.10.10.1
 [/kbw2018.com/]10.10.10.1
 [/kbyun.com/]10.10.10.1
 [/kc87.com/]10.10.10.1
@@ -33419,6 +33402,7 @@
 [/kmmklo.com/]10.10.10.1
 [/kmplayercn.com/]10.10.10.1
 [/kmqsaq.com/]10.10.10.1
+[/kms.pub/]10.10.10.1
 [/kmw.com/]10.10.10.1
 [/kmway.com/]10.10.10.1
 [/kmwzkj.com/]10.10.10.1
@@ -34667,6 +34651,7 @@
 [/lehuiso.com/]10.10.10.1
 [/lei001.com/]10.10.10.1
 [/leibei.cc/]10.10.10.1
+[/leibeiyipei.xyz/]10.10.10.1
 [/leida310.com/]10.10.10.1
 [/leidianip.com/]10.10.10.1
 [/leiduhuaya.com/]10.10.10.1
@@ -34964,6 +34949,7 @@
 [/lialiu.com/]10.10.10.1
 [/lianaibashi.com/]10.10.10.1
 [/lianaibiji.com/]10.10.10.1
+[/lianaimh.com/]10.10.10.1
 [/lianchuang.com/]10.10.10.1
 [/liancsoft.com/]10.10.10.1
 [/liandaomobi.com/]10.10.10.1
@@ -36678,7 +36664,6 @@
 [/maccura.com/]10.10.10.1
 [/macdaxue.com/]10.10.10.1
 [/macflow.net/]10.10.10.1
-[/mach4s.com/]10.10.10.1
 [/machaojin.com/]10.10.10.1
 [/machenike.com/]10.10.10.1
 [/machine-information.com/]10.10.10.1
@@ -36833,7 +36818,6 @@
 [/maiweikj.com/]10.10.10.1
 [/maixhub.com/]10.10.10.1
 [/maixiaba.com/]10.10.10.1
-[/maixj.net/]10.10.10.1
 [/maixuewen.com/]10.10.10.1
 [/maiya91.com/]10.10.10.1
 [/maiyaole.com/]10.10.10.1
@@ -36943,6 +36927,8 @@
 [/mangxuewang.com/]10.10.10.1
 [/mangzitian.com/]10.10.10.1
 [/manhua1.com/]10.10.10.1
+[/manhua101.com/]10.10.10.1
+[/manhua188.com/]10.10.10.1
 [/manhua365.com/]10.10.10.1
 [/manhua456.com/]10.10.10.1
 [/manhuacheng.com/]10.10.10.1
@@ -37671,7 +37657,6 @@
 [/mgzgmyzz.com/]10.10.10.1
 [/mgzxzs.com/]10.10.10.1
 [/mh1234.com/]10.10.10.1
-[/mh160.com/]10.10.10.1
 [/mh456.com/]10.10.10.1
 [/mh51.com/]10.10.10.1
 [/mh868.com/]10.10.10.1
@@ -37694,6 +37679,7 @@
 [/mhwck.com/]10.10.10.1
 [/mhwmm.com/]10.10.10.1
 [/mhwy2.com/]10.10.10.1
+[/mhxin.com/]10.10.10.1
 [/mhxk.com/]10.10.10.1
 [/mhxqiu.com/]10.10.10.1
 [/mhxzhkl.com/]10.10.10.1
@@ -38211,7 +38197,6 @@
 [/mmall.com/]10.10.10.1
 [/mmaqa.com/]10.10.10.1
 [/mmarket.com/]10.10.10.1
-[/mmb.to/]10.10.10.1
 [/mmbang.com/]10.10.10.1
 [/mmbang.info/]10.10.10.1
 [/mmbang.net/]10.10.10.1
@@ -38805,7 +38790,6 @@
 [/mufengyue.com/]10.10.10.1
 [/muftc.com/]10.10.10.1
 [/mugeda.com/]10.10.10.1
-[/mugedokn.cyou/]10.10.10.1
 [/muhai.net/]10.10.10.1
 [/muhoujiemi.com/]10.10.10.1
 [/muimg.com/]10.10.10.1
@@ -39131,7 +39115,6 @@
 [/mysinamail.com/]10.10.10.1
 [/mysipo.com/]10.10.10.1
 [/mysmth.net/]10.10.10.1
-[/mysodao.com/]10.10.10.1
 [/mysongktv.com/]10.10.10.1
 [/mysore-yoga.com/]10.10.10.1
 [/myspain.org/]10.10.10.1
@@ -40198,7 +40181,6 @@
 [/nsstream.com/]10.10.10.1
 [/nsszv.com/]10.10.10.1
 [/nstooll.com/]10.10.10.1
-[/nsvdwypg.cyou/]10.10.10.1
 [/nsw88.com/]10.10.10.1
 [/nsw99.com/]10.10.10.1
 [/nswyun.com/]10.10.10.1
@@ -40950,6 +40932,7 @@
 [/ottffss.net/]10.10.10.1
 [/ottshopping.net/]10.10.10.1
 [/otype.com/]10.10.10.1
+[/otzyx.com/]10.10.10.1
 [/ou99.com/]10.10.10.1
 [/ouapi.com/]10.10.10.1
 [/oubk.com/]10.10.10.1
@@ -41009,7 +40992,6 @@
 [/ourjiangsu.com/]10.10.10.1
 [/ourjs.com/]10.10.10.1
 [/ourjz.com/]10.10.10.1
-[/ourku.com/]10.10.10.1
 [/ourlife365.com/]10.10.10.1
 [/ourlinc.com/]10.10.10.1
 [/ourpalm.com/]10.10.10.1
@@ -41571,7 +41553,6 @@
 [/peopledailyhealth.com/]10.10.10.1
 [/peopledailypress.com/]10.10.10.1
 [/peoplemooc.com/]10.10.10.1
-[/peoplenews.eu/]10.10.10.1
 [/peoplerail.com/]10.10.10.1
 [/peopleyuqing.com/]10.10.10.1
 [/pepresource.com/]10.10.10.1
@@ -41619,7 +41600,6 @@
 [/pglstatp-toutiao-b.com/]10.10.10.1
 [/pglstatp-toutiao.com/]10.10.10.1
 [/pgsql.tech/]10.10.10.1
-[/pgsqldb.com/]10.10.10.1
 [/pgsqldb.org/]10.10.10.1
 [/pgyer.com/]10.10.10.1
 [/pgyidc.com/]10.10.10.1
@@ -42929,6 +42909,7 @@
 [/qianluxiaoshuo.com/]10.10.10.1
 [/qianmaiapp.com/]10.10.10.1
 [/qianmaidao.com/]10.10.10.1
+[/qianmh.com/]10.10.10.1
 [/qianmi.com/]10.10.10.1
 [/qianmingyun.com/]10.10.10.1
 [/qianmo.info/]10.10.10.1
@@ -42963,6 +42944,7 @@
 [/qianxunclub.com/]10.10.10.1
 [/qianyan.biz/]10.10.10.1
 [/qianyan001.com/]10.10.10.1
+[/qianyanapp.com/]10.10.10.1
 [/qianyu56.com/]10.10.10.1
 [/qianyuangx.com/]10.10.10.1
 [/qianyue999.com/]10.10.10.1
@@ -43123,7 +43105,9 @@
 [/qiman5.com/]10.10.10.1
 [/qiman6.com/]10.10.10.1
 [/qimao.com/]10.10.10.1
+[/qimaomh.com/]10.10.10.1
 [/qimengshangwu.com/]10.10.10.1
+[/qimhua.com/]10.10.10.1
 [/qimi.com/]10.10.10.1
 [/qimiaomh.com/]10.10.10.1
 [/qimiaosenlin.com/]10.10.10.1
@@ -43241,7 +43225,6 @@
 [/qingxuetang.com/]10.10.10.1
 [/qingxun.com/]10.10.10.1
 [/qingyougames.com/]10.10.10.1
-[/qingyungou.com/]10.10.10.1
 [/qingzhanshi.com/]10.10.10.1
 [/qingzhiwenku.com/]10.10.10.1
 [/qingzhouaote.com/]10.10.10.1
@@ -43494,6 +43477,7 @@
 [/qmf3.cc/]10.10.10.1
 [/qmht.com/]10.10.10.1
 [/qmht.mobi/]10.10.10.1
+[/qmiaomh.com/]10.10.10.1
 [/qmqm.net/]10.10.10.1
 [/qmrobot.com/]10.10.10.1
 [/qmsjmfb.com/]10.10.10.1
@@ -44050,6 +44034,7 @@
 [/qwupoq.com/]10.10.10.1
 [/qwxcs.com/]10.10.10.1
 [/qwxsw.com/]10.10.10.1
+[/qwzhe.com/]10.10.10.1
 [/qx1000.com/]10.10.10.1
 [/qx10086.net/]10.10.10.1
 [/qx100years.com/]10.10.10.1
@@ -44448,6 +44433,7 @@
 [/remark.dance/]10.10.10.1
 [/remax-bj.com/]10.10.10.1
 [/rememtek.com/]10.10.10.1
+[/rementop.com/]10.10.10.1
 [/remoteaps.com/]10.10.10.1
 [/remotedu.com/]10.10.10.1
 [/renaren.com/]10.10.10.1
@@ -45705,7 +45691,6 @@
 [/sdyyebh010.com/]10.10.10.1
 [/sdyypt.net/]10.10.10.1
 [/sdzbcg.com/]10.10.10.1
-[/sdzdmjg.com/]10.10.10.1
 [/sdzhidian.com/]10.10.10.1
 [/sdzk.co/]10.10.10.1
 [/sdzs.com/]10.10.10.1
@@ -46238,7 +46223,6 @@
 [/shaolinwy.com/]10.10.10.1
 [/shaoqun.com/]10.10.10.1
 [/shaoshilei.com/]10.10.10.1
-[/shaoxianchong.com/]10.10.10.1
 [/shaoxing330.com/]10.10.10.1
 [/shaoyee.com/]10.10.10.1
 [/shaozi.info/]10.10.10.1
@@ -46578,7 +46562,6 @@
 [/shikang.net/]10.10.10.1
 [/shikee.com/]10.10.10.1
 [/shiku.co/]10.10.10.1
-[/shilawyer.com/]10.10.10.1
 [/shileizcc.com/]10.10.10.1
 [/shileizuji.com/]10.10.10.1
 [/shilian.com/]10.10.10.1
@@ -46749,7 +46732,6 @@
 [/shoprobam.com/]10.10.10.1
 [/shopxo.net/]10.10.10.1
 [/shopyy.com/]10.10.10.1
-[/shortof.com/]10.10.10.1
 [/shoubaodan.com/]10.10.10.1
 [/shouce.ren/]10.10.10.1
 [/shouce365.com/]10.10.10.1
@@ -47669,7 +47651,6 @@
 [/sm688801.com/]10.10.10.1
 [/sm688839.com/]10.10.10.1
 [/sm96596.com/]10.10.10.1
-[/smabaike.com/]10.10.10.1
 [/smalljun.com/]10.10.10.1
 [/smallk.net/]10.10.10.1
 [/smallpdfer.com/]10.10.10.1
@@ -47851,11 +47832,8 @@
 [/snzfj.net/]10.10.10.1
 [/snzgy.com/]10.10.10.1
 [/snzhz.com/]10.10.10.1
-[/so-a.net/]10.10.10.1
-[/so-b.com/]10.10.10.1
 [/so-love.com/]10.10.10.1
 [/so-naver.com/]10.10.10.1
-[/so-w.com/]10.10.10.1
 [/so.com/]10.10.10.1
 [/so147.com/]10.10.10.1
 [/so8848.com/]10.10.10.1
@@ -47902,7 +47880,6 @@
 [/sofastack.tech/]10.10.10.1
 [/sofi-tech.com/]10.10.10.1
 [/sofreight.com/]10.10.10.1
-[/soft10.com/]10.10.10.1
 [/soft10.net/]10.10.10.1
 [/soft128.com/]10.10.10.1
 [/soft2005.com/]10.10.10.1
@@ -48236,7 +48213,6 @@
 [/spdydns.com/]10.10.10.1
 [/specialcdnstatus.com/]10.10.10.1
 [/speed-dns.cc/]10.10.10.1
-[/speed-idc.com/]10.10.10.1
 [/speedcdns.com/]10.10.10.1
 [/speednt.com/]10.10.10.1
 [/speedpan.net/]10.10.10.1
@@ -49415,6 +49391,7 @@
 [/szslhssy.com/]10.10.10.1
 [/szsmk.com/]10.10.10.1
 [/szsq.net/]10.10.10.1
+[/szssjg.com/]10.10.10.1
 [/szsunlaser.com/]10.10.10.1
 [/sztaijier.com/]10.10.10.1
 [/sztalent.org/]10.10.10.1
@@ -49705,7 +49682,6 @@
 [/tanyuantech.com/]10.10.10.1
 [/tanzhouedu.com/]10.10.10.1
 [/tanzhoujiaoyu.com/]10.10.10.1
-[/tanzhouvip.com/]10.10.10.1
 [/tao-jiujiu.com/]10.10.10.1
 [/tao-star.com/]10.10.10.1
 [/tao-studio.net/]10.10.10.1
@@ -51256,7 +51232,6 @@
 [/travelyee.com/]10.10.10.1
 [/treation.com/]10.10.10.1
 [/treehousesub.com/]10.10.10.1
-[/treeoncloud.com/]10.10.10.1
 [/treetwins.com/]10.10.10.1
 [/treeyee.com/]10.10.10.1
 [/trekin.space/]10.10.10.1
@@ -51840,7 +51815,6 @@
 [/txlt.com/]10.10.10.1
 [/txlunwenw.com/]10.10.10.1
 [/txmcu.com/]10.10.10.1
-[/txmeiju.com/]10.10.10.1
 [/txon.net/]10.10.10.1
 [/txooo.com/]10.10.10.1
 [/txqcw.net/]10.10.10.1
@@ -51903,7 +51877,6 @@
 [/typecodes.com/]10.10.10.1
 [/typekuon.com/]10.10.10.1
 [/tyr.gift/]10.10.10.1
-[/tyrad.cc/]10.10.10.1
 [/tyrantdb.com/]10.10.10.1
 [/tyread.com/]10.10.10.1
 [/tysdmh.com/]10.10.10.1
@@ -54075,7 +54048,6 @@
 [/weidown.com/]10.10.10.1
 [/weidunewtab.com/]10.10.10.1
 [/weiengift.com/]10.10.10.1
-[/weifang168.com/]10.10.10.1
 [/weifenghr.com/]10.10.10.1
 [/weifengke.com/]10.10.10.1
 [/weifengou.com/]10.10.10.1
@@ -54465,7 +54437,6 @@
 [/wetest.net/]10.10.10.1
 [/wetherm.com/]10.10.10.1
 [/weti.me/]10.10.10.1
-[/wetogame.com/]10.10.10.1
 [/weton.net/]10.10.10.1
 [/wetruetech.com/]10.10.10.1
 [/wetsd.com/]10.10.10.1
@@ -54737,7 +54708,6 @@
 [/whrhkj.com/]10.10.10.1
 [/whrl.net/]10.10.10.1
 [/whrsip.com/]10.10.10.1
-[/whrsj.org/]10.10.10.1
 [/whrtmpay.com/]10.10.10.1
 [/whsdsyy.com/]10.10.10.1
 [/whseoclub.com/]10.10.10.1
@@ -55014,6 +54984,7 @@
 [/wisedoo.com/]10.10.10.1
 [/wisedsp.net/]10.10.10.1
 [/wisedu.com/]10.10.10.1
+[/wisegotech.com/]10.10.10.1
 [/wiseimp.com/]10.10.10.1
 [/wiselong.cc/]10.10.10.1
 [/wiselong.com/]10.10.10.1
@@ -55980,7 +55951,6 @@
 [/wxsky.net/]10.10.10.1
 [/wxsteed.com/]10.10.10.1
 [/wxsy.net/]10.10.10.1
-[/wxsyedu.net/]10.10.10.1
 [/wxsywh.com/]10.10.10.1
 [/wxt2020.com/]10.10.10.1
 [/wxthe.com/]10.10.10.1
@@ -57423,7 +57393,6 @@
 [/xinyitt.com/]10.10.10.1
 [/xinyo100.com/]10.10.10.1
 [/xinyongbuy.com/]10.10.10.1
-[/xinyongqingdao.com/]10.10.10.1
 [/xinyou.com/]10.10.10.1
 [/xinyour.com/]10.10.10.1
 [/xinyouw.org/]10.10.10.1
@@ -58146,6 +58115,7 @@
 [/xueqiu.com/]10.10.10.1
 [/xueqiu360.com/]10.10.10.1
 [/xuerentang.net/]10.10.10.1
+[/xuermh.com/]10.10.10.1
 [/xuesax.com/]10.10.10.1
 [/xueseo.com/]10.10.10.1
 [/xueshandai.com/]10.10.10.1
@@ -58405,7 +58375,6 @@
 [/xxyo.com/]10.10.10.1
 [/xxysvip.com/]10.10.10.1
 [/xxyw.com/]10.10.10.1
-[/xxzdpf.com/]10.10.10.1
 [/xxzfgjj.com/]10.10.10.1
 [/xxzhushou.com/]10.10.10.1
 [/xxzsgame.com/]10.10.10.1
@@ -59230,6 +59199,7 @@
 [/yiche.com/]10.10.10.1
 [/yichemall.com/]10.10.10.1
 [/yichesafe.com/]10.10.10.1
+[/yichmh.com/]10.10.10.1
 [/yichuyifan.com/]10.10.10.1
 [/yiclear.com/]10.10.10.1
 [/yicongfound.org/]10.10.10.1
@@ -59375,6 +59345,7 @@
 [/yilong.com/]10.10.10.1
 [/yilongtv.com/]10.10.10.1
 [/yilule.com/]10.10.10.1
+[/yilumh.com/]10.10.10.1
 [/yiluzhuanqian.com/]10.10.10.1
 [/yiluzouhao.com/]10.10.10.1
 [/yilvcheng.com/]10.10.10.1
@@ -59515,7 +59486,6 @@
 [/yinshuiyu.com/]10.10.10.1
 [/yintai.com/]10.10.10.1
 [/yintechi.com/]10.10.10.1
-[/yintop.com/]10.10.10.1
 [/yinuoedu.net/]10.10.10.1
 [/yinxi.net/]10.10.10.1
 [/yinxiang.com/]10.10.10.1
@@ -60505,6 +60475,7 @@
 [/ysepay.com/]10.10.10.1
 [/ysext.com/]10.10.10.1
 [/ysfog.com/]10.10.10.1
+[/ysgcdns.xyz/]10.10.10.1
 [/ysgtg.com/]10.10.10.1
 [/ysgushi.com/]10.10.10.1
 [/yshp.net/]10.10.10.1
@@ -60811,7 +60782,6 @@
 [/yulu1.com/]10.10.10.1
 [/yulu5.com/]10.10.10.1
 [/yulucn.com/]10.10.10.1
-[/yuluzhongde.com/]10.10.10.1
 [/yumaoshu.com/]10.10.10.1
 [/yumchina.com/]10.10.10.1
 [/yumenikki.info/]10.10.10.1
@@ -62828,12 +62798,12 @@
 [/zhuotingwl.com/]10.10.10.1
 [/zhuotujiaoyu.com/]10.10.10.1
 [/zhuoyi.com/]10.10.10.1
-[/zhuoyicp.com/]10.10.10.1
 [/zhuoyigame.com/]10.10.10.1
 [/zhuoyigame.site/]10.10.10.1
 [/zhuoyixuan.com/]10.10.10.1
 [/zhuoyou.com/]10.10.10.1
 [/zhuoyouba.net/]10.10.10.1
+[/zhuoyoutech.com/]10.10.10.1
 [/zhuoyuanxinfang.com/]10.10.10.1
 [/zhuoyue.wang/]10.10.10.1
 [/zhuoyuebbs.com/]10.10.10.1
@@ -62927,7 +62897,6 @@
 [/zihai0351.com/]10.10.10.1
 [/zihai0535.com/]10.10.10.1
 [/zihai0591.com/]10.10.10.1
-[/zihai0595.com/]10.10.10.1
 [/zihai24.com/]10.10.10.1
 [/zihaixiaochengxu.com/]10.10.10.1
 [/zihexin.net/]10.10.10.1
