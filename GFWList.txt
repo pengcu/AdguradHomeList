@@ -285,6 +285,7 @@
 [/aniscartujo.com/]10.10.10.11
 [/annatam.com/]10.10.10.11
 [/anobii.com/]10.10.10.11
+[/anonfiles.com/]10.10.10.11
 [/anontext.com/]10.10.10.11
 [/anonymitynetwork.com/]10.10.10.11
 [/anonymizer.com/]10.10.10.11
@@ -1080,6 +1081,7 @@
 [/cloakpoint.com/]10.10.10.11
 [/cloud.mail.ru/]10.10.10.11
 [/cloudflare-ipfs.com/]10.10.10.11
+[/cloudfunctions.net/]10.10.10.11
 [/club1069.com/]10.10.10.11
 [/clubhouseapi.com/]10.10.10.11
 [/clyp.it/]10.10.10.11
@@ -1412,7 +1414,6 @@
 [/dowei.org/]10.10.10.11
 [/download.aircrack-ng.org/]10.10.10.11
 [/download.cnet.com/]10.10.10.11
-[/download.ithome.com.tw/]10.10.10.11
 [/dphk.org/]10.10.10.11
 [/dpp.org.tw/]10.10.10.11
 [/dpr.info/]10.10.10.11
@@ -2870,6 +2871,7 @@
 [/italiatibet.org/]10.10.10.11
 [/itasoftware.com/]10.10.10.11
 [/itemdb.com/]10.10.10.11
+[/itemfix.com/]10.10.10.11
 [/ithelp.ithome.com.tw/]10.10.10.11
 [/its.caltech.edu/]10.10.10.11
 [/itsaol.com/]10.10.10.11
@@ -3117,6 +3119,7 @@
 [/le-vpn.com/]10.10.10.11
 [/leafyvpn.net/]10.10.10.11
 [/lecloud.net/]10.10.10.11
+[/ledger.com/]10.10.10.11
 [/leeao.com.cn/]10.10.10.11
 [/lefora.com/]10.10.10.11
 [/left21.hk/]10.10.10.11
@@ -3827,6 +3830,7 @@
 [/old-cat.net/]10.10.10.11
 [/old.honeynet.org/]10.10.10.11
 [/old.nabble.com/]10.10.10.11
+[/olehdtv.com/]10.10.10.11
 [/olevod.com/]10.10.10.11
 [/olumpo.com/]10.10.10.11
 [/olympicwatch.org/]10.10.10.11
