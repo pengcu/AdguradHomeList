@@ -344,6 +344,7 @@
 ||9j5e.top^
 ||9odes.ltd^
 ||a-ads.com^
+||a44u.icu^
 ||a5jf.xyz^
 ||a666.one^
 ||aaaesme.cn^
@@ -397,6 +398,7 @@
 ||baidujsvbj.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
+||bdcd2.com^
 ||bddwm.com^
 ||bdfwzt.xyz^
 ||beatricecathy.com^
@@ -480,6 +482,7 @@
 ||dedcrfvdj.xyz^
 ||delamer.ltd^
 ||dengtao.link^
+||denpvh.xyz^
 ||deude.ltd^
 ||df-long.cn^$third-party
 ||dfadas13.com^
@@ -587,6 +590,7 @@
 ||gaohexiang.xyz^
 ||gaowei.fit^
 ||gauqeo.xyz^
+||gcejdac.cn^
 ||geiaxbk.cn^
 ||gejulm1314.com^
 ||gfqsded.cn^
@@ -770,6 +774,7 @@
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
+||kqskqi.xyz^
 ||kqwip.cyou^
 ||kravma.xyz^
 ||ksccqu.xyz^
@@ -788,6 +793,7 @@
 ||lbk7p.cn^
 ||leeleo.top^$third-party
 ||leiersuqd.com^
+||leirsw.com^
 ||leiwo.xyz^
 ||lelouch.tech^
 ||leopold37.xyz^
@@ -817,6 +823,7 @@
 ||lwpxhr.xyz^
 ||lwz.hk^
 ||lymtreg.cn^
+||lztmrdv.cn^
 ||lzzzjx.xyz^
 ||m6ku1.cn^
 ||maccms10.cn^
@@ -974,6 +981,7 @@
 ||qbd2.site^
 ||qbd3.site^
 ||qbd4.site^
+||qbtd.xyz^
 ||qdiwbhjpo.com^
 ||qdutmef.cn^
 ||qehaxkl.cn^
@@ -984,6 +992,7 @@
 ||qheoy.cn^
 ||qiabayyds.com^
 ||qianbaobbs.net^
+||qianqian.red^
 ||qiantubao.asia^
 ||qiapuyyds.com^
 ||qiegoa.xyz^
@@ -1026,6 +1035,7 @@
 ||rmccajg.cn^
 ||rooby.cyou^
 ||rourouwu.uk^
+||rp5o.top^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
 ||rthmnj.xyz^
@@ -1100,6 +1110,7 @@
 ||teowa.cyou^
 ||tfallview.live^
 ||tfbulkidn.com^
+||tfcoverss.live^
 ||tffindmarket.live^
 ||tfzozf.xyz^
 ||tg0qu.top^
@@ -1250,6 +1261,7 @@
 ||xiaohui668.club^
 ||xiaolj.xyz^
 ||xiaosaguniang.xyz^
+||xiaozengyyds.com^
 ||xibpbov.cn^
 ||xiehao.me^
 ||xihongshi.love^
@@ -1261,6 +1273,7 @@
 ||xkhall.xyz^
 ||xkjcpl.cn^
 ||xkqit.com^
+||xmi1.top^
 ||xmmnsl.com^
 ||xmzurh.xyz^
 ||xnrcnz.xyz^
@@ -1285,6 +1298,7 @@
 ||y1990.pw^
 ||yalayi.net^
 ||yang17.xyz^
+||yangsir.xyz^
 ||yanjiusuo.cc^
 ||ybfljs.com^
 ||yc444.cn^
@@ -1358,10 +1372,14 @@
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||lztmrdv.cn^
-||rp5o.top^
-||kqskqi.xyz^
-||denpvh.xyz^
+||ftnthzv.cn^
+||lopqrx.xyz^
+||saulmy.xyz^
+||asa2.cn^
+||aniqfwz.cc^
+||bdnvklavbklabl.com^
+||baidunnd.top^
+||xiuwaiyyds.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
