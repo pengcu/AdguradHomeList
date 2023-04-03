@@ -255,13 +255,21 @@
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+||1136999.com^
+||230579.top^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa855.com^
+||gwvzgjb.cn^
 ||jerrytom.xyz^
-||qiwjiy.xyz^
 ||jwronx.xyz^
+||qiwjiy.xyz^
+||wangjiayi.fun^
 ||xingyang.in^
+||yulingaa.xyz^
+||p4pd.cn^
+||yfohgo.xyz^
+||rtjmln.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -9606,6 +9614,7 @@
 ||mat1.gtimg.com/cq/flash/
 ||mat1.gtimg.com/ent/flash/*300
 ||maxthonimg.com/v6/festival/
+||mbalib.com/common/a_mbalib/
 ||mcmod.cn/editor/upload/20221126/1669399546_2_ONBt.
 ||mcncc.com/yeyou/*.htm
 ||me680.com/js/*.js
@@ -10692,7 +10701,6 @@
 ||videojj.com/flash/bin/vjj_config.xml
 ||videowood.me/assets/js/popup.js
 ||videowood.tv/popjavascript
-||vidhub.cc/huimee/
 ||vip.luanren.com/data/*.gif
 ||vip27j.xyz/dh.js
 ||vipdage.com/wp-content/uploads/ad/
@@ -12626,6 +12634,7 @@
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=52bdys.com
 ||boylov.xyz^*/img/20*.gif
 ||boylove.cc^*/img/20*.gif
+||boyloves.fun^*/img/20*.gif
 @@||baidu.com^*&cb=BaiduSuggestion.
 ||alicdn.com^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||camspic.com/imguang/*.gif
