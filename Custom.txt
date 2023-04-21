@@ -1,1 +1,2 @@
 appstorrent.ru
+npmjs.org
