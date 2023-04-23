@@ -255,8 +255,10 @@
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+||0776.red^
 ||08u6q.com^
 ||1136999.com^
+||1512a.com^
 ||18so.vip^
 ||230579.top^
 ||39nw.com^
@@ -267,6 +269,7 @@
 ||8b4v.cn^
 ||92ph.cn^
 ||9itan.cc^
+||9vs0.cn^
 ||aaaaa288.com^
 ||aaaaa556.com^
 ||aaaaa599.com^
@@ -295,6 +298,7 @@
 ||betgdr.xyz^
 ||bkae.top^
 ||blxfqq.com^
+||bovhzz.xyz^
 ||bqcxgbm.cn^
 ||brkzczn.cn^
 ||bwwlw.cn^
@@ -340,6 +344,7 @@
 ||fvzljv.xyz^
 ||fweia.xyz^
 ||fzcsd33.com^
+||gaokao.asia^
 ||giold.xyz^
 ||gpqicw.xyz^
 ||gwvzgjb.cn^
@@ -356,12 +361,15 @@
 ||himeneko.ink^
 ||hsrgnac.cn^
 ||huaweinnd.top^
+||hunlimd.cn^
 ||hxes.cn^
 ||hxpmbb.xyz^
 ||hxtiojs.cn^
 ||hzoijcm.cn^
+||iaacua.xyz^
 ||icesfeathers.fun^
 ||iepda.xyz^
+||iidjo.xyz^
 ||ijnuhb.top^
 ||imu2021.site^
 ||ioiksw.cn^
@@ -383,6 +391,7 @@
 ||kingsunsky.ltd^
 ||kkgytur.cn^
 ||kkylx.xyz^
+||kmlxlkz.cn^
 ||kpqdkg.xyz^
 ||kucoa.xyz^
 ||kzjqraj.cn^
@@ -449,6 +458,7 @@
 ||sjalipa.cn^
 ||skluff.com^
 ||smailes.pro^
+||smmmqq.com^
 ||sozrrkx.xyz^
 ||szsbiw.xyz^
 ||tc911.vip^
@@ -466,6 +476,7 @@
 ||uqelxct.cn^
 ||uqymady.cn^
 ||uu5731uu.com^
+||uu7819uu.com^
 ||uwhreur.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
@@ -484,12 +495,14 @@
 ||web4023.top^
 ||weeqmcq.cn^
 ||whbn.xyz^
+||wjaqc.xyz^
 ||wvwl.cn^
 ||wwgqqq.com^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
 ||xiaochen1.cn^
+||xiaoliublog.icu^
 ||xingyang.in^
 ||xiod.xyz^
 ||xlxknf.xyz^
@@ -506,6 +519,7 @@
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
+||zdyuoae.xyz^
 ||zhalinyyds.com^
 ||zhemu.xyz^
 ||zhouduanyyds.com^
@@ -517,13 +531,13 @@
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||iaacua.xyz^
-||9vs0.cn^
-||bovhzz.xyz^
-||gaokao.asia^
-||zdyuoae.xyz^
-||0776.red^
-||iidjo.xyz^
+||tpjmqq.com^
+||smlmupi.cn^
+||vlinz.icu^
+||qkcaqq.xyz^
+||jeidd.xyz^
+||jyxfvp.xyz^
+||jbtfmis.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -7862,7 +7876,6 @@
 ||avcao.cc/js/p.js
 ||avcity.twavtv.com/iframe/
 ||avdao.pw/dist/js/sc_check
-||avdb.me/ad/
 ||avjj26.com/api/?d=pc&c=advert&
 ||avple.video/asset/bann.js
 ||avseesee.com/amandison.php
@@ -8053,6 +8066,7 @@
 ||bianzhirensheng.com/img/bianzhiji.jpg
 ||biaoge.tv/fa
 ||bigear.cn/cache/htmlcache/
+||biggggg.com/videos/*/media_000$rewrite=abp-resource:blank-mp3,domain=nivod4.tv
 ||biketo.com/d/file/p/
 ||bilibilijj.com/image/right_bottom.gif
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
@@ -8075,7 +8089,6 @@
 ||bkjia.com/bkjia/js/artitle.js
 ||bkjia.com/bkjia/js/banner
 ||bkjia.com/bkjia/js/subnavtop.js
-||bku3.com/js/cctv-bf.js
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogspot.com^*/s1600/drug.gif
 ||blueidea.com/js/ajs.js
@@ -9850,7 +9863,7 @@
 ||mangahax.com/images/ima_
 ||manqian.cn/784a6e27-be5b-4442-86e5-9f4adb51894d?
 ||manqian.cn/async/adLocationConfig
-||manwa2.me/static/custom/files/300X250.$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
+||manwa.me/static/custom/files/300X250.$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
 ||maodh.com/admin/up/*.gif
 ||maolihui.com/wp-content/themes/miaonew/images/adb
 ||maopu.tv/d/file/p/2019/07/6ac50c702cf9e6a9a7910a510c40cb73.jpg
@@ -10848,7 +10861,6 @@
 ||tom.com/*TomFlashAd
 ||tom.com/adsender/
 ||tonghuacun.com/js/uc.js
-||tongji-badu.cc/listplay.
 ||tonnn.com/promotion2/*.js
 ||toolfk.com/common/zfb.jpg
 ||topmba.mobi/ad/
@@ -10954,7 +10966,6 @@
 ||videowood.me/assets/js/popup.js
 ||videowood.tv/popjavascript
 ||vip.luanren.com/data/*.gif
-||vip27j.xyz/dh.js
 ||vipdage.com/wp-content/uploads/ad/
 ||vipyearha.com/uploads/20*.gif
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
@@ -11067,9 +11078,7 @@
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xcar.com.cn/dsp/ad
-||xchina.co/plugins/jquery.modal/
 ||xchina.co/upload/ad/
-||xchina.fun/plugins/jquery.modal/jquery.modal.min.js
 ||xchina.pro/upload/ad/
 ||xdcad.net/source/plugin/disad/disad.js
 ||xdf.cn/v4/js/leyus/
@@ -11124,7 +11133,6 @@
 ||xmcimg.com/js/m.js
 ||xmrc.com.cn/net/info/html/
 ||xng02.com/api.php?mod=ad&
-||xnklgas.cn/common/getBannerList
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
 ||xoimg.com^$domain=18board.com|18p2p.com
@@ -13245,7 +13253,6 @@
 @@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|ems.com.cn|jdboshi.com|jialingmm.net|lcm88.com|meiju11.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||soufunimg.com/count/uvbforpc.js
-@@||ss999.me/i.php?i=
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||tajs.qq.com/stats?$~third-party
 @@||tbcdn.cn^*/click_track.js
