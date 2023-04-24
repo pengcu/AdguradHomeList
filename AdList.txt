@@ -538,6 +538,11 @@
 ||jeidd.xyz^
 ||jyxfvp.xyz^
 ||jbtfmis.xyz^
+||dtnhjzl.xyz^
+||yywh.vip^
+||amryqmm.cn^
+||donku.club^
+||wxxmt.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -11340,6 +11345,8 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||380tv.com/upload/*-ad-
+||sw76r85eda3k.com/need/h5.
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
@@ -11996,6 +12003,7 @@
 @@||vodjk.com/offlights.js
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
+||daima.aixiaola.com^
 ||003store.com^
 ||0512s.com^$third-party
 ||0755rc.com^$third-party
