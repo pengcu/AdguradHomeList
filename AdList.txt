@@ -255,6 +255,9 @@
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+||118.107.47.88^
+||143.92.60.44^
+||154.212.147.231^
 ||0776.red^
 ||08u6q.com^
 ||1136999.com^
@@ -263,7 +266,9 @@
 ||230579.top^
 ||331qka.cn^
 ||39nw.com^
+||4388888.xyz^
 ||480img.com^
+||4cjh.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -286,6 +291,7 @@
 ||adbtwyxl96.fun^
 ||agwdac.xyz^
 ||aircraft-fapi.club^
+||ajjgune.cn^
 ||ajucem.xyz^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
@@ -318,6 +324,7 @@
 ||ccohayo.xyz^
 ||cdcc3.com^
 ||cdfda.xyz^
+||cdkke.xyz^
 ||cdn-99-pic.cc^
 ||cennv.cn^
 ||cfxkluv.cn^
@@ -373,6 +380,7 @@
 ||goiagm.xyz^
 ||golden88.co^
 ||gpqicw.xyz^
+||grxeyig.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
 ||gykyec.xyz^
@@ -415,6 +423,7 @@
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiangzimeng1.cn^
+||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
 ||jlzz.name^
@@ -456,6 +465,7 @@
 ||mindopu.com^
 ||moend.xyz^
 ||mrgecm.xyz^
+||mrruuov.cn^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyx.ltd^
@@ -486,6 +496,7 @@
 ||poopd.xyz^
 ||poqwnllkm.com^
 ||ppshop.club^
+||pqldzp.xyz^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
@@ -508,6 +519,7 @@
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rizgtf.xyz^
+||rksnqq.com^
 ||rpajqxo.cn^
 ||rqytqq.com^
 ||rsbepv.xyz^
@@ -616,6 +628,7 @@
 ||zdlnhv.xyz^
 ||zdo-bdg.xyz^
 ||zdyuoae.xyz^
+||zgyvg.top^
 ||zhalinyyds.com^
 ||zhemu.xyz^
 ||zhoubo01.cn^
@@ -630,6 +643,13 @@
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||bekcd.xyz^
+||vydbvp.xyz^
+||pkynqq.com^
+||rszqtry.cn^
+||feiju12138.xyz^
+||jstimiz.xyz^
+||acqc9.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -10534,7 +10554,6 @@
 ||rfidworld.com.cn/js/RFID.js
 ||rfidworld.com.cn/js/RFIDExec.js
 ||rfidworld.com.cn/Notice/Home
-||ri1.site/wp-content/uploads/*x400.
 ||riaway.com/statics/idea.jpg
 ||rigengjihua.cn/banner/
 ||right.com.cn/forum/static/image/common/logo*.gif
