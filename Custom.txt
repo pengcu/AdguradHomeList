@@ -1,3 +1,5 @@
 appstorrent.ru
-npmjs.org
+
+npm.community
 npmjs.com
+npmjs.org
