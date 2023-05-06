@@ -1,4 +1,5 @@
 appstorrent.ru
+fastly.net
 npm.community
 npmjs.com
 npmjs.org
