@@ -6142,4 +6142,5 @@
 [/npm.community/]10.10.10.11
 [/npmjs.com/]10.10.10.11
 [/npmjs.org/]10.10.10.11
+[/stackpathcdn.com/]10.10.10.11
 10.10.10.1
