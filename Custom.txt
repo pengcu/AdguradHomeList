@@ -3,3 +3,4 @@ fastly.net
 npm.community
 npmjs.com
 npmjs.org
+stackpathcdn.com
