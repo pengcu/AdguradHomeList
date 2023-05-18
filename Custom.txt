@@ -1,4 +1,5 @@
 appstorrent.ru
+docker.com
 fastly.net
 npm.community
 npmjs.com
