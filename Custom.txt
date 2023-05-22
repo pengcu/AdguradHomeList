@@ -4,4 +4,5 @@ fastly.net
 npm.community
 npmjs.com
 npmjs.org
+ptwxz.com
 stackpathcdn.com
