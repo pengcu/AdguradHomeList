@@ -239,9 +239,6 @@
 ||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
 ||nunuyingyuan.com/serviceworker.js^$script
 ||dandanzan.cf/serviceworker.js^$script
-@@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
-||wp.com/netflixya.com/upload/$image
-||yanetflix.com/upload/vod/$image
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
@@ -361,6 +358,7 @@
 ||bjwh8.xyz^
 ||bkae.top^
 ||blue-rain.com.cn^
+||blvnsgr.xyz^
 ||blxfqq.com^
 ||bockd.xyz^
 ||boshao666.com^
@@ -410,6 +408,7 @@
 ||csh253.cn^
 ||cvmesi.xyz^
 ||cwsgbekun.xyz^
+||czexrhl.cn^
 ||d7dzf.xyz^
 ||d86n.top^
 ||dagft.cn^
@@ -425,6 +424,7 @@
 ||devofei.xyz^
 ||dgfqqq.com^
 ||dhaxhsa325.com^
+||dhxrxn.xyz^
 ||diekd.xyz^
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
@@ -449,6 +449,7 @@
 ||enahmy.xyz^
 ||endio.xyz^
 ||eqknlsw.xyz^
+||euyvpgn.cn^
 ||evmnlpv.cn^
 ||ewandlw.top^
 ||excfig.xyz^
@@ -459,6 +460,7 @@
 ||fangguanjia.xyz^
 ||fangqingkai.icu^
 ||fast416.info^
+||fatvzh.xyz^
 ||fcied.xyz^
 ||fdrxdr.xyz^
 ||fdytdc.xyz^
@@ -507,8 +509,10 @@
 ||h731.icu^
 ||hangtuo.pub^
 ||hbbxwan.cn^
+||hbkunye.com^
 ||hefei64.com^
 ||heild.xyz^
+||heiow.xyz^
 ||hejbd.cn^
 ||heliangjun2.cn^
 ||helid.xyz^
@@ -551,6 +555,7 @@
 ||iughyy7919.com^
 ||iwandlo.top^
 ||iwdvvoc.cn^
+||j1p6w.xyz^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
@@ -608,12 +613,15 @@
 ||ledni.xyz^
 ||lendc.xyz^
 ||lesenjiaoyu.xyz^
+||lgecqrb.com^
 ||lianxi.link^
 ||linuozhiyao.xyz^
 ||ljte0.com^
+||lkidke.com^
 ||lkmxqq.com^
 ||lmlzht.xyz^
 ||lnnjnv.xyz^
+||lnpqqq.com^
 ||lorenop.icu^
 ||lqglqq.com^
 ||luckydino.ren^
@@ -658,6 +666,7 @@
 ||nedes.xyz^
 ||nekomasu.ltd^
 ||networkname.xyz^
+||nezqmud.com^
 ||ningdebus.club^
 ||nntsdp.xyz^
 ||nogff.top^
@@ -719,6 +728,7 @@
 ||qiwjiy.xyz^
 ||qkcaqq.xyz^
 ||qkwsqq.com^
+||qm6ef.xyz^
 ||qnmtqq.com^
 ||qpoiwnelc.com^
 ||qqied.xyz^
@@ -857,6 +867,7 @@
 ||wqweiog.xyz^
 ||wsoxwa.xyz^
 ||wvwl.cn^
+||wwandle.top^
 ||wwgqqq.com^
 ||wwqfqq.com^
 ||wx001.online^
@@ -912,6 +923,7 @@
 ||yttc.ren^
 ||yuebog.xyz^
 ||yulingaa.xyz^
+||yuwenbin.host^
 ||ywsiqlg.cn^
 ||yywh.vip^
 ||z11011.com^
@@ -922,6 +934,7 @@
 ||zdlnhv.xyz^
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
+||zdpphgd.cn^
 ||zdyuoae.xyz^
 ||zeatse.buzz^
 ||zebjlt.buzz^
@@ -946,16 +959,16 @@
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||lnpqqq.com^
-||lkidke.com^
-||zdpphgd.cn^
-||dhxrxn.xyz^
-||hbkunye.com^
-||yuwenbin.host^
-||wwandle.top^
-||blvnsgr.xyz^
-||fatvzh.xyz^
-||heiow.xyz^
+||ogtphoj.cn^
+||s3nycv.xyz^
+||dezstd.xyz^
+||jjnrqq.com^
+||lkqyqwk.xyz^
+||dl520.fun^
+||inmcd.xyz^
+||nkvwvx.xyz^
+||q1zcp.com^
+||nkvwvx.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -9216,6 +9229,7 @@
 ||itavcn.com/pic/news/*-90
 ||itavcn.com/pic/news/*x90
 ||itavcn.com/pic/news/201802/20180207/image/050N2.gif
+||itbaoku.cn/Content/jms_
 ||itbear.com.cn/abc/list-and-
 ||itc.*^prod=ad&
 ||itc.cn/?prod=rtb&
@@ -10371,6 +10385,7 @@
 ||share44.com/adad2014/
 ||shbear.com^*/ad/
 ||shen4club.com/style/*.js?v=
+||shenguangai.com/upload/img/1683711111.
 ||shewang.net/images/*/900x
 ||shewang.net/images/*/banner
 ||shewang.net/images/*/CHD
