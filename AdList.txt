@@ -237,8 +237,8 @@
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
-||nunuyingyuan.com/serviceworker.js^$script
-||dandanzan.cf/serviceworker.js^$script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
@@ -320,6 +320,7 @@
 ||adbtwyxl96.fun^
 ||adcd7.com^
 ||adelaideceliacd.com^
+||aeletheacd.com^
 ||afndhou.xyz^
 ||agwdac.xyz^
 ||aicpa.club^
@@ -360,6 +361,7 @@
 ||blue-rain.com.cn^
 ||blvnsgr.xyz^
 ||blxfqq.com^
+||bnz9.cn^
 ||bockd.xyz^
 ||boshao666.com^
 ||bovhzz.xyz^
@@ -422,12 +424,15 @@
 ||denghaishan1.cn^
 ||dertyhsf.xyz^
 ||devofei.xyz^
+||dezstd.xyz^
 ||dgfqqq.com^
 ||dhaxhsa325.com^
 ||dhxrxn.xyz^
 ||diekd.xyz^
+||diggtp001.com^
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
+||dl520.fun^
 ||doccd.xyz^
 ||donku.club^
 ||dpaic.xyz^
@@ -548,6 +553,7 @@
 ||ijnuhb.top^
 ||imks.cn^
 ||imu2021.site^
+||inmcd.xyz^
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
@@ -568,6 +574,7 @@
 ||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
+||jjnrqq.com^
 ||jlzz.name^
 ||jn060.xyz^
 ||jndyl.xyz^
@@ -619,6 +626,7 @@
 ||ljte0.com^
 ||lkidke.com^
 ||lkmxqq.com^
+||lkqyqwk.xyz^
 ||lmlzht.xyz^
 ||lnnjnv.xyz^
 ||lnpqqq.com^
@@ -668,6 +676,7 @@
 ||networkname.xyz^
 ||nezqmud.com^
 ||ningdebus.club^
+||nkvwvx.xyz^
 ||nntsdp.xyz^
 ||nogff.top^
 ||npdkdb.xyz^
@@ -679,6 +688,7 @@
 ||nwandlc.top^
 ||nwecd.xyz^
 ||ocoda.xyz^
+||ogtphoj.cn^
 ||oimzak.xyz^
 ||ojuhwc.xyz^
 ||on-you.cn^
@@ -716,6 +726,7 @@
 ||prtlth.xyz^
 ||pvjlfjz.cn^
 ||pzlxnd.xyz^
+||q1zcp.com^
 ||qange.com^
 ||qatuaad.cn^
 ||qfblqq.com^
@@ -730,9 +741,11 @@
 ||qkwsqq.com^
 ||qm6ef.xyz^
 ||qnmtqq.com^
+||qooav.top^
 ||qpoiwnelc.com^
 ||qqied.xyz^
 ||quancuncq.xyz^
+||qvcyeknp.xyz^
 ||qwahk.com^
 ||qwrdj.xyz^
 ||ra1.xyz^
@@ -760,6 +773,7 @@
 ||rszqtry.cn^
 ||rtdxqq.com^
 ||rtjmln.xyz^
+||s3nycv.xyz^
 ||sa3a.cn^
 ||sanguine.ren^
 ||sbyueyue.xyz^
@@ -959,16 +973,14 @@
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||ogtphoj.cn^
-||s3nycv.xyz^
-||dezstd.xyz^
-||jjnrqq.com^
-||lkqyqwk.xyz^
-||dl520.fun^
-||inmcd.xyz^
-||nkvwvx.xyz^
-||q1zcp.com^
-||nkvwvx.xyz^
+||c9cc.icu^
+||lobqpt.xyz^
+||vuxxtn.xyz^
+||kpiwgio.cn^
+||yankuojjqq.com^
+||hrngmf.com^
+||oiljomy.xyz^
+||jweod.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -7424,7 +7436,6 @@
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||a5xiazai.com/z/
-||aabook.cc/images/apps/
 ||aaread.space/images/*0.gif
 ||aassy4.com/dm/
 ||abbao.cn^*adblock
@@ -8266,7 +8277,6 @@
 ||cr173.com/show/
 ||cr173.com/skina/
 ||cr173.com/skinb/
-||crazyasia.ml/myupdatelist.
 ||creaders.net*/ad_func.js
 ||crxs.me/scripts/my_
 ||crxs.me/upload/ad/
@@ -12543,6 +12553,7 @@
 ||retrieval-bd.duote.com^
 ||richh.cn^
 ||rst2.y3600.cn^
+||ruiwen.com/css_
 ||rxys.cn^
 ||s.yaozui.com^
 ||s.zixuntop.com^
