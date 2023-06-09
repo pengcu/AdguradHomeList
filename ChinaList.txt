@@ -3580,9 +3580,12 @@
 [/517huwai.com/]10.10.10.1
 [/517idc.com/]10.10.10.1
 [/517japan.com/]10.10.10.1
+[/517la.com/]10.10.10.1
+[/517la.net/]10.10.10.1
 [/517lppz.com/]10.10.10.1
 [/517ming.com/]10.10.10.1
 [/517mr.com/]10.10.10.1
+[/517na.com/]10.10.10.1
 [/517rcw.com/]10.10.10.1
 [/517sc.com/]10.10.10.1
 [/517tez.com/]10.10.10.1
@@ -18618,7 +18621,6 @@
 [/dongqiudi.com/]10.10.10.1
 [/dongqiudi.net/]10.10.10.1
 [/dongsenzs.com/]10.10.10.1
-[/dongshenghuiyang.com/]10.10.10.1
 [/dongshou.com/]10.10.10.1
 [/dongsport.com/]10.10.10.1
 [/dongtaijt.com/]10.10.10.1
@@ -34358,6 +34360,7 @@
 [/lanrenzhaofang.com/]10.10.10.1
 [/lanrenzhijia.com/]10.10.10.1
 [/lanrenzhoumo.com/]10.10.10.1
+[/lansancn.com/]10.10.10.1
 [/lansedongli.com/]10.10.10.1
 [/lansha.tv/]10.10.10.1
 [/lanshanweb.com/]10.10.10.1
@@ -38469,7 +38472,6 @@
 [/moeli123.com/]10.10.10.1
 [/moemiao.net/]10.10.10.1
 [/moeover.com/]10.10.10.1
-[/moerail.ml/]10.10.10.1
 [/moerkeji.net/]10.10.10.1
 [/moerlong.com/]10.10.10.1
 [/moetu.org/]10.10.10.1
@@ -39386,7 +39388,6 @@
 [/namisoft.com/]10.10.10.1
 [/namitiyu.com/]10.10.10.1
 [/namoc.org/]10.10.10.1
-[/nanadao.com/]10.10.10.1
 [/nanapro.org/]10.10.10.1
 [/nanbeijt.com/]10.10.10.1
 [/nanbeiyou.com/]10.10.10.1
@@ -40767,6 +40768,7 @@
 [/onche.net/]10.10.10.1
 [/oncity.cc/]10.10.10.1
 [/one-all.com/]10.10.10.1
+[/one-netbook.com/]10.10.10.1
 [/one918.com/]10.10.10.1
 [/onealert.com/]10.10.10.1
 [/oneapm.com/]10.10.10.1
@@ -40861,6 +40863,7 @@
 [/oomake.com/]10.10.10.1
 [/ooniu.com/]10.10.10.1
 [/ooogo.com/]10.10.10.1
+[/ooooai.com/]10.10.10.1
 [/ooopic.com/]10.10.10.1
 [/ooopn.com/]10.10.10.1
 [/ooppoo.com/]10.10.10.1
@@ -48879,7 +48882,6 @@
 [/sun0769.com/]10.10.10.1
 [/sun0769ns.com/]10.10.10.1
 [/sun0816.com/]10.10.10.1
-[/sun19.com/]10.10.10.1
 [/sun66.net/]10.10.10.1
 [/sunacctg.com/]10.10.10.1
 [/sunater.com/]10.10.10.1
@@ -52415,6 +52417,7 @@
 [/umaman.com/]10.10.10.1
 [/umbpay.com/]10.10.10.1
 [/umcloud.com/]10.10.10.1
+[/umdac.com/]10.10.10.1
 [/umeng.co/]10.10.10.1
 [/umeng.com/]10.10.10.1
 [/umeng.online/]10.10.10.1
