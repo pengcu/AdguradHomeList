@@ -296,6 +296,7 @@
 ||5251m.xyz^
 ||52qd.club^
 ||54ha.cn^
+||5kmp7.top^
 ||5vuk.xyz^
 ||5xur.top^
 ||6696q.com^
@@ -320,6 +321,7 @@
 ||9wsbf.top^
 ||a3kd0.top^
 ||aa665588aa.com^
+||aa889977aa.com^
 ||aa993388aa.com^
 ||aaaaa288.com^
 ||aaaaa556.com^
@@ -462,6 +464,7 @@
 ||d7dzf.xyz^
 ||d86n.top^
 ||dadcc.cn^
+||dadzz.cn^
 ||dagft.cn^
 ||daizitu.ren^
 ||dcdf4.com^
@@ -479,7 +482,9 @@
 ||dfec2.com^
 ||dfjd.xyz^
 ||dgfqqq.com^
+||dgvkrt.xyz^
 ||dhaxhsa325.com^
+||dhxrop.com^
 ||dhxrxn.xyz^
 ||diekd.xyz^
 ||diggtp001.com^
@@ -506,6 +511,7 @@
 ||eaica.xyz^
 ||ealdi.xyz^
 ||ebqidwm.xyz^
+||ebuqxsjq.com^
 ||ecav5.com^
 ||eciea.xyz^
 ||efilgvz.cn^
@@ -540,6 +546,7 @@
 ||feiju12138.xyz^
 ||feild.xyz^
 ||ffbjhl.xyz^
+||fgre9.top^
 ||fijipic.xyz^
 ||fillhr.xyz^
 ||findnam.xyz^
@@ -708,6 +715,7 @@
 ||kkgytur.cn^
 ||kkkqi.cn^
 ||kkkqo.cn^
+||kkmbbvz.xyz^
 ||kkylx.xyz^
 ||kmlxlkz.cn^
 ||knxvwxe.cn^
@@ -743,6 +751,7 @@
 ||lnpqqq.com^
 ||lobqpt.xyz^
 ||lorenop.icu^
+||lpocne.top^
 ||lqglqq.com^
 ||lrah0.top^
 ||luckydino.ren^
@@ -816,6 +825,7 @@
 ||nwecd.xyz^
 ||nwmol.top^
 ||nwuidsbjak.com^
+||nzrovf.xyz^
 ||oalmbmf.xyz^
 ||ocoda.xyz^
 ||ogtphoj.cn^
@@ -834,6 +844,7 @@
 ||otwiss.xyz^
 ||oubqzcg.cn^
 ||owandlk.top^
+||oyysbc.xyz^
 ||p2oh1.xyz^
 ||p4pd.cn^
 ||pacix.xyz^
@@ -950,6 +961,7 @@
 ||somddgo.com^
 ||sou58.com^
 ||sozrrkx.xyz^
+||spplamt.xyz^
 ||srbzw.cn^
 ||srkl.pw^
 ||ssancib.top^
@@ -967,6 +979,7 @@
 ||tffulllist.shop^
 ||tfonlyuse.shop^
 ||tfprivacy.live^
+||tgdopodk.com^
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
@@ -976,6 +989,7 @@
 ||tmochyf.cn^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||tsancii.top^
 ||tshtbh.xyz^
 ||ttpybz.xyz^
 ||tuhipkz.xyz^
@@ -1049,6 +1063,7 @@
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
+||wedvmr.xyz^
 ||weeqmcq.cn^
 ||weixinnft.com^
 ||wenxiaowu.xyz^
@@ -1186,14 +1201,13 @@
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||dadzz.cn^
-||ebuqxsjq.com^
-||lpocne.top^
-||tgdopodk.com^
-||tsancii.top^
-||spplamt.xyz^
-||nzrovf.xyz^
-||dgvkrt.xyz^
+||zxcrr.com^
+||zffymmdg.com^
+||kart2ks.icu^
+||tnebxv.top^
+||xlardaxq.com^
+||vokwlch.xyz^
+||njtprv.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -6095,6 +6109,7 @@
 ||234fang.com/index.php?/ajax/get_adv/
 ||239300.net/template/*_mh_gg
 ||23aitt.com/zz/
+||23bei.com/static/plugins/layer/layer.
 ||23img.com^*/qomnyi.
 ||23sc.cn/andy/
 ||241hs.com/js/jquery.js
@@ -11304,6 +11319,7 @@
 ||cdn.sinam.top^
 ||cdn.wenzhangba.cn^
 ||cdn1.tvzhe.com^
+||cdn93d99x0e.23bei.com^
 ||cdnjs.hro-cosmetics.com^
 ||cdnjs.mopair-erm.net^
 ||cdnjs.z-face.cn^
