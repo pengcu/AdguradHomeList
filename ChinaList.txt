@@ -1,4 +1,3 @@
-[/0-100.com/]10.10.10.1
 [/0-6.com/]10.10.10.1
 [/00.net/]10.10.10.1
 [/000.link/]10.10.10.1
@@ -4672,7 +4671,6 @@
 [/5906333.com/]10.10.10.1
 [/590m.com/]10.10.10.1
 [/59120.com/]10.10.10.1
-[/591234x.com/]10.10.10.1
 [/59168.net/]10.10.10.1
 [/59178.com/]10.10.10.1
 [/5918dyw.com/]10.10.10.1
@@ -8266,7 +8264,6 @@
 [/ampmake.com/]10.10.10.1
 [/ampxl.com/]10.10.10.1
 [/ams-ic.com/]10.10.10.1
-[/amsjsy.com/]10.10.10.1
 [/amsoveasea.com/]10.10.10.1
 [/amssro.net/]10.10.10.1
 [/amtron-ic.com/]10.10.10.1
@@ -9698,7 +9695,6 @@
 [/bao21.com/]10.10.10.1
 [/bao315.com/]10.10.10.1
 [/bao369.com/]10.10.10.1
-[/baobabnet.com/]10.10.10.1
 [/baobao.com/]10.10.10.1
 [/baobao001.com/]10.10.10.1
 [/baobao88.com/]10.10.10.1
@@ -12282,7 +12278,6 @@
 [/cashtoutiao.com/]10.10.10.1
 [/cashwaytech.com/]10.10.10.1
 [/casic-addsino.com/]10.10.10.1
-[/casic-amc.com/]10.10.10.1
 [/casic-t.com/]10.10.10.1
 [/casic.com/]10.10.10.1
 [/casic304.com/]10.10.10.1
@@ -13209,7 +13204,6 @@
 [/chaojifan.com/]10.10.10.1
 [/chaojifangyu.com/]10.10.10.1
 [/chaojihetong.com/]10.10.10.1
-[/chaojishipin.com/]10.10.10.1
 [/chaojixiaobaicai.club/]10.10.10.1
 [/chaojiying.com/]10.10.10.1
 [/chaojiyun.com/]10.10.10.1
@@ -14244,6 +14238,7 @@
 [/chitanda.me/]10.10.10.1
 [/chitu.com/]10.10.10.1
 [/chitu107.com/]10.10.10.1
+[/chitus.com/]10.10.10.1
 [/chivast.com/]10.10.10.1
 [/chivox.com/]10.10.10.1
 [/chivoxapp.com/]10.10.10.1
@@ -16401,6 +16396,7 @@
 [/ct-laser.com/]10.10.10.1
 [/ct10000.com/]10.10.10.1
 [/ct108.com/]10.10.10.1
+[/ct52.com/]10.10.10.1
 [/ct597.com/]10.10.10.1
 [/ctaca.com/]10.10.10.1
 [/ctags.net/]10.10.10.1
@@ -19270,7 +19266,6 @@
 [/dxton.com/]10.10.10.1
 [/dxwei.com/]10.10.10.1
 [/dxxnews.com/]10.10.10.1
-[/dxxps.com/]10.10.10.1
 [/dxxxfl.com/]10.10.10.1
 [/dxy.com/]10.10.10.1
 [/dxy.me/]10.10.10.1
@@ -24920,7 +24915,6 @@
 [/halobear.com/]10.10.10.1
 [/halomobi.com/]10.10.10.1
 [/haluoha.com/]10.10.10.1
-[/hambut.com/]10.10.10.1
 [/hamir.net/]10.10.10.1
 [/han-ju.cc/]10.10.10.1
 [/han-tang.cc/]10.10.10.1
@@ -25020,6 +25014,7 @@
 [/hanyou.com/]10.10.10.1
 [/hanyougame.com/]10.10.10.1
 [/hanyouwang.com/]10.10.10.1
+[/hanyu.life/]10.10.10.1
 [/hanyucar.com/]10.10.10.1
 [/hanyurumen.com/]10.10.10.1
 [/hanzhifeng.com/]10.10.10.1
@@ -28391,6 +28386,7 @@
 [/iblue.me/]10.10.10.1
 [/ibluefrog.com/]10.10.10.1
 [/ibluesocial.com/]10.10.10.1
+[/ibmfwqdl.com/]10.10.10.1
 [/ibmhz.com/]10.10.10.1
 [/ibmwclub.com/]10.10.10.1
 [/ibook8.com/]10.10.10.1
@@ -29868,7 +29864,6 @@
 [/istylepdf.com/]10.10.10.1
 [/isudaji.com/]10.10.10.1
 [/isuike.com/]10.10.10.1
-[/isumiao.com/]10.10.10.1
 [/isummi.com/]10.10.10.1
 [/isun.org/]10.10.10.1
 [/isuzhou.me/]10.10.10.1
@@ -34453,6 +34448,7 @@
 [/laohuyun.com/]10.10.10.1
 [/laojilu.com/]10.10.10.1
 [/laojiuxitong.com/]10.10.10.1
+[/laojuhui.com/]10.10.10.1
 [/laoke.com/]10.10.10.1
 [/laolai.com/]10.10.10.1
 [/laoliang.net/]10.10.10.1
@@ -38774,7 +38770,6 @@
 [/mr91.com/]10.10.10.1
 [/mrabit.com/]10.10.10.1
 [/mrbanana.com/]10.10.10.1
-[/mrbluyee.com/]10.10.10.1
 [/mrcjcn.com/]10.10.10.1
 [/mrcrm.com/]10.10.10.1
 [/mrcywang.com/]10.10.10.1
@@ -40469,6 +40464,7 @@
 [/nxyqs.com/]10.10.10.1
 [/ny-yy.com/]10.10.10.1
 [/ny83.com/]10.10.10.1
+[/nya.ink/]10.10.10.1
 [/nyaacat.com/]10.10.10.1
 [/nyasama.com/]10.10.10.1
 [/nyato.com/]10.10.10.1
@@ -44674,7 +44670,6 @@
 [/repianimg.com/]10.10.10.1
 [/replays.net/]10.10.10.1
 [/replicated.cc/]10.10.10.1
-[/rerevod.com/]10.10.10.1
 [/resccske.cyou/]10.10.10.1
 [/resheji.com/]10.10.10.1
 [/resistor.today/]10.10.10.1
@@ -47582,7 +47577,6 @@
 [/site-digger.com/]10.10.10.1
 [/siteapp-static.com/]10.10.10.1
 [/sitekc.com/]10.10.10.1
-[/sites120.com/]10.10.10.1
 [/sithc.com/]10.10.10.1
 [/sitiaoyu.com/]10.10.10.1
 [/sitongedu.org/]10.10.10.1
@@ -56030,7 +56024,6 @@
 [/www-63608.com/]10.10.10.1
 [/www-hangzhou-aliyun.com/]10.10.10.1
 [/www.adobe.com/]10.10.10.1
-[/www.agoda.com/]10.10.10.1
 [/www.akamai.com/]10.10.10.1
 [/www.amd.com/]10.10.10.1
 [/www.analog.com/]10.10.10.1
@@ -56602,7 +56595,6 @@
 [/xfinfr.com/]10.10.10.1
 [/xfisp.com/]10.10.10.1
 [/xfjw.net/]10.10.10.1
-[/xfkou.com/]10.10.10.1
 [/xfliusheng.com/]10.10.10.1
 [/xfn.xyz/]10.10.10.1
 [/xfnano.com/]10.10.10.1
@@ -63071,7 +63063,6 @@
 [/zhuoshigroup.com/]10.10.10.1
 [/zhuoshixiong.com/]10.10.10.1
 [/zhuotingwl.com/]10.10.10.1
-[/zhuotujiaoyu.com/]10.10.10.1
 [/zhuoyi.com/]10.10.10.1
 [/zhuoyigame.com/]10.10.10.1
 [/zhuoyigame.site/]10.10.10.1
