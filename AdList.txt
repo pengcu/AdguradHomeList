@@ -385,10 +385,12 @@
 ||bapdkgmvn.xyz^
 ||baucdngb.xyz^
 ||baytfede.xyz^
+||bbhktv.xyz^
 ||bcb9.cn^
 ||bcivqxd.cn^
 ||bcvxfgy.xyz^
 ||bdrzxp.xyz^
+||beatricenba.com^
 ||beiod.xyz^
 ||bekcd.xyz^
 ||bekco.xyz^
@@ -420,8 +422,10 @@
 ||bqdyqq.com^
 ||bqsxqq.com^
 ||brfgbn.xyz^
+||brfvyrrp.com^
 ||brkzczn.cn^
 ||brzfqq.com^
+||bsanciv.top^
 ||bvvb9.com^
 ||bwandlv.top^
 ||bwwlw.cn^
@@ -581,6 +585,7 @@
 ||fmild.xyz^
 ||fnfhjka.xyz^
 ||fnnzr.cn^
+||fooid.xyz^
 ||frcykpk.cn^
 ||fsnpbh.xyz^
 ||fssxyiq.cn^
@@ -595,6 +600,7 @@
 ||gcqciiqk.com^
 ||gggppp666.com^
 ||ggx0001.com^
+||ghsnhjk.cn^
 ||giold.xyz^
 ||gixhlii.xyz^
 ||gjmqqq.com^
@@ -814,6 +820,7 @@
 ||lxbndh.xyz^
 ||lxyl66.cn^
 ||lydrnj.xyz^
+||m03dv.xyz^
 ||m9d6p03.com^
 ||mahao1.cn^
 ||majunguo.cn^
@@ -844,6 +851,7 @@
 ||mssdkrt.xyz^
 ||mu6m1.com^
 ||mueid.xyz^
+||mujkdna.xyz^
 ||mwandlx.top^
 ||mxknqq.com^
 ||mzqf1.com^
@@ -1002,6 +1010,7 @@
 ||rtdxqq.com^
 ||rtjmln.xyz^
 ||rusticaula.com^
+||rvlgrb.xyz^
 ||rxyggrq.cn^
 ||s3nycv.xyz^
 ||s6in.cc^
@@ -1038,6 +1047,7 @@
 ||surperverse.com^
 ||svrojrv.cn^
 ||swandlb.top^
+||szafvjdd.icu^
 ||szsbiw.xyz^
 ||t0pan.top^
 ||t33ng.com^
@@ -1053,6 +1063,7 @@
 ||tfprivacy.live^
 ||tgdopodk.com^
 ||thdidx.xyz^
+||thesac8.top^
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
@@ -1089,6 +1100,7 @@
 ||ucqihfh.cn^
 ||uejnmjdpd.xyz^
 ||ufgg55.xyz^
+||uifyeldt.top^
 ||umcpebi.cn^
 ||uqelxct.cn^
 ||uqymady.cn^
@@ -1135,6 +1147,7 @@
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
+||vzeuvcdi.icu^
 ||vzfizr.xyz^
 ||w4jz.top^
 ||w9f1r.top^
@@ -1237,6 +1250,7 @@
 ||yisangyyds.com^
 ||yiw2iei.icu^
 ||yjgqpfj.cn^
+||ykotyeo.cn^
 ||yrszy.com.cn^
 ||yszpegh.xyz^
 ||yttc.ren^
@@ -1264,6 +1278,7 @@
 ||zdyuoae.xyz^
 ||zeatse.buzz^
 ||zebjlt.buzz^
+||zeookuv.xyz^
 ||zetcul.xyz^
 ||zffymmdg.com^
 ||zgyvg.top^
@@ -1298,14 +1313,14 @@
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
-||brfvyrrp.com^
-||ykotyeo.cn^
-||thesac8.top^
-||bsanciv.top^
-||rvlgrb.xyz^
-||zeookuv.xyz^
-||bbhktv.xyz^
-||fooid.xyz^
+||yzykttcy.com^
+||qrxmgfz.cn^
+||bacder.fun^
+||bnl2bii.icu^
+||jcjzikj.xyz^
+||bljlrl.xyz^
+||geiod.xyz^
+||rfnenr.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -7856,6 +7871,7 @@
 ||fanhaodang.org/Runtime/js/
 ||fanquanwang.com/uploads/ad/
 ||fans.*.space/fans/*.php
+||fanyi.baidu.com/wise/afd
 ||faquanya.com/weixin/
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
@@ -10362,6 +10378,10 @@
 ||zhihu.com/api/*banners/
 ||zhihu.com/commercial_api/banners_
 ||zhihu.com/node/Banner?
+||zhimg.com/80/v2-503830bc48217331677fc5c7b67eee12.
+||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
+||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
+||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhongyi.ifeng.com/a/zt.js
