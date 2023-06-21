@@ -5732,7 +5732,6 @@
 [/8090xx.com/]10.10.10.1
 [/8090yx.com/]10.10.10.1
 [/8090yxs.com/]10.10.10.1
-[/809803.com/]10.10.10.1
 [/809926.net/]10.10.10.1
 [/80baicai.biz/]10.10.10.1
 [/80bi.com/]10.10.10.1
@@ -7799,7 +7798,6 @@
 [/aiweibang.com/]10.10.10.1
 [/aiweline.com/]10.10.10.1
 [/aiwen.cc/]10.10.10.1
-[/aiwenwo.net/]10.10.10.1
 [/aiwenyi.com/]10.10.10.1
 [/aiworkspace.com/]10.10.10.1
 [/aiwulao.com/]10.10.10.1
@@ -17288,6 +17286,7 @@
 [/dazhe5.com/]10.10.10.1
 [/dazhenzimiao.com/]10.10.10.1
 [/dazhewa.com/]10.10.10.1
+[/dazhong.com/]10.10.10.1
 [/dazhongbanben.com/]10.10.10.1
 [/dazhonghr.com/]10.10.10.1
 [/dazhoumzj.com/]10.10.10.1
@@ -18140,6 +18139,7 @@
 [/diygogogo.com/]10.10.10.1
 [/diygw.com/]10.10.10.1
 [/diyhi.com/]10.10.10.1
+[/diyiapp.com/]10.10.10.1
 [/diyicai.com/]10.10.10.1
 [/diyidan.com/]10.10.10.1
 [/diyidan.net/]10.10.10.1
@@ -20629,6 +20629,7 @@
 [/excelpx.com/]10.10.10.1
 [/exceltip.net/]10.10.10.1
 [/exchen.net/]10.10.10.1
+[/excm.net/]10.10.10.1
 [/exdoll.com/]10.10.10.1
 [/exexm.com/]10.10.10.1
 [/exezhanqun.com/]10.10.10.1
@@ -38855,6 +38856,7 @@
 [/mumayi.com/]10.10.10.1
 [/mumu01.com/]10.10.10.1
 [/muniao.com/]10.10.10.1
+[/mupao.com/]10.10.10.1
 [/mupceet.com/]10.10.10.1
 [/mupmstx.com/]10.10.10.1
 [/murdermysterypa.com/]10.10.10.1
@@ -42605,6 +42607,7 @@
 [/pystarter.com/]10.10.10.1
 [/pytgo.com/]10.10.10.1
 [/python-china.com/]10.10.10.1
+[/python100.com/]10.10.10.1
 [/python51.com/]10.10.10.1
 [/pythonav.com/]10.10.10.1
 [/pythonclub.org/]10.10.10.1
@@ -48511,6 +48514,7 @@
 [/starpiao.com/]10.10.10.1
 [/starrockinvest.com/]10.10.10.1
 [/starrtc.com/]10.10.10.1
+[/starrydyn.com/]10.10.10.1
 [/starrysurvey.com/]10.10.10.1
 [/stars-one.site/]10.10.10.1
 [/starschina.com/]10.10.10.1
@@ -57560,6 +57564,7 @@
 [/xitek.net/]10.10.10.1
 [/xitie.com/]10.10.10.1
 [/xitieba.com/]10.10.10.1
+[/xitieba.net/]10.10.10.1
 [/xitmi.com/]10.10.10.1
 [/xitong-tech.com/]10.10.10.1
 [/xitong110.com/]10.10.10.1
@@ -63721,6 +63726,7 @@
 [/zshield.net/]10.10.10.1
 [/zshl.com/]10.10.10.1
 [/zshlife.com/]10.10.10.1
+[/zshtys888.com/]10.10.10.1
 [/zshuoshao.online/]10.10.10.1
 [/zsia.org/]10.10.10.1
 [/zsihuo.com/]10.10.10.1
