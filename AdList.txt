@@ -351,6 +351,7 @@
 ||adfec3.com^
 ||advgjm.com^
 ||aeletheacd.com^
+||afdunaui.com^
 ||afgathacd.com^
 ||afndhou.xyz^
 ||agathacd.com^
@@ -376,6 +377,7 @@
 ||awdc6.com^
 ||ayynsdp.xyz^
 ||azdxypf.cn^
+||bacder.fun^
 ||baiduajbcjkabcav.com^
 ||baidubvjsbvv.com^
 ||baidudbvjksbvs.com^
@@ -406,9 +408,11 @@
 ||bjtel.cn^
 ||bjwh8.xyz^
 ||bkae.top^
+||bljlrl.xyz^
 ||blue-rain.com.cn^
 ||blvnsgr.xyz^
 ||blxfqq.com^
+||bnl2bii.icu^
 ||bny3.cn^
 ||bny6.cn^
 ||bny9.cn^
@@ -462,6 +466,7 @@
 ||chicmifi.com^
 ||chnuuee.xyz^
 ||cidhdgv.xyz^
+||cifyeldf.top^
 ||cjbpqq.com^
 ||cjcvd6.com^
 ||ck33.top^
@@ -483,8 +488,10 @@
 ||d86n.top^
 ||daccp.cn^
 ||dadcc.cn^
+||daddq.cn^
 ||dadwu.cn^
 ||dadzz.cn^
+||daede.cn^
 ||dagft.cn^
 ||dagwi.cn^
 ||daizitu.ren^
@@ -539,6 +546,7 @@
 ||ecav5.com^
 ||eciea.xyz^
 ||efilgvz.cn^
+||efvsyhbf.xyz^
 ||eiadf.xyz^
 ||eitb7.top^
 ||ej65.xyz^
@@ -598,6 +606,7 @@
 ||g77ds2.xyz^
 ||gaokao.asia^
 ||gcqciiqk.com^
+||geiod.xyz^
 ||gggppp666.com^
 ||ggx0001.com^
 ||ghsnhjk.cn^
@@ -642,6 +651,7 @@
 ||hefei64.com^
 ||hefrpv.xyz^
 ||heild.xyz^
+||heioa.xyz^
 ||heiow.xyz^
 ||hejbd.cn^
 ||heliangjun2.cn^
@@ -699,6 +709,7 @@
 ||iszbxqps.com^
 ||itoken.pro^
 ||iughyy7919.com^
+||iuu3j.xyz^
 ||iwandlo.top^
 ||iwdvvoc.cn^
 ||j1p6w.xyz^
@@ -707,6 +718,7 @@
 ||jbzjegn.cn^
 ||jciske.top^
 ||jciwztfj.com^
+||jcjzikj.xyz^
 ||jdamc.top^
 ||jdpm.net.cn^
 ||jeedi.xyz^
@@ -738,6 +750,7 @@
 ||junkao.club^
 ||justasimple.top^
 ||jvkckeg.cn^
+||jvljnb.xyz^
 ||jvmxrug.xyz^
 ||jwandla.top^
 ||jweod.xyz^
@@ -776,6 +789,7 @@
 ||kybzkiw.xyz^
 ||kzjkexn.cn^
 ||kzjqraj.cn^
+||kzuxlydg.icu^
 ||l74co.xyz^
 ||lazyii.icu^
 ||lcjyll.xyz^
@@ -798,6 +812,7 @@
 ||lkmxqq.com^
 ||lkqyqwk.xyz^
 ||lmlzht.xyz^
+||lnaevr.fun^
 ||lnnjnv.xyz^
 ||lnpqqq.com^
 ||lnzjlr.xyz^
@@ -820,11 +835,13 @@
 ||lxbndh.xyz^
 ||lxyl66.cn^
 ||lydrnj.xyz^
+||lzfzkedp.icu^
 ||m03dv.xyz^
 ||m9d6p03.com^
 ||mahao1.cn^
 ||majunguo.cn^
 ||maoqxyl.xyz^
+||mbekgac.xyz^
 ||mbly0.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -968,6 +985,7 @@
 ||qooav.top^
 ||qpoiwnelc.com^
 ||qqied.xyz^
+||qrxmgfz.cn^
 ||qsanciy.top^
 ||quancuncq.xyz^
 ||qvcyeknp.xyz^
@@ -988,6 +1006,7 @@
 ||reamhqf.xyz^
 ||reffnik.cn^
 ||rencaihome.xyz^
+||rfnenr.xyz^
 ||rgyfqq.com^
 ||rhxwnd.xyz^
 ||risrauj.cn^
@@ -1101,7 +1120,9 @@
 ||uejnmjdpd.xyz^
 ||ufgg55.xyz^
 ||uifyeldt.top^
+||uioozpxq.com^
 ||umcpebi.cn^
+||uo12.com^
 ||uqelxct.cn^
 ||uqymady.cn^
 ||urccncd.xyz^
@@ -1132,6 +1153,7 @@
 ||vfsvv1.com^
 ||vifzrf.xyz^
 ||viroffyy.com^
+||vizacasa.xyz^
 ||vjhjxh.xyz^
 ||vlinz.icu^
 ||vnlqcod.cn^
@@ -1147,6 +1169,7 @@
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
+||vyye.cn^
 ||vzeuvcdi.icu^
 ||vzfizr.xyz^
 ||w4jz.top^
@@ -1251,6 +1274,7 @@
 ||yiw2iei.icu^
 ||yjgqpfj.cn^
 ||ykotyeo.cn^
+||ymhyw6.lol^
 ||yrszy.com.cn^
 ||yszpegh.xyz^
 ||yttc.ren^
@@ -1260,7 +1284,9 @@
 ||ywsiqlg.cn^
 ||yytxzct.xyz^
 ||yywh.vip^
+||yzcpgadw.icu^
 ||yziwoidi.icu^
+||yzykttcy.com^
 ||z11011.com^
 ||z74lb.com^
 ||zaiceyjjqq.com^
@@ -1302,6 +1328,7 @@
 ||zouqiuyyds.com^
 ||zoushao.xyz^
 ||zpfqolj.cn^
+||zppfjh.xyz^
 ||zrakpxsf.com^
 ||zrbabog.cn^
 ||zrrnqq.com^
@@ -1313,19 +1340,14 @@
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
-||yzykttcy.com^
-||qrxmgfz.cn^
-||bacder.fun^
-||bnl2bii.icu^
-||jcjzikj.xyz^
-||bljlrl.xyz^
-||geiod.xyz^
-||rfnenr.xyz^
-||yzcpgadw.icu^
-||vyye.cn^
-||afdunaui.com^
-||uo12.com^
-||vizacasa.xyz^
+||asvysvxr.com^
+||liuyimin5.cn^
+||wazveqv.xyz^
+||dherea.site^
+||ozkbdxdu.icu^
+||jfnkjr.xyz^
+||hzrghx.xyz^
+||ifewo.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
