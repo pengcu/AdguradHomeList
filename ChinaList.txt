@@ -19556,7 +19556,6 @@
 [/easytrip.com/]10.10.10.1
 [/easyzw.com/]10.10.10.1
 [/eateapp.com/]10.10.10.1
-[/eaten.fun/]10.10.10.1
 [/eaydu.com/]10.10.10.1
 [/eayou.com/]10.10.10.1
 [/eayuan.com/]10.10.10.1
@@ -24642,6 +24641,7 @@
 [/h6app.com/]10.10.10.1
 [/h7ec.com/]10.10.10.1
 [/h8jx.com/]10.10.10.1
+[/h9hash.com/]10.10.10.1
 [/ha97.com/]10.10.10.1
 [/haawking.com/]10.10.10.1
 [/habadog.com/]10.10.10.1
@@ -36616,7 +36616,6 @@
 [/lzhpo.com/]10.10.10.1
 [/lzhygame.com/]10.10.10.1
 [/lzjdbjc.com/]10.10.10.1
-[/lzjjdd.net/]10.10.10.1
 [/lzjoy.com/]10.10.10.1
 [/lzlj.com/]10.10.10.1
 [/lzmoyin.com/]10.10.10.1
@@ -44033,7 +44032,6 @@
 [/qutuiwa.com/]10.10.10.1
 [/quumii.com/]10.10.10.1
 [/quvisa.com/]10.10.10.1
-[/quw1234.icu/]10.10.10.1
 [/quwaifu.com/]10.10.10.1
 [/quwan.com/]10.10.10.1
 [/quwan.fun/]10.10.10.1
@@ -46699,6 +46697,7 @@
 [/shiwan.com/]10.10.10.1
 [/shiwangyun.com/]10.10.10.1
 [/shiweisemi.com/]10.10.10.1
+[/shiwusmd.com/]10.10.10.1
 [/shixian.com/]10.10.10.1
 [/shixiaojin.com/]10.10.10.1
 [/shixibiaozhi.com/]10.10.10.1
@@ -48271,6 +48270,7 @@
 [/speednt.com/]10.10.10.1
 [/speedpdf.com/]10.10.10.1
 [/speedsz.net/]10.10.10.1
+[/speedtest.im/]10.10.10.1
 [/speedws.info/]10.10.10.1
 [/speedws.org/]10.10.10.1
 [/speiyou.com/]10.10.10.1
@@ -63740,7 +63740,6 @@
 [/ztch.ltd/]10.10.10.1
 [/ztcia.com/]10.10.10.1
 [/ztcnwy.com/]10.10.10.1
-[/ztdad.com/]10.10.10.1
 [/zte.net/]10.10.10.1
 [/ztedevice.com/]10.10.10.1
 [/ztedevices.com/]10.10.10.1
