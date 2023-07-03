@@ -410,6 +410,7 @@
 ||bestialvehemence.com^
 ||betgdr.xyz^
 ||bg04y.xyz^
+||bgbyzv.xyz^
 ||bhcnmrn.icu^
 ||bhfdgdounv.xyz^
 ||bicid.xyz^
@@ -453,6 +454,7 @@
 ||caaie.xyz^
 ||caardinal.com^
 ||cadke.xyz^
+||camep.xyz^
 ||campu.ltd^
 ||canser8.top^
 ||canser9.top^
@@ -543,6 +545,7 @@
 ||dgfqqq.com^
 ||dgvkrt.xyz^
 ||dhaxhsa325.com^
+||dheear.site^
 ||dherea.site^
 ||dhxrop.com^
 ||dhxrxn.xyz^
@@ -552,11 +555,13 @@
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
 ||dl520.fun^
+||dmxfdp.xyz^
 ||dnzmhr.xyz^
 ||dobwll.xyz^
 ||doccd.xyz^
 ||donku.club^
 ||dpaic.xyz^
+||dpijohb.icu^
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
 ||drtyujgsg.xyz^
@@ -635,6 +640,7 @@
 ||fsnpbh.xyz^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
+||ftiodfqk.com^
 ||ftptjj.xyz^
 ||fvzljv.xyz^
 ||fweia.xyz^
@@ -815,6 +821,7 @@
 ||jrzaht.xyz^
 ||jstimiz.xyz^
 ||jt56.co^
+||jtpu9s.icu^
 ||junkao.club^
 ||justasimple.top^
 ||jvkckeg.cn^
@@ -866,6 +873,7 @@
 ||kzjkexn.cn^
 ||kzjqraj.cn^
 ||kzuxlydg.icu^
+||l23jhjfasd.xyz^
 ||l3r6p0d5.com^
 ||l74co.xyz^
 ||lazyii.icu^
@@ -1392,6 +1400,7 @@
 ||yegzkw.xyz^
 ||yenauddk.com^
 ||yfohgo.xyz^
+||ygxgk.cn^
 ||yh20230625tu.com^
 ||yhgumcr.xyz^
 ||yikucdn.com^
@@ -1440,6 +1449,7 @@
 ||zffymmdg.com^
 ||zfmtyv.buzz^
 ||zfmtyv.xyz^
+||zfnclk.buzz^
 ||zgyvg.top^
 ||zhalinylqq.com^
 ||zhalinyyds.com^
@@ -1478,12 +1488,11 @@
 ||zyauopr.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
-||dpijohb.icu^
-||ftiodfqk.com^
-||ygxgk.cn^
-||dheear.site^
-||dmxfdp.xyz^
-||bgbyzv.xyz^
+||hezlqmwm.com^
+||hgiafe.site^
+||gmicu.cn^
+||nbsxazr.icu^
+||lwzdzf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -6237,7 +6246,6 @@
 ||121zou.com^$subdocument
 ||122.225.103.*.htm
 ||122.228.200.55:8082/blr.gif
-||123-bt.cn/Public/static/images/*-
 ||123.sogou.com/discover/?
 ||126.com/get.do?*=themeHandler.
 ||126.net/2022/0315/c82ed9e0g00r8seoy015pd00104003cp.gif
@@ -6316,6 +6324,7 @@
 ||17500.cn/template/images/*_960X90.
 ||178.com/glr.js
 ||17dm.com/s/common/js/*AD.js
+||17gameworld.com/gmifr_lei.
 ||17house.com/zt/style/*_banner*.js
 ||17house.com/zt/style/*_bottom_module.js
 ||17jiaoyu.com/images/img_980x90.jpg
@@ -10613,7 +10622,6 @@
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||159i.com/a_d/$media
 @@||16668tu.com/css/ad.css
-@@||17track.net/www/js/ad.min.js
 @@||182.150.59.104^*/ad.css?$stylesheet
 @@||192.168.*.1/$generichide
 @@||192.168.*/advertising_$stylesheet
