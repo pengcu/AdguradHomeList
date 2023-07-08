@@ -1,6 +1,8 @@
 appstorrent.ru
 docker.com
 fastly.net
+nintendo.com
+nintendo.net
 npm.community
 npmjs.com
 npmjs.org
