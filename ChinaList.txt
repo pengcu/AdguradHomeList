@@ -6106,7 +6106,6 @@
 [/8tupian.com/]10.10.10.1
 [/8twan.com/]10.10.10.1
 [/8u58.com/]10.10.10.1
-[/8uka.com/]10.10.10.1
 [/8uyx.com/]10.10.10.1
 [/8wan.com/]10.10.10.1
 [/8win.net/]10.10.10.1
@@ -8474,6 +8473,7 @@
 [/aocde.com/]10.10.10.1
 [/aocdn.com/]10.10.10.1
 [/aoch.com/]10.10.10.1
+[/aochengcdn.com/]10.10.10.1
 [/aoclia.com/]10.10.10.1
 [/aocslb.com/]10.10.10.1
 [/aodabo.tech/]10.10.10.1
@@ -41179,7 +41179,6 @@
 [/panasonicmall.com/]10.10.10.1
 [/panchuang.net/]10.10.10.1
 [/panda-home.com/]10.10.10.1
-[/panda321.com/]10.10.10.1
 [/panda98.com/]10.10.10.1
 [/pandadastudio.com/]10.10.10.1
 [/pandafoundation.org/]10.10.10.1
@@ -60727,6 +60726,7 @@
 [/yuebei.vip/]10.10.10.1
 [/yuebingcheng.com/]10.10.10.1
 [/yuebooemt.com/]10.10.10.1
+[/yuecdn.net/]10.10.10.1
 [/yuecheng.com/]10.10.10.1
 [/yuedaoec.com/]10.10.10.1
 [/yuedisk.com/]10.10.10.1
@@ -60767,6 +60767,7 @@
 [/yuesuoping.com/]10.10.10.1
 [/yuetu.tech/]10.10.10.1
 [/yuetutu.com/]10.10.10.1
+[/yuetuvip.com/]10.10.10.1
 [/yuetuvip.net/]10.10.10.1
 [/yuetx.cc/]10.10.10.1
 [/yueweimusic.com/]10.10.10.1
@@ -61178,7 +61179,6 @@
 [/yuzhulin.com/]10.10.10.1
 [/yuzi.net/]10.10.10.1
 [/yuzvf.com/]10.10.10.1
-[/yveqi.com/]10.10.10.1
 [/yvv.in/]10.10.10.1
 [/yvzfgigpiwmofux.com/]10.10.10.1
 [/yw11.com/]10.10.10.1
