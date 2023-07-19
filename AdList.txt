@@ -273,12 +273,14 @@
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
+||bgdizsay.icu^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
 ||btescs.fun^
 ||bttazsyk.icu^
 ||caider.fun^
+||ccnim.xyz^
 ||chiese.site^
 ||ciadre.fun^
 ||cix0wk.com^
@@ -288,6 +290,8 @@
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
+||dafdf.cn^
+||dalld.xyz^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -299,6 +303,7 @@
 ||dyeperd.icu^
 ||eghyahl.cn^
 ||erfskhnpter.xyz^
+||ertgbme.com^
 ||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
@@ -306,6 +311,7 @@
 ||ewfsef.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
+||fddxbn.xyz^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
@@ -363,6 +369,7 @@
 ||oifyeldk.top^
 ||one6u.xyz^
 ||oopej.xyz^
+||owlinggnomist.com^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
@@ -370,6 +377,7 @@
 ||powedw.com^
 ||pr88vhg.com^
 ||pstvvb.xyz^
+||qezpjlp.cn^
 ||qhx1h2g.com^
 ||qifyeldy.top^
 ||qqnde.xyz^
@@ -394,6 +402,8 @@
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vnfsbl.xyz^
+||vvwuqxp.icu^
+||vxhtxt.xyz^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -407,19 +417,21 @@
 ||xukou.net^
 ||yh18h8s.com^
 ||ymhyw6.lol^
+||yuifgh.fun^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zexfzson.icu^
-||ertgbme.com^
-||qezpjlp.cn^
-||yuifgh.fun^
-||vvwuqxp.icu^
-||ccnim.xyz^
-||fddxbn.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
-||vxhtxt.xyz^
+||xeghes.fun^
+||btsvad8.com^
+||hkkeafj.cn^
+||fhglcpf.icu^
+||dhjrvj.xyz^
+||epoid.xyz^
+||nnfyxd.xyz^
+||ddush.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -7211,6 +7223,7 @@
 ||doczj.com/js/common.js
 ||dodo8.com/template/*/images/g_js/
 ||dogfight360.com/Usbeam/*_ad/
+||doii.cc/mmm/
 ||doko.moe^$domain=pantsu.cat
 ||dol.tianya.cn/s?z=tianya&
 ||dongchedi.com/motor/ad/
@@ -8553,6 +8566,7 @@
 ||mg21.com/wp-content/uploads/ad/
 ||mh3666.com^*.jsonp
 ||mianbao99.com/a/mianbao
+||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||micaitu.net/js/dibu.js
 ||microcontrol.cn/HomeImages/AD/
 ||micropage.cn/images/ad_
@@ -9975,7 +9989,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||doii.cc/mmm/
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
