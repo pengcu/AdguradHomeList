@@ -6141,6 +6141,7 @@
 [/zzcloud.me/]10.10.10.11
 [/zzux.com/]10.10.10.11
 [/appstorrent.ru/]10.10.10.11
+[/binance.com/]10.10.10.11
 [/docker.com/]10.10.10.11
 [/fastly.net/]10.10.10.11
 [/nintendo.com/]10.10.10.11
