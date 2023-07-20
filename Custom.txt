@@ -1,4 +1,5 @@
 appstorrent.ru
+binance.com
 docker.com
 fastly.net
 nintendo.com
