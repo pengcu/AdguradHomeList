@@ -284,6 +284,7 @@
 ||bgdizsay.icu^
 ||bifyeldv.top^
 ||bkhblj.xyz^
+||bkjlf58.com^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
@@ -293,6 +294,7 @@
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||bxackzj.icu^
+||bzxvtj.xyz^
 ||c4d4.cn^
 ||caider.fun^
 ||canser1.top^
@@ -430,6 +432,7 @@
 ||lgohse.fun^
 ||lhiefl.com^
 ||lifyeldl.top^
+||liitwrz.icu^
 ||lkmhn.com^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
@@ -454,6 +457,7 @@
 ||njogejt.icu^
 ||nmkghh.com^
 ||nnfyxd.xyz^
+||nnqwe.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||ntozchv.icu^
@@ -492,6 +496,7 @@
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
+||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sa8zdui.com^
@@ -503,6 +508,8 @@
 ||ssdfgq7.com^
 ||ssjuxsc.cn^
 ||ssnnn.net^
+||statisfile.com^
+||svarub.xyz^
 ||tarqk5.com^
 ||tftran.shop^
 ||tfttbd.xyz^
@@ -511,8 +518,10 @@
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||toastspinner.com^
+||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tseda6.icu^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||ty8bz.com^
@@ -527,6 +536,7 @@
 ||vhjxrj.xyz^
 ||vnfsbl.xyz^
 ||vrlvnz.xyz^
+||vrr.name^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
 ||vxhtxt.xyz^
@@ -562,14 +572,12 @@
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
-||bkjlf58.com^
-||vrr.name^
-||tseda6.icu^
-||liitwrz.icu^
-||tptp002.cfd^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||destc8.icu^
+||jvjlkih.com^
+||fantuan.name^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -5647,6 +5655,7 @@
 ||sums.suning.com^$third-party
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tad.suning.com^
+||tamedia.com.tw^$third-party
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
 ||taobao.com/go/$third-party,domain=~alimama.com|~alitrip.com|~tanx.com|~tmall.com
 ||tianji520.cn^$third-party
@@ -9972,6 +9981,7 @@
 ||yhdm.io/bar/
 ||yhdm.so/bar/
 ||yhdm44.com/123.html
+||yhmeinv.com/mh/
 ||yht7.com/web/assets/js/right.js
 ||yidengfe.com/launches/01/yd.png
 ||yigujin.cn/faaa/
