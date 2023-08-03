@@ -15034,7 +15034,6 @@
 [/cn.bing.net/]10.10.10.1
 [/cn.msi.com/]10.10.10.1
 [/cn.net/]10.10.10.1
-[/cn.pandora.net/]10.10.10.1
 [/cn.vc/]10.10.10.1
 [/cn.vu/]10.10.10.1
 [/cn.windowssearch.com/]10.10.10.1
@@ -17103,6 +17102,7 @@
 [/dangwan.com/]10.10.10.1
 [/dangzhi.com/]10.10.10.1
 [/dangzhi.net/]10.10.10.1
+[/dangzhu.net/]10.10.10.1
 [/danhua.org/]10.10.10.1
 [/danhuaer.com/]10.10.10.1
 [/daniao.org/]10.10.10.1
@@ -23252,7 +23252,6 @@
 [/ghatg.com/]10.10.10.1
 [/ghboke.com/]10.10.10.1
 [/ghgy.com/]10.10.10.1
-[/ghgy.net/]10.10.10.1
 [/ghibliwiki.org/]10.10.10.1
 [/ghjie.com/]10.10.10.1
 [/ghlawyer.net/]10.10.10.1
@@ -29343,7 +29342,6 @@
 [/imitui.com/]10.10.10.1
 [/imixpark.com/]10.10.10.1
 [/imjiayin.com/]10.10.10.1
-[/imkerwin.com/]10.10.10.1
 [/imkevinyang.com/]10.10.10.1
 [/imkira.com/]10.10.10.1
 [/imlaidian.com/]10.10.10.1
@@ -30629,7 +30627,6 @@
 [/jdzdeyy.com/]10.10.10.1
 [/jdzeduyun.com/]10.10.10.1
 [/jdzj.com/]10.10.10.1
-[/jdzjdz.com/]10.10.10.1
 [/jdzmc.com/]10.10.10.1
 [/jdzol.com/]10.10.10.1
 [/jdzol.net/]10.10.10.1
@@ -51733,7 +51730,6 @@
 [/tsyqb.com/]10.10.10.1
 [/tsyvps.com/]10.10.10.1
 [/tsyzm.com/]10.10.10.1
-[/tsz.com/]10.10.10.1
 [/tszckj.com/]10.10.10.1
 [/tszhjk.com/]10.10.10.1
 [/tszyzx.com/]10.10.10.1
@@ -53795,6 +53791,7 @@
 [/waf.cdnetworks.com/]10.10.10.1
 [/wafcn.com/]10.10.10.1
 [/wafunny.com/]10.10.10.1
+[/wafzi.com/]10.10.10.1
 [/waheaven.com/]10.10.10.1
 [/wahlap.com/]10.10.10.1
 [/wahongyu.com/]10.10.10.1
@@ -54406,7 +54403,6 @@
 [/weicaifu.com/]10.10.10.1
 [/weicewang.com/]10.10.10.1
 [/weichaishi.com/]10.10.10.1
-[/weichen.org/]10.10.10.1
 [/weicher-sz.com/]10.10.10.1
 [/weiclicai.com/]10.10.10.1
 [/weico.cc/]10.10.10.1
