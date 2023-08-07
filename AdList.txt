@@ -260,6 +260,7 @@
 ||23.234.217.11^
 ||23.234.217.12^
 ||1267a.xyz^
+||1378a.xyz^
 ||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
@@ -305,6 +306,7 @@
 ||c9r05q.com^
 ||caider.fun^
 ||canser1.top^
+||canser5.top^
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||chiese.site^
@@ -327,9 +329,11 @@
 ||dehaer.site^
 ||destc8.icu^
 ||dffrahax.com^
+||dfgpifa.com^
 ||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
+||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -344,6 +348,7 @@
 ||eamqbaqzaewwq.top^
 ||eers0cy.com^
 ||eghyahl.cn^
+||eheb8.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
 ||enhad.xyz^
@@ -367,6 +372,7 @@
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||foirkrt.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
@@ -396,6 +402,7 @@
 ||hghjks2.com^
 ||hikykhz.icu^
 ||hiqua.xyz^
+||hjgkr0g.xyz^
 ||hjkiguy.com^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
@@ -494,6 +501,7 @@
 ||misapopait.com^
 ||mlstx.cn^
 ||mmead.xyz^
+||mnhknds.com^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -506,6 +514,7 @@
 ||nieae.xyz^
 ||nifyeldc.top^
 ||njogejt.icu^
+||nmdotj.xyz^
 ||nmkghh.com^
 ||nnfyxd.xyz^
 ||nnqwe.xyz^
@@ -644,6 +653,7 @@
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
+||yegziyf.cn^
 ||yh18h8s.com^
 ||yhhnjg.com^
 ||yjnhndt.com^
@@ -664,13 +674,13 @@
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||nmdotj.xyz^
-||dfgpifa.com^
-||canser5.top^
-||yegziyf.cn^
-||foirkrt.icu^
-||mnhknds.com^
-||dghkpp.xyz^
+||kwcmrfb.cn^
+||gghmef7.com^
+||hacde3.icu^
+||vwfppr.xyz^
+||mkjnha.com^
+||naqiwjj.icu^
+||lqjinx.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -7919,6 +7929,7 @@
 ||inszu.com/js/qian/
 ||inte.sogou.com^
 ||iocoder.cn/alert/js/alert.js
+||ip.sb/assets/images/*_ads.
 ||ip138.com/banner/
 ||ip138.com/idc/
 ||ipeen.com.tw/js/frame/ad-actions.js
@@ -8499,6 +8510,7 @@
 ||mitbbs.ca/ad_
 ||mitbbs.com/ad_
 ||miwifi.com^*ads/
+||mixer.sina.cn^
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||mkd88.cc/16.32.jpg
 ||mm.nwell.net^
@@ -9134,6 +9146,7 @@
 ||shulihua.net/js/yegonggao.js
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||sihbb.com/yang/
+||sina.cn/check?
 ||sina.cn/cm/sinaads_
 ||sina.cn/interface/*_game_wap_home_mid_list_in.
 ||sina.cn^*/impress?
@@ -9899,7 +9912,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||ip.sb/assets/images/*_ads.
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
@@ -11732,6 +11744,7 @@
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||gias.jd.com/js/td.js
 @@||gifshow.com/rest/wd/common/log/collect/acfun
+@@||gk.sina.cn/v1/gkmatch?
 @@||google-analytics.com/analytics.js$domain=citytalk.tw|ebb.io|komica.org|lenovo.com.cn|linetv.tw|maminews.com.tw|support.amd.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=lenovo.com.cn
 @@||google-analytics.com/plugins/ua/linkid.js$domain=support.amd.com
