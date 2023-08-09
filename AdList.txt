@@ -375,6 +375,7 @@
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||flymc.cc^$third-party
 ||foirkrt.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
@@ -405,6 +406,7 @@
 ||hgehse.site^
 ||hgf8hck.com^
 ||hghjks2.com^
+||hgjjk45.com^
 ||hikykhz.icu^
 ||hiqua.xyz^
 ||hjgkr0g.xyz^
@@ -413,6 +415,7 @@
 ||hlnr9q.icu^
 ||hmjhnkas.com^
 ||hnfnjn.xyz^
+||hnxxt.net^
 ||hohmaryt.com^
 ||hongteng.xyz^
 ||hpvwdkn.cn^
@@ -482,6 +485,7 @@
 ||kyq3hky.icu^
 ||kyq3xch.icu^
 ||laink.xyz^
+||laljjn.xyz^
 ||lamkghx.icu^
 ||lanver.fun^
 ||lbnqnp.xyz^
@@ -506,6 +510,7 @@
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
+||mkjnbg.com^
 ||mkjnha.com^
 ||mlstx.cn^
 ||mmead.xyz^
@@ -565,6 +570,7 @@
 ||qqnde.xyz^
 ||qrirud.xyz^
 ||qselic.top^
+||qslbahy.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
 ||rdbousn.cn^
@@ -578,6 +584,7 @@
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
+||rpyor0k.xyz^
 ||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
@@ -601,10 +608,12 @@
 ||svarub.xyz^
 ||svvev3.com^
 ||tarqk5.com^
+||tfdmzsgy.icu^
 ||tftran.shop^
 ||tfttbd.xyz^
 ||tgbevv.xyz^
 ||thesac2.top^
+||thesac7.top^
 ||tifyeldi.top^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
@@ -624,10 +633,12 @@
 ||ujnkn.com^
 ||ulojlvmejkaem.xyz^
 ||unjld.com^
+||uwgnpkd.cn^
 ||uxtruz.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vcydyzd.icu^
+||vghnnh.xyz^
 ||vhjxrj.xyz^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
@@ -656,6 +667,7 @@
 ||xixrdn.xyz^
 ||xjzyhp.xyz^
 ||xlvqhx.xyz^
+||xmawwbz.icu^
 ||xmxupz.xyz^
 ||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
@@ -667,6 +679,7 @@
 ||yegziyf.cn^
 ||yh18h8s.com^
 ||yhhnjg.com^
+||yjnhkd.com^
 ||yjnhndt.com^
 ||ymhyw6.lol^
 ||yuanmengbi.com^
@@ -686,13 +699,12 @@
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||xmawwbz.icu^
-||thesac7.top^
-||hgjjk45.com^
-||vghnnh.xyz^
-||uwgnpkd.cn^
-||mkjnbg.com^
-||laljjn.xyz^
+||haffo70.com^
+||vlgkotr.cn^
+||tseda1.icu^
+||hxinitv.icu^
+||mkjnba.com^
+||dqjojx.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||002777.xyz^
@@ -5798,6 +5810,7 @@
 ||3dmgame.com/img/a/640-
 ||3dmgame.com/index.php?m=games&c=index&a=ztad&
 ||3dmgame.com/page/hlbt/
+||3dmgame.com/page/img/shangcheng
 ||3dmgame.com/page/js/push_browser.js
 ||3dmgame.com/sw/zjworld/js/index.
 ||3dmgame.com/templets/common/show_js/show_js.js
@@ -6599,7 +6612,6 @@
 ||bdimg.com/static/wkcore/widget/commerce/fengchao/
 ||bdimg.com/static/wkview/widget/download_after_activity_new/download_after_activity_new_
 ||bdimg.com^$domain=diyifuli.top|idaohang.top|ifulione.com|ifulione.top|onedh.xyz|onefuli.top
-||bdstatic.com/5bVYsj_p_tVS5dKfpU_Y_D3/data/5e4103a342883a925a81aea7fe356bef
 ||bdstatic.com/??/tb/_/diamond_mall_frs_aside_*.js
 ||bdstatic.com/img/image/su/
 ||bdstatic.com/pc_static/detail/game_promotion/
@@ -7143,6 +7155,7 @@
 ||dnwx.com*/ad$image
 ||dnwx.com/pic/*_978x60.
 ||dnwx.com/pic_ad/
+||dnxtc.net^*/xiaobing
 ||docin.com/docin_adv/
 ||docin.com/jsp_cn/ad/
 ||doczj.com/js/common.js
@@ -7904,6 +7917,7 @@
 ||img599.net^$domain=18board.com|18p2p.com
 ||imgadsame.liba.com^
 ||imgbaiduxz.xyz/jsjsjs/
+||imgbox.com^$domain=jiyingw.vip
 ||imgchili.net/media/image*.gif
 ||imgchili.net/media/top.gif
 ||imgdb.cn/item/6059cb598322e6675c4ddcdc.gif
@@ -9560,6 +9574,7 @@
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
 ||vodttdy.com/template/zsy_badian/js/stui_
+||vps234.com/resources/images/hosting-promotion/
 ||vrrw.net//templets/default/js/ad.js
 ||vupload.duowan.com^
 ||vvvkp.com/template/ttk/img/
@@ -9923,7 +9938,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||vps234.com/resources/images/hosting-promotion/
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
