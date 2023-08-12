@@ -26264,6 +26264,7 @@
 [/hioug.com/]10.10.10.1
 [/hiparking.com/]10.10.10.1
 [/hipcam.net/]10.10.10.1
+[/hiphi.com/]10.10.10.1
 [/hiphop8.com/]10.10.10.1
 [/hipiao.com/]10.10.10.1
 [/hippoanimation.com/]10.10.10.1
