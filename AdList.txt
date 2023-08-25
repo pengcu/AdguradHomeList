@@ -272,6 +272,7 @@
 ||35vc.com^
 ||360114.xyz^
 ||36mghtd.xyz^
+||38kmute.xyz^
 ||39mydp.xyz^
 ||4asfgyx.com^
 ||52acc.cn^
@@ -308,6 +309,7 @@
 ||bavde3.icu^
 ||bbges.xyz^
 ||bcejk.xyz^
+||bcsijjgck.xyz^
 ||bdates.fun^
 ||beclsbx.icu^
 ||belindanbd.com^
@@ -427,6 +429,7 @@
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
+||f1tfmxzg.icu^
 ||falsarywaybung.com^
 ||fantuan.name^
 ||fcbqxt.xyz^
@@ -464,6 +467,7 @@
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde1.icu^
+||hacde10.icu^
 ||hacde3.icu^
 ||haffo70.com^
 ||hanwdsii.com^
@@ -523,6 +527,7 @@
 ||iqede.xyz^
 ||iqgoukn.cn^
 ||islbaho.top^
+||itienlo.top^
 ||jakid.xyz^
 ||janwzsqi.icu^
 ||jayhou.top^
@@ -562,6 +567,7 @@
 ||kasiklz.cc^
 ||kdvmnn.com^
 ||kgeesh.site^
+||kjvaqbyebqarl.top^
 ||kklpe.xyz^
 ||kl91ccp.com^
 ||kljslku.com^
@@ -577,6 +583,7 @@
 ||kuxkddg.cn^
 ||kv8899.com^
 ||kwcmrfb.cn^
+||kxcp365.com^
 ||kxm1b0u.com^
 ||kyplpw.com^
 ||kyq3hky.icu^
@@ -690,6 +697,7 @@
 ||poqiod.com^
 ||powedw.com^
 ||pr88vhg.com^
+||prokyrn.icu^
 ||pstvvb.xyz^
 ||ptmabek.cn^
 ||puy2.cn^
@@ -727,16 +735,19 @@
 ||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||rvzlobj.cn^
 ||sa8zdui.com^
 ||sacfasv.com^
 ||sacre.cn^
 ||sbeaje.com^
+||sd01you.com^
 ||sdchb2.com^
 ||sdfgbuy.com^
 ||sensifyfugged.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
 ||simblotusitate.com^
+||sjbgyak.cn^
 ||soushubah.com^$third-party
 ||sq59.cn^
 ||ssdfgq7.com^
@@ -780,6 +791,7 @@
 ||tuwaqtjcood.com^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
+||txcv68f.com^
 ||ty8bz.com^
 ||u1022.com^
 ||uejdsw.com^
@@ -817,6 +829,7 @@
 ||wddsva0.com^
 ||wlgxaij.cn^
 ||wnzle.com^
+||wpoarjokzgi.com^
 ||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
@@ -850,7 +863,10 @@
 ||xukou.net^
 ||xuwfmhh.icu^
 ||xwqtatnw.icu^
+||xwsqtngwa.xyz^
+||xxniln.xyz^
 ||yac5t.cn^
+||yasg114.com^
 ||ydgh0zc.com^
 ||yegziyf.cn^
 ||ygzqlnt.cn^
@@ -870,6 +886,7 @@
 ||zcbfjd.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
+||zents7.top^
 ||zerolcp.cn^
 ||zexfzson.icu^
 ||zfcdirf.icu^
@@ -880,6 +897,7 @@
 ||zgkvfu.xyz^
 ||zglmvz.buzz^
 ||zglmvz.xyz^
+||zgtwzq.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||zmdjbl.xyz^
@@ -890,14 +908,8 @@
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||sd01you.com^
-||38kmute.xyz^
-||xxniln.xyz^
-||prokyrn.icu^
-||hacde10.icu^
-||kjvaqbyebqarl.top^
-||wpoarjokzgi.com^
-||bcsijjgck.xyz^
+||zdwykjd.icu^
+||xhpghv.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
@@ -7683,6 +7695,7 @@
 ||gdmm.com*/mybt/
 ||gdmm.com/api.php?mod=js&bid=2111
 ||gdmm.com/images/leftbottom.png
+||gdr3.com/us/
 ||gdt.qq.com^
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
@@ -9997,6 +10010,7 @@
 ||yimuhe.com/n_ad/
 ||yingav.net/images/content/spot01.jpg
 ||yinghuacd.com/bar/
+||yinghuavideo.com/bar/
 ||yingshizxw.com/js/tc/
 ||yiparts.com/Chance.php?aid=
 ||yiren34.com/js/
@@ -10134,9 +10148,8 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||weiyun.com/cgi-bin/tianshu_get?position=4&
 ||mydrivers.com/img/2005/202112011849.png
-@@||cdn.jsdelivr.net^$script,domain=movieffm.net
-@@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -10305,6 +10318,8 @@
 @@||ccb.com^*^ad
 @@||ccllaa.com^$generichide
 @@||cdn.doublemax.net/js/rwd_cap.js$domain=ibf.tw
+@@||cdn.jsdelivr.net^$script,domain=movieffm.net
+@@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||challenges.cloudflare.com/turnstile/
