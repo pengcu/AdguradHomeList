@@ -274,6 +274,7 @@
 ||36mghtd.xyz^
 ||38kmute.xyz^
 ||39mydp.xyz^
+||3ad5iot.com^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
@@ -281,9 +282,12 @@
 ||5lfgdju.com^
 ||777aa999aa.com^
 ||7xixi.site^
+||81wx.info^
 ||8861198.com^
 ||89mtdab.xyz^
+||999pro.top^
 ||9cc9ckp.com^
+||9fgh98k.com^
 ||a8age.com^
 ||a9able.com^
 ||aaenv48847h.com^
@@ -378,6 +382,7 @@
 ||dafdf.cn^
 ||dalld.xyz^
 ||dalmfn.xyz^
+||danstr.fun^
 ||dasv10rewq.xyz^
 ||dbnwlp.xyz^
 ||dcsxv.com^
@@ -479,6 +484,7 @@
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
+||hbxhnqj.cn^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
@@ -596,6 +602,7 @@
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
+||l4efwdtg.icu^
 ||laink.xyz^
 ||laljjn.xyz^
 ||lamkghx.icu^
@@ -653,6 +660,7 @@
 ||mvamnng.cn^
 ||mvgucp.com^
 ||naqiwjj.icu^
+||nbtfbb.xyz^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
 ||neghes.fun^
@@ -728,6 +736,7 @@
 ||qucncfo.cn^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rbodwtj.icu^
 ||rcblfd.xyz^
 ||rdbousn.cn^
 ||rddsjx.xyz^
@@ -751,6 +760,7 @@
 ||sa8zdui.com^
 ||sacfasv.com^
 ||sacre.cn^
+||sbcjahdc.com^
 ||sbeaje.com^
 ||sd01you.com^
 ||sdchb2.com^
@@ -927,12 +937,12 @@
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||hbxhnqj.cn^
-||3ad5iot.com^
-||rbodwtj.icu^
-||nbtfbb.xyz^
-||danstr.fun^
-||81wx.info^
+||eltdeh.top^
+||hefei668.com^
+||x5hnj21.com^
+||nlvgxr.xyz^
+||bmyrihf.icu^
+||hkscldggm.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
@@ -6466,6 +6476,7 @@
 ||adadmin.house365.com^
 ||adf.dahe.cn^
 ||adi*.cnool.net^
+||adimg.liba.com^
 ||adm.265g.com^
 ||adm.52swine.com^
 ||adm.6park.com^
@@ -6712,7 +6723,7 @@
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
 ||ax1x.com/2020/06/14/NSoyHe.png
-||ax1x.com^$domain=caibaojian.com|hktvyb.com|htcui.com|zzvips.com
+||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
 ||axutongxue.*/js/uuiiio.
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
@@ -7310,7 +7321,7 @@
 ||daweijita.com/201*430.
 ||daweijita.com/201*ad.
 ||daweijita.com/2014/08/ad_head
-||dayfund.cn/images/uds/
+||dayfund.*/images/uds/
 ||daynews.co/cdn-cgi/apps/
 ||daysou.com/images/huaweicloud.png
 ||dbmp4.com/js/foot.
@@ -7684,8 +7695,6 @@
 ||galacg.me/wp-content/uploads/*750x
 ||galaxymedia.xyz/app/images/banner.gif
 ||game.466.com^$third-party
-||game234.com/1/234.php
-||game234.com/wd/*ad.js
 ||game333.net/aainset/
 ||gamefy.cn/cookiead.php
 ||gamemale.com/static/js/valida.js
@@ -8145,7 +8154,6 @@
 ||img588.net/images/*.gif
 ||img599.net/images/*0x
 ||img599.net^$domain=18board.com|18p2p.com
-||imgadsame.liba.com^
 ||imgbaiduxz.xyz/jsjsjs/
 ||imgbox.com^$domain=jiyingw.vip
 ||imgchili.net/media/image*.gif
@@ -9372,8 +9380,6 @@
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
 ||shandian.biz/wp-content/themes/inove/js/comment.js
 ||shang.hlgnet.com/code/
-||shangc.net/ipquery.ashx
-||shangc.net/static/js/relate_news.js
 ||shangqun.com/webforms/embed/
 ||shangxueba.com/ask/images/woxiaoyun.jpg
 ||shaoxing.com.cn/gg
@@ -9504,8 +9510,6 @@
 ||sooopu.com/js/contentad330.js
 ||souche.com^*.gif
 ||soufunimg.com/imgd/viewimage/*/640x210
-||souid.com/images/css/123.js
-||souid.com/templets/js/sougg.js
 ||souka.me/ad/
 ||soulu365.com/images/zhuce.jpg
 ||southmoney.com/page/pc/
@@ -9949,6 +9953,7 @@
 ||xitong8.com/theme/default/images/725x90.gif
 ||xitong8.com/theme/default/images/index_13.jpg
 ||xitonghe.com/SkinNew/js/init_g.
+||xitongzhijia.net/theme/2020/js/10033_
 ||xiu8.com/baidu-tieba/*&forum_name=
 ||xizi.com/js/rotator.js
 ||xkd*.com/layer/layer.js
@@ -9981,7 +9986,6 @@
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
 ||xzji.com/data/block_js/softShow_
-||y3600.cz/2
 ||ya*.dwstatic.com^
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
@@ -9993,7 +9997,6 @@
 ||yanu.qiniudn.com/270300.jpg
 ||yaojingweiba.com/inc/
 ||yaoyl.com/js/ds.js
-||yaozui.com/ref/index?
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
 ||yccz.net/xml/
@@ -10841,7 +10844,6 @@
 ||0512s.com^$third-party
 ||0755rc.com^$third-party
 ||0941.org^
-||1.01fy.cn^
 ||1.07swz.com^
 ||1.1010pic.com^
 ||1.11130.com.cn^
@@ -10854,7 +10856,6 @@
 ||1.51sxue.cn^
 ||1.66law.cn^
 ||1.78500.cn^
-||1.800400.net^
 ||1.95ye.com^
 ||1.ajiyuming.com^
 ||1.arpun.com^
@@ -10867,7 +10868,6 @@
 ||1.glook.cn^
 ||1.gunsuo.com^
 ||1.hnyouneng.com^
-||1.idc100.com^
 ||1.isanxia.com^
 ||1.jeasyui.net^
 ||1.jiqie.cn^
@@ -10876,20 +10876,14 @@
 ||1.lishibu.com^
 ||1.lvshi567.com^
 ||1.mgff.com^
-||1.mm100.com^
 ||1.pncdn.cn^
 ||1.qjhm.net^
-||1.rr95.com^
 ||1.shopit.cn^
 ||1.sj33.net^
-||1.soufy.cn^
 ||1.tecbbs.com^
 ||1.ttxs123.net^
 ||1.uc129.com^
-||1.ufc123.com^
-||1.ufc7.com^
 ||1.v-x.com.cn^
-||1.vsimg.com^
 ||1.weiheshidai.com^
 ||1.xilu.com^
 ||1.xuexi.la^
@@ -10935,7 +10929,6 @@
 ||5.ccutu.com^
 ||5.gzfenda.com^
 ||50m.gkcyc.com^
-||51dengshan.cn^
 ||51gxqm.com^
 ||51yhzp.com^$third-party
 ||58tg.com^$third-party
@@ -10978,7 +10971,6 @@
 ||a.huocheba.com^
 ||a.icdol.com^
 ||a.imgso.cn^
-||a.jing55.com^
 ||a.llysc.cn^
 ||a.lz13.cn^
 ||a.mfcad.net^
@@ -10992,7 +10984,6 @@
 ||a.qunzou.com^
 ||a.rensheng5.com^
 ||a.shenchuang.com^
-||a.shicigequ.com^
 ||a.tainengchong.com^
 ||a.thn21.com^
 ||a.tiyuxiu.com^
@@ -11018,7 +11009,6 @@
 ||a1.bestopview.com^
 ||a1.bookapka.com^
 ||a1.firefoxchina.cn^
-||a1.gexing.me^
 ||a1.lshou.com^
 ||a1.q6u.com^
 ||a1.qqan.com^
@@ -11027,7 +11017,6 @@
 ||a1.syfj.net^
 ||a1.tbuz.com.cn^
 ||a1.twtym.com^
-||a1.yaozui.com^
 ||a1.zhanzhang.net^
 ||a3.jandan.net^
 ||aa.gushiwen.org^
@@ -11054,7 +11043,6 @@
 ||ad.szhsx.net^
 ||ad123.ynet.com^
 ||adbd.liuxue86.com^
-||adccoo.cn^
 ||adjb.5nd.com^
 ||adutp.com^$third-party
 ||adzp.cn^
@@ -11075,11 +11063,8 @@
 ||b1.91jucai.com^
 ||b1.b2b168.com^
 ||b1.b2b168.net^
-||b1.baomihua.com^
 ||b1.c1km4.com^
 ||b1.engdvd.com^
-||b1.puxuewang.cn^
-||b1.qqjay.com^
 ||b1.xiao84.com^
 ||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
@@ -11134,13 +11119,10 @@
 ||bdjiaoben.wmxa.cn^
 ||bdjj.bzr99.com^
 ||bdjj.makepolo.net^
-||bdjs.163lady.com^
 ||bdjs.91zhuti.com^
 ||bdjs.daziba.cn^
 ||bdjs.guangyuanol.cn^
 ||bdjs.gushiju.net^
-||bdjs.kaixin100.com^
-||bdjs.shangc.net^
 ||bdjs.uimg.cn^
 ||bdlm*.hc360.com^
 ||bdm.911cha.com^
@@ -11149,7 +11131,6 @@
 ||bdu.focus.cn^
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
-||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
 ||bea-s.dinghuoche.com^
 ||becode.xiao84.com^
@@ -11162,8 +11143,6 @@
 ||bu1.vvvdj.com^
 ||by.dyq.cn^
 ||c.28rv.com^
-||c.caijing123.com^
-||c.jjkk.org^
 ||c.mnjkw.cn^
 ||c.tvsou.com^
 ||c1.4qx.net^
@@ -11171,10 +11150,8 @@
 ||c1.china.cn^
 ||c1.czcol.cn^
 ||c6.friok.com^
-||ca.cydp5.com^
 ||car.qcmrjx.com^
 ||cbdm.weathercn.com^
-||cc.8181zx.com^
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
 ||ccmeng.com^$third-party
@@ -11182,7 +11159,6 @@
 ||cdn.haocaa.com^
 ||cdn.sinam.top^
 ||cdn.wenzhangba.cn^
-||cdn1.tvzhe.com^
 ||cdn93d99x0e.23bei.com^
 ||cdnjs.hro-cosmetics.com^
 ||cdnjs.mopair-erm.net^
@@ -11228,8 +11204,6 @@
 ||da.daji.com^
 ||dai.siyuetian.net^
 ||dai18.mumu01.com^
-||dai18.shangc.net^
-||dail01.wanmeilr.com^
 ||daima.aixiaola.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
@@ -11239,7 +11213,6 @@
 ||daiwofei2019.top^
 ||data.waptime.cn^
 ||datas.tianqistatic.com^
-||daxishi.com^$third-party
 ||dd1.diymianmo.com^
 ||df888.eastday.com^
 ||dhl.135320.com^
@@ -11248,7 +11221,6 @@
 ||dm*.yxlady.com^
 ||dm.17xuexiba.com^
 ||dm.21hubei.com^
-||dm.300zi.com^
 ||dm.51okc.com^
 ||dm.66qw.net^
 ||dm.aizhan.com^
@@ -11257,10 +11229,8 @@
 ||dm.huochepiao.com^
 ||dm.hxzdhn.com^
 ||dm.jb51.net^
-||dm.jsyst.cn^
 ||dm.lianzhixiu.com^
 ||dm.pw0.cn^
-||dm.riji.cn^
 ||dm.sanwen.net^
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
@@ -11278,8 +11248,6 @@
 ||dnpz123.com^$third-party
 ||domain1.chahaoba.cn^
 ||du1.bbdj.com^
-||dudm.qingsj.cn^
-||dyscb.cn^$third-party
 ||edu.jiukang.org^
 ||ee.shixunwang.net^
 ||efgh.5lu.com^
@@ -11304,10 +11272,8 @@
 ||ff.guidaye.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
-||ff.xue163.net^
 ||fjzimaoqu.cn^$third-party
 ||fotao9.com^
-||fp.czvv.com^
 ||fp.nanrenwo.net^
 ||fpb*.51edu.com^
 ||fpb.sohu.com^
@@ -11323,7 +11289,6 @@
 ||g1.pptair.com^
 ||g1.taijuba.com^
 ||ga1.3dmgame.com^
-||gccode.gongchang.com^
 ||gcw*.2liang.cn^
 ||gdyjs.com^
 ||gg.egouz.com^
@@ -11347,12 +11312,9 @@
 ||gunmi.cn^$third-party
 ||gxjajt.com^
 ||gybyxsy1588.com^
-||gzm.xzbu.com^
 ||h1.cfxinxi.cn^
 ||h1.kukuw.com^
 ||hanlinzhijia.net^
-||hao.315hyw.com^
-||hao.360hyzj.com^
 ||hapic1.zhuangxiu22.com^
 ||hdc.maxli.cn^
 ||hh.jiankang.com^
@@ -11378,7 +11340,6 @@
 ||img1.hblds.com^
 ||img1.leyun365.com^
 ||img1.qqwangming6.com^
-||img1.yulu99.com^
 ||img11.biyan8.com^
 ||img16.diyifanwen.com^
 ||img50.pingguolv.com^
@@ -11386,18 +11347,14 @@
 ||inping.com^$third-party
 ||ios.426g.com^
 ||ipssss.com^
-||ishuoshuo.com^
 ||iuou.myadobe.cn^
-||ixiunv.com^$third-party
 ||iy.com.cn^$third-party
 ||j.baminw.cn^
 ||j.diangon.com^
-||j.imdb.cn^
 ||j1.piaobing.com^
 ||jab88.com^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
-||jc1.dayfund.cn^
 ||jc1.dayfund.com.cn^
 ||jddaw.com^
 ||jeepyy.com^$third-party
@@ -11407,7 +11364,6 @@
 ||jiaopei.com^
 ||jibn12.jintang114.org^
 ||jiliw.com^$third-party
-||jinghuazhijia.com^
 ||jinhonghao.cn^
 ||jintonghua.com^
 ||jiyan.net^
@@ -11415,9 +11371,7 @@
 ||jquery.envi-met.com.cn^
 ||js.263y.com^
 ||js.92aliyun.com^
-||js.jianbihuadq.com^
 ||js.kt250.com^
-||js.mscto.com^
 ||js.oh100.com^
 ||js.ruiwen.com^
 ||js.shangxueba.com^
@@ -11433,9 +11387,7 @@
 ||jscode.acg68.com^
 ||jscode.jbzj.com^
 ||jsf.cnlinfo.net^
-||jss.tvzhe.com^
 ||junshizhanlue.com^$third-party
-||jx.renrensousuo.com^
 ||jxdown.com^$third-party
 ||jy.zhongxues.com^
 ||jy135.com^$third-party
@@ -11450,22 +11402,17 @@
 ||kpshx.douguo.com^
 ||kuk8.com^$third-party
 ||kuku99.com^$third-party
-||kxji.com^$third-party
 ||lczk.cn^$third-party
 ||leabd.douguo.com^
 ||liangpinge.com^$third-party
 ||lianmen1.joyyang.com^
-||libs.tvmao.cn^
 ||lixiangmo.com^
-||ll.k743.com^
-||ll38.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
 ||love.furenkeji.com^
 ||luolikong.net^$third-party
 ||lv.myapks.com^
-||lynr.com^
 ||lyz.radio366.com^
 ||m.bjdcfy.net^*.js
 ||m1.100how.com^
@@ -11485,7 +11432,6 @@
 ||materiel.junshidao.com^
 ||matwbp.iask.sina.com.cn^
 ||mb.gulongbbs.com^
-||mc.tvzhe.com^
 ||mc.weather.com.cn^
 ||md.tvzhe.com^
 ||meishiba.com.cn^$third-party
@@ -11509,18 +11455,14 @@
 ||myunion1.qm120.com^
 ||myunion1.tupians.com^
 ||n.baminw.com.cn^
-||new.htcui.com^
 ||news.fangdaijisuanqi.com^
-||news.imgsina.com^
 ||news.jiukang.org^
 ||news.qcyz.cn^
 ||norse.mingxiaow.com^
-||ns1.chinayms.com^
 ||o.027eat.com^
 ||o.jy135.com^
 ||o.phb123.com^
 ||o1.jyjyj.cn^
-||oicchina.com^$third-party
 ||okkkk.com^
 ||p.junshi881.com^
 ||p.junshifuxin.com^
@@ -11559,17 +11501,13 @@
 ||res.pinpai8.cn^
 ||retrieval-bd.duote.com^
 ||richh.cn^
-||rst2.y3600.cn^
 ||ruiwen.com/css_
 ||ruiwen.com/jscss/
 ||rxys.cn^
-||s.yaozui.com^
 ||s.zixuntop.com^
 ||s1.dugoogle.com^
 ||s1.hanlinzhijia.com^
 ||s1.pipishu.com^
-||s1.qiqutt.cn^
-||s1.qiqutt.com^
 ||s1.tuzhaozhao.com^
 ||s1.wesiedu.com^
 ||s11.cn^$third-party
@@ -11578,7 +11516,6 @@
 ||sbbd1.qulishi.com^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
-||sc.csai.cn^
 ||sc126.com^
 ||script-bd.baixing.net^
 ||sdd.hi1718.com^
@@ -11598,10 +11535,8 @@
 ||static*.365inews.com^
 ||static.gaomaer.cn^
 ||static.ichehome.com^
-||static.jiaquyi.com^
 ||static.meijiacun.com^
 ||static.rongkao.com^
-||t.cnscore.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
 ||taobc.com^
@@ -11618,11 +11553,8 @@
 ||twlcyc.cn^
 ||u.qxen.com^
 ||u1.2048sj.com^
-||u1.20q.cn^
-||u1.61sou.com^
 ||u1.idongde.com^
 ||u1.qyxxpd.com^
-||u1.shuaiku.com^
 ||ub1.job592.com^
 ||uc*.atobo.com^
 ||uc9.suinidai.com.cn^
@@ -11640,12 +11572,10 @@
 ||v1.taksh.cn^
 ||v1.wphonelife.com^
 ||ve.kj-cy.cn^
-||vi1.souid.com^
 ||vip.panggugu.com^
 ||vjie.com^$third-party
 ||vv1.pyhfxdm.cn^
 ||vvv.ieduw.com^
-||vyule.com^
 ||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
 ||w11.zhongkaohelp.com^
@@ -11672,7 +11602,6 @@
 ||wuliao.juqingba.cn^
 ||www1.wxnmh.com^
 ||wyzq.rehuwang.com^
-||x.aigobook.com^
 ||x.yaohuo.me^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
@@ -11686,7 +11615,6 @@
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
-||y.ruosi6.cn^
 ||y1.spreton.com^
 ||y66xvgo5i.chuimg.com^
 ||ydjs.luyouwang.com^
@@ -11702,7 +11630,6 @@
 ||ys630.com^$third-party
 ||ysdm*.ys137.com.cn^
 ||ytelc.com^$third-party
-||yueka.com^
 ||yunzuowen.com^$third-party
 ||ywg.jobui.com^
 ||yx1.managershare.com^
@@ -11712,7 +11639,6 @@
 ||z.tudouxy01.com^
 ||z1.chezhuzhinan.com^
 ||z1.cwbaike.com^
-||z1.cyla.cn^
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
@@ -11725,7 +11651,6 @@
 ||zq.lansedir.com^
 ||zsjxwj.com^
 ||zuowen.hydcd.com^
-||zuqiuju.com^
 ||zx.docin.com^
 ||zxw51.com^$third-party
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=52bdys.com
