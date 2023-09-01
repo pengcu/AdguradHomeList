@@ -368,6 +368,7 @@
 ||cdmjur.xyz^
 ||cdncloud.asia^
 ||cfdns.vip^
+||cheda1.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -414,6 +415,7 @@
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
+||dpbgnf.xyz^
 ||dqjojx.xyz^
 ||dsbjdeh.cn^
 ||dstbekdf.xyz^
@@ -422,6 +424,7 @@
 ||duyvtanrheje.xyz^
 ||dvtednm.cn^
 ||dwfjtz.xyz^
+||dwyngjb.icu^
 ||dyeperd.icu^
 ||dygtulfe.icu^
 ||dzkwj0y.xyz^
@@ -451,6 +454,7 @@
 ||f1tfmxzg.icu^
 ||fads315.com^
 ||falsarywaybung.com^
+||fangcunzhijian1.cn^
 ||fantuan.name^
 ||fcbqxt.xyz^
 ||fddxbn.xyz^
@@ -486,6 +490,7 @@
 ||gw1jvhs.com^
 ||gwrpceo.cn^
 ||gyq3bew.icu^
+||gyqifa.com^
 ||gyutmrp.com^
 ||hacde1.icu^
 ||hacde10.icu^
@@ -761,6 +766,7 @@
 ||r5dfwjtb.icu^
 ||rabuagc.cn^
 ||rbodwtj.icu^
+||rbrbr88p.cn^
 ||rbsodzgoy.xyz^
 ||rcblfd.xyz^
 ||rdbousn.cn^
@@ -942,6 +948,7 @@
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
+||yunliunet.com^
 ||yyuivw6.com^
 ||yzllux.xyz^
 ||z3yfkdjd.icu^
@@ -975,9 +982,9 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||rbrbr88p.cn^
-||cheda1.icu^
-||dwyngjb.icu^
+||lestv1.icu^
+||bleumzr.icu^
+||kekop.cn^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||012.tw^$third-party
@@ -2672,7 +2679,6 @@
 ||heshun365.cn^
 ||hesramfi.com^
 ||hevuabv.cn^
-||heytapimage.com^$third-party
 ||heyux.cn^
 ||hezlqmwm.com^
 ||hffxc.com^
@@ -9070,6 +9076,7 @@
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||php.cn/ad1.
+||php.cn/hezuo/
 ||php1.cn/uploads/huayun.jpg
 ||phpad.cqnews.net^
 ||phpernote.com/ali
@@ -9300,6 +9307,7 @@
 ||redshu.com/js/pcAdv.js
 ||redshu.com/js/www/jquerygg.js
 ||rentiyishu.org/*.js
+||renwai.ren/cdn/pic/ad
 ||repian.com/a/
 ||replays.net/j/dazui
 ||replays.net/j/pinglunshang.png
@@ -11061,6 +11069,7 @@
 ||abc.rwpt.top^
 ||abc.yebaike.com^
 ||abcd.5lu.com^
+||abcd.cnhuoche.com^
 ||abcd.yiq.com^
 ||abcd.zle.com^
 ||abcdcfasda.gushiwen.cn^
@@ -12471,7 +12480,6 @@
 ||lotuscard.cc/online/
 ||kuke99.com/static/home/js/index/index.js
 ||fulitech.com.cn^*/float.js
-||php.cn/upload/course/
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||kandaju.net/js/js2.
