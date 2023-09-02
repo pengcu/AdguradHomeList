@@ -614,6 +614,7 @@
 [/1-du.net/]10.10.10.1
 [/1-yuan.net/]10.10.10.1
 [/1.cc/]10.10.10.1
+[/1.fish/]10.10.10.1
 [/100-tong.com/]10.10.10.1
 [/100.com/]10.10.10.1
 [/100.me/]10.10.10.1
@@ -6926,6 +6927,7 @@
 [/a37jgfjl105.cc/]10.10.10.1
 [/a4s6.com/]10.10.10.1
 [/a5.net/]10.10.10.1
+[/a5b.cc/]10.10.10.1
 [/a5idc.net/]10.10.10.1
 [/a632079.me/]10.10.10.1
 [/a67dy.com/]10.10.10.1
@@ -8356,6 +8358,7 @@
 [/antdv.com/]10.10.10.1
 [/antebao.com/]10.10.10.1
 [/antebo.com/]10.10.10.1
+[/antfans.com/]10.10.10.1
 [/antfin-inc.com/]10.10.10.1
 [/antfin.com/]10.10.10.1
 [/antfortune.com/]10.10.10.1
@@ -9102,6 +9105,7 @@
 [/avrw.com/]10.10.10.1
 [/avtechcn.com/]10.10.10.1
 [/avtt830.com/]10.10.10.1
+[/avyeld.com/]10.10.10.1
 [/aw-ol.com/]10.10.10.1
 [/aw.cc/]10.10.10.1
 [/awaimai.com/]10.10.10.1
@@ -9620,6 +9624,7 @@
 [/banwojia.com/]10.10.10.1
 [/banxiayue.com/]10.10.10.1
 [/banyuetan.org/]10.10.10.1
+[/banyuetanapp.com/]10.10.10.1
 [/banyuetanxcx.com/]10.10.10.1
 [/banyunjuhe.com/]10.10.10.1
 [/banzhe.xyz/]10.10.10.1
@@ -13577,6 +13582,7 @@
 [/china3gpp.com/]10.10.10.1
 [/china4a.org/]10.10.10.1
 [/china50plus.com/]10.10.10.1
+[/china51766.com/]10.10.10.1
 [/china5e.com/]10.10.10.1
 [/china60.com/]10.10.10.1
 [/china618.com/]10.10.10.1
@@ -15278,6 +15284,7 @@
 [/cnnerv.com/]10.10.10.1
 [/cnnetsec.com/]10.10.10.1
 [/cnnfootballclub.com/]10.10.10.1
+[/cnnic.pub/]10.10.10.1
 [/cnnmol.com/]10.10.10.1
 [/cnnorip.org/]10.10.10.1
 [/cnnot.com/]10.10.10.1
@@ -15803,6 +15810,7 @@
 [/corpize.com/]10.10.10.1
 [/corpring.com/]10.10.10.1
 [/cos-show.com/]10.10.10.1
+[/cosbuluo.com/]10.10.10.1
 [/cosco.com/]10.10.10.1
 [/coscon.com/]10.10.10.1
 [/coscoshipping.com/]10.10.10.1
@@ -16041,7 +16049,6 @@
 [/cqxyfl.com/]10.10.10.1
 [/cqyc.net/]10.10.10.1
 [/cqyestar.com/]10.10.10.1
-[/cqyihuan.com/]10.10.10.1
 [/cqyingang.com/]10.10.10.1
 [/cqyouloft.com/]10.10.10.1
 [/cqyu.com/]10.10.10.1
@@ -19307,6 +19314,7 @@
 [/dzz.cc/]10.10.10.1
 [/dzzgsw.com/]10.10.10.1
 [/dzzoffice.com/]10.10.10.1
+[/dzzui.com/]10.10.10.1
 [/e-10031.com/]10.10.10.1
 [/e-3lue.com/]10.10.10.1
 [/e-bidding.org/]10.10.10.1
@@ -20956,7 +20964,6 @@
 [/fansgu.com/]10.10.10.1
 [/fanshicekong.com/]10.10.10.1
 [/fanshui.net/]10.10.10.1
-[/fanshuxiaobao.com/]10.10.10.1
 [/fansiji.com/]10.10.10.1
 [/fansimg.com/]10.10.10.1
 [/fansjoy.net/]10.10.10.1
@@ -27714,6 +27721,7 @@
 [/hupu.com/]10.10.10.1
 [/hupu.tv/]10.10.10.1
 [/hupucdn.com/]10.10.10.1
+[/hurbai.com/]10.10.10.1
 [/hurongclub.com/]10.10.10.1
 [/hurun.net/]10.10.10.1
 [/husenji.com/]10.10.10.1
@@ -32660,6 +32668,7 @@
 [/kamenwang.com/]10.10.10.1
 [/kamidm.com/]10.10.10.1
 [/kamidox.com/]10.10.10.1
+[/kamokamogo.com/]10.10.10.1
 [/kamopos.com/]10.10.10.1
 [/kamwu.com/]10.10.10.1
 [/kan.cc/]10.10.10.1
@@ -41089,6 +41098,7 @@
 [/paahu.com/]10.10.10.1
 [/paalermat.com/]10.10.10.1
 [/paascloud.net/]10.10.10.1
+[/paasmi.com/]10.10.10.1
 [/paat.com/]10.10.10.1
 [/pabulika.com/]10.10.10.1
 [/pacdn.com/]10.10.10.1
@@ -45828,6 +45838,7 @@
 [/sendcloud.net/]10.10.10.1
 [/sendcloud.org/]10.10.10.1
 [/sendong.com/]10.10.10.1
+[/sendpioneer.com/]10.10.10.1
 [/sends.cc/]10.10.10.1
 [/senenwood.com/]10.10.10.1
 [/senfengg.com/]10.10.10.1
@@ -47471,6 +47482,7 @@
 [/sjm.life/]10.10.10.1
 [/sjmdh.com/]10.10.10.1
 [/sjmeigao.com/]10.10.10.1
+[/sjmwsw.com/]10.10.10.1
 [/sjmxx.com/]10.10.10.1
 [/sjono.com/]10.10.10.1
 [/sjpcw.com/]10.10.10.1
@@ -52657,6 +52669,7 @@
 [/v-beautysalon.com/]10.10.10.1
 [/v-danci.com/]10.10.10.1
 [/v007.net/]10.10.10.1
+[/v0719.com/]10.10.10.1
 [/v114.com/]10.10.10.1
 [/v1bo.com/]10.10.10.1
 [/v1h5.com/]10.10.10.1
@@ -53761,6 +53774,7 @@
 [/wasair.com/]10.10.10.1
 [/wasanfeng.com/]10.10.10.1
 [/wasd.plus/]10.10.10.1
+[/wasee.com/]10.10.10.1
 [/wasfzx.com/]10.10.10.1
 [/washpayer.com/]10.10.10.1
 [/wasintek.com/]10.10.10.1
@@ -57822,6 +57836,7 @@
 [/xn--wlqw5ebvdhpi5hepihs3c.com/]10.10.10.1
 [/xn--xkrs9ba41r.com/]10.10.10.1
 [/xn--xxv969f.xn--ses554g/]10.10.10.1
+[/xn--y8jhmm6gn.moe/]10.10.10.1
 [/xn--ygtp21bwyedsq.com/]10.10.10.1
 [/xn--yhqq38bmov17mqxi.com/]10.10.10.1
 [/xn-ck.com/]10.10.10.1
@@ -58371,6 +58386,7 @@
 [/xxtaotao.com/]10.10.10.1
 [/xxtiao.com/]10.10.10.1
 [/xxtswzedu.com/]10.10.10.1
+[/xxue100.com/]10.10.10.1
 [/xxwolo.com/]10.10.10.1
 [/xxx6686.app/]10.10.10.1
 [/xxxbiquge.com/]10.10.10.1
@@ -60483,6 +60499,7 @@
 [/yrgu.com/]10.10.10.1
 [/yrmpay.com/]10.10.10.1
 [/yrom.net/]10.10.10.1
+[/yrsm.net/]10.10.10.1
 [/yruan.com/]10.10.10.1
 [/yrucd.com/]10.10.10.1
 [/yrw.cc/]10.10.10.1
@@ -63288,6 +63305,7 @@
 [/zkxww.com/]10.10.10.1
 [/zkyai.com/]10.10.10.1
 [/zkydib.com/]10.10.10.1
+[/zkyl.vip/]10.10.10.1
 [/zkyouxi.com/]10.10.10.1
 [/zkyxls.com/]10.10.10.1
 [/zkzj.org/]10.10.10.1

@@ -334,6 +334,8 @@
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bleumzr.icu^
+||bmiea.xyz^
 ||bmptbyb.com^
 ||bmyrihf.icu^
 ||bnds3.site^
@@ -342,6 +344,7 @@
 ||bnds7.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
+||bnrdnx.xyz^
 ||boewgph.icu^
 ||botnrr.xyz^
 ||boyidianqi.com.cn^
@@ -477,6 +480,7 @@
 ||fxeaobv.icu^
 ||gdjme27.com^
 ||ggdrfh5.com^
+||ggdumze.cn^
 ||gghmef7.com^
 ||ghland.site^
 ||gjipd.xyz^
@@ -564,6 +568,7 @@
 ||janwzsqi.icu^
 ||jayhou.top^
 ||jdcnwd.com^
+||jgsajfggv.xyz^
 ||jh16csf.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
@@ -601,6 +606,7 @@
 ||kahgjjd.com^
 ||kasiklz.cc^
 ||kdvmnn.com^
+||kekop.cn^
 ||kgeesh.site^
 ||kjvaqbyebqarl.top^
 ||kklpe.xyz^
@@ -634,6 +640,7 @@
 ||leadc4.icu^
 ||legdeh.fun^
 ||legopq.site^
+||lestv1.icu^
 ||lfjtiuy.cn^
 ||lgohse.fun^
 ||lgoseh.fun^
@@ -716,6 +723,7 @@
 ||oijmds.com^
 ||oiunga.com^
 ||okmhmkjnm.com^
+||okmhnd.com^
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
@@ -854,6 +862,7 @@
 ||txcv68f.com^
 ||ty8bz.com^
 ||u1022.com^
+||uchat6.com^
 ||uejdsw.com^
 ||uhwnrfu.cn^
 ||ujgf120.com^
@@ -912,6 +921,7 @@
 ||xhpghv.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
+||xiezhuo038.cn^
 ||xixrdn.xyz^
 ||xjzyhp.xyz^
 ||xkmwxwy.cn^
@@ -982,9 +992,11 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||lestv1.icu^
-||bleumzr.icu^
-||kekop.cn^
+||udeztrb.cn^
+||hgiaef.site^
+||etienlw.top^
+||jxtejf.xyz^
+||jxmiyrh.icu^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||012.tw^$third-party
@@ -5751,6 +5763,7 @@
 ||380.tw^$popup,third-party
 ||52av.be^$popup,third-party
 ||j8377.com^$popup
+||pemsrv.com^$popup
 ||slipdashedundermine.com^$popup
 ||1024mzs.pw^$popup,third-party
 ||1024wanzhai.$popup,third-party
@@ -6359,6 +6372,8 @@
 ||8d8d.me/images/dealer.gif
 ||8jkx.com^
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
+||8mg050.n3cdn1.secureserver.net^*.gif
+||8mg050.n3cdn1.secureserver.net^*/960
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
 ||8xia.com/otherhtml/
@@ -9804,6 +9819,7 @@
 ||union.591.com.tw/cpt?
 ||union.china.com.cn^
 ||union.yihaodian.com^
+||unpkg.com/sejie
 ||untitled.dwstatic.com^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
@@ -10216,6 +10232,8 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||58cdn.com.cn/nowater/webim/big/n_v2acfbdb173d7a411a89aff3ae0cc05d71.
+||6yso.com/wp-content/uploads/*-300-x-
 ||mydrivers.com/img/2005/202112011849.png
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
@@ -11787,6 +11805,7 @@
 ||kanshushi.com/yyddssdd.
 ||loli.net^$domain=xinqingdou.net
 ||meiguixs.net/images/*.js
+||myhaitang.cc/assets/public/*.js
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$third-party
 ||qianrenge.cc/qian/
