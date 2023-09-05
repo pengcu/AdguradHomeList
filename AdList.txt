@@ -287,6 +287,7 @@
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
+||88lajs1.com^
 ||89mtdab.xyz^
 ||999pro.top^
 ||9cc9ckp.com^
@@ -297,6 +298,7 @@
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||afgp10l.com^
+||afxncq.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
 ||allcp.xyz^
@@ -374,6 +376,7 @@
 ||cdncloud.asia^
 ||cfdns.vip^
 ||cheda1.icu^
+||cheda7.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -428,6 +431,7 @@
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
 ||duyvtanrheje.xyz^
+||dvenkbn.icu^
 ||dvtednm.cn^
 ||dwfjtz.xyz^
 ||dwyngjb.icu^
@@ -437,6 +441,7 @@
 ||eamqbaqzaewwq.top^
 ||ebscb0l.xyz^
 ||eers0cy.com^
+||eexlgyn.cn^
 ||eghyahl.cn^
 ||egipsbvlgn.xyz^
 ||eheb8.cn^
@@ -801,6 +806,7 @@
 ||rlqoyht.icu^
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
+||rrxddl.xyz^
 ||rssxsjh.icu^
 ||rszkhn.xyz^
 ||rtborp.xyz^
@@ -860,6 +866,7 @@
 ||tkqwurl.icu^
 ||tlbjw.com^
 ||tlprlf.xyz^
+||tltyygb.cn^
 ||tmwbszn.icu^
 ||toastspinner.com^
 ||tptp002.cfd^
@@ -925,6 +932,7 @@
 ||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
+||wtienle.top^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -1010,10 +1018,11 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||cheda7.icu^
-||tltyygb.cn^
-||wtienle.top^
-||dvenkbn.icu^
+||ajcode.co^
+||bace10.top^
+||oyfnkle.cn^
+||lgoewtd.icu^
+||zbzbzb.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -7274,7 +7283,6 @@
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
 ||jmbbs.cn/sjgg/
-||jmcomic.asia/iframe_
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmydm.com/jspage/ftt.js
 ||jnlc.com/www/fund/newsmarket
@@ -7426,6 +7434,7 @@
 ||kuaihou.com/c/shuoming.js
 ||kuaihou.com/c/you1.js
 ||kuaihou.com/js/new/xiazai
+||kuaijuwu.net/js/abc/
 ||kuaileco.com/weishou/
 ||kuaishouba.com/themes/default/images/*.gif
 ||kuaizhan.com^$domain=yaoshe67.com|yuese46.com
@@ -9744,14 +9753,8 @@
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxmee.com^$generichide
 ||17ce.com^*_$image
-||18comic.*/iframe
 ||18comic.*/media/albums/*?$media
-||18comic.*/media/logo/
-||18comic.*/static/resources/files/*0x
-||18comic.*/static/resources/images/168/
-||18comic.*/static/resources/images/300
-||18comic.*/static/resources/images/JGG/
-||jmcomic1.*/media/albums/*?$media
+||jm-comic2.club/media/albums/*?$media
 ||69t49.com/floating/layer.js
 ||alicdn.com/img/ibank/*_!!2210231227621-0-cib.
 ||alicdn.com/img/ibank/*_!!3820217494-0-cib.
