@@ -3100,7 +3100,6 @@
 [/3q2008.com/]10.10.10.1
 [/3qhouse.com/]10.10.10.1
 [/3qwe.com/]10.10.10.1
-[/3qzone.com/]10.10.10.1
 [/3renhe.net/]10.10.10.1
 [/3richman.com/]10.10.10.1
 [/3rkr.com/]10.10.10.1
@@ -6608,6 +6607,8 @@
 [/984g.com/]10.10.10.1
 [/985.so/]10.10.10.1
 [/985dh.com/]10.10.10.1
+[/985ks.com/]10.10.10.1
+[/985ks.net/]10.10.10.1
 [/985sy.com/]10.10.10.1
 [/986338dsd.com/]10.10.10.1
 [/98654.com/]10.10.10.1
@@ -6648,7 +6649,6 @@
 [/991kang.com/]10.10.10.1
 [/9922524.com/]10.10.10.1
 [/9928.tv/]10.10.10.1
-[/9929846.com/]10.10.10.1
 [/9939.com/]10.10.10.1
 [/99394.com/]10.10.10.1
 [/993h.com/]10.10.10.1
@@ -7759,6 +7759,7 @@
 [/aixinquban.com/]10.10.10.1
 [/aixinwu.org/]10.10.10.1
 [/aixinyunfan.com/]10.10.10.1
+[/aixiu.net/]10.10.10.1
 [/aixq.com/]10.10.10.1
 [/aixue.net/]10.10.10.1
 [/aixuedai.com/]10.10.10.1
@@ -10625,6 +10626,7 @@
 [/bitetui.com/]10.10.10.1
 [/bitgo.cc/]10.10.10.1
 [/bitgo.net/]10.10.10.1
+[/bitgo.tech/]10.10.10.1
 [/bitguai.com/]10.10.10.1
 [/bithosts.net/]10.10.10.1
 [/bithub00.com/]10.10.10.1
@@ -22088,6 +22090,7 @@
 [/fuimg.com/]10.10.10.1
 [/fuiou.com/]10.10.10.1
 [/fuioupay.com/]10.10.10.1
+[/fujfu.com/]10.10.10.1
 [/fujiabin.com/]10.10.10.1
 [/fujianrc.com/]10.10.10.1
 [/fujiansme.com/]10.10.10.1
@@ -31413,6 +31416,7 @@
 [/jjdzc.com/]10.10.10.1
 [/jjecn.com/]10.10.10.1
 [/jjfinder.com/]10.10.10.1
+[/jjfuzu.com/]10.10.10.1
 [/jjg630.com/]10.10.10.1
 [/jjgjy.cc/]10.10.10.1
 [/jjglobal.com/]10.10.10.1
@@ -31651,6 +31655,7 @@
 [/jobvvv.com/]10.10.10.1
 [/jobyp.com/]10.10.10.1
 [/jocat.com/]10.10.10.1
+[/jodeibel.com/]10.10.10.1
 [/joe92.com/]10.10.10.1
 [/johhan.com/]10.10.10.1
 [/johogames.com/]10.10.10.1
@@ -32929,6 +32934,7 @@
 [/ken.io/]10.10.10.1
 [/ken74.com/]10.10.10.1
 [/kename.com/]10.10.10.1
+[/kendingde.com/]10.10.10.1
 [/kendocn.com/]10.10.10.1
 [/kendryte.com/]10.10.10.1
 [/kenfor.com/]10.10.10.1
@@ -38769,6 +38775,7 @@
 [/mwrfabc.com/]10.10.10.1
 [/mwrfchina.org/]10.10.10.1
 [/mwryx.com/]10.10.10.1
+[/mwtee.com/]10.10.10.1
 [/mwyzhcdn.com/]10.10.10.1
 [/mx-industry.com/]10.10.10.1
 [/mx007.com/]10.10.10.1
@@ -44335,6 +44342,7 @@
 [/reformdata.org/]10.10.10.1
 [/refractorywin.com/]10.10.10.1
 [/reg007.com/]10.10.10.1
+[/regengbaike.com/]10.10.10.1
 [/regexr-cn.com/]10.10.10.1
 [/reglogo.net/]10.10.10.1
 [/regtm.com/]10.10.10.1
@@ -48307,7 +48315,9 @@
 [/sst-sd.com/]10.10.10.1
 [/sswater.com/]10.10.10.1
 [/sswchina.com/]10.10.10.1
+[/ssxcycy.com/]10.10.10.1
 [/ssxf.net/]10.10.10.1
+[/ssxpxjt.com/]10.10.10.1
 [/ssxxp.com/]10.10.10.1
 [/ssyar.com/]10.10.10.1
 [/ssyer.com/]10.10.10.1
@@ -54958,6 +54968,7 @@
 [/wjrcb.com/]10.10.10.1
 [/wjshw.com/]10.10.10.1
 [/wjsw.com/]10.10.10.1
+[/wjtzyg.com/]10.10.10.1
 [/wjunjie.com/]10.10.10.1
 [/wjwy.com/]10.10.10.1
 [/wjx.com/]10.10.10.1
@@ -56110,7 +56121,6 @@
 [/xbiquge.cc/]10.10.10.1
 [/xbiquge.com/]10.10.10.1
 [/xbiquge.la/]10.10.10.1
-[/xbiquge.so/]10.10.10.1
 [/xbiquge.tw/]10.10.10.1
 [/xbiquge6.com/]10.10.10.1
 [/xbiqugew.com/]10.10.10.1
@@ -56182,6 +56192,7 @@
 [/xcpapa.site/]10.10.10.1
 [/xcpapa.xyz/]10.10.10.1
 [/xcphzs.com/]10.10.10.1
+[/xcpxssx.com/]10.10.10.1
 [/xcq2022.com/]10.10.10.1
 [/xcqxcq.com/]10.10.10.1
 [/xcrxykl.com/]10.10.10.1
@@ -56529,7 +56540,6 @@
 [/xianlaihy.com/]10.10.10.1
 [/xianlife.com/]10.10.10.1
 [/xianmaiyangsheng.com/]10.10.10.1
-[/xianms.com/]10.10.10.1
 [/xianniuzu.com/]10.10.10.1
 [/xianpinyun.com/]10.10.10.1
 [/xianpp.com/]10.10.10.1
