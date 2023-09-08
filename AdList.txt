@@ -256,6 +256,7 @@
 ||154.212.147.231^
 ||154.22.214.2^
 ||154.7.80.158^
+||121.43.235.135^
 ||194.59.220.161^
 ||23.231.151.252^
 ||23.234.217.11^
@@ -410,6 +411,7 @@
 ||dd667788dd.com^
 ||dd778899dd.com^
 ||ddush.xyz^
+||degjidp.icu^
 ||dehaer.site^
 ||derew6xbsc.xyz^
 ||desac7.icu^
@@ -514,6 +516,7 @@
 ||hacde10.icu^
 ||hacde3.icu^
 ||haffo70.com^
+||haise10.top^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -562,6 +565,8 @@
 ||hujunhao.name^
 ||hummingexam.com^
 ||huoju.asia^
+||hvdath.xyz^
+||hwnod.xyz^
 ||hxhohd.xyz^
 ||hxinitv.icu^
 ||hyeqp.xyz^
@@ -636,6 +641,7 @@
 ||kmjndas.com^
 ||kmnhgna.com^
 ||knjmhmk.com^
+||knliylh.cn^
 ||kodfn.xyz^
 ||koljnda.com^
 ||kqubxdb.cn^
@@ -692,6 +698,7 @@
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||mdhxyhl.cn^
 ||mdwhxw.com^
 ||metaversemolecule.com^
 ||mh616.org^
@@ -843,6 +850,7 @@
 ||shulsbs.cn^
 ||simblotusitate.com^
 ||sjbgyak.cn^
+||solaron.top^
 ||soushubah.com^$third-party
 ||sq59.cn^
 ||ssdfgq7.com^
@@ -889,6 +897,7 @@
 ||tseda1.icu^
 ||tseda6.icu^
 ||tslbahi.top^
+||ttienli.top^
 ||ttykabh.icu^
 ||tuplzt.xyz^
 ||tushwjp.icu^
@@ -915,6 +924,7 @@
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vcydyzd.icu^
+||vexilorath.com^
 ||vfzfrx.xyz^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
@@ -1006,6 +1016,7 @@
 ||zbx01.com^
 ||zbzbzb.xyz^
 ||zcbfjd.xyz^
+||zcgqsd.icu^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zdwykjd.icu^
@@ -1037,14 +1048,11 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||haise10.top^
-||mdhxyhl.cn^
-||degjidp.icu^
-||vexilorath.com^
-||hvdath.xyz^
-||zcgqsd.icu^
-||hwnod.xyz^
-||solaron.top^
+||nqoxurf.icu^
+||inowe.xyz^
+||htseca.top^
+||dmvckj.icu^
+||hsfbpp.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -4978,7 +4986,7 @@
 ||360buyimg.com/babel/jfs/t1/209256/22/21888/60206/627b7a6aEa5f2d78b/219868beb169203f.jpg
 ||360buyimg.com/ddimg/jfs/t1/27218/8/19964/31194/636a1930E1de2ae78/e3ff134116579b95.jpg
 ||360buyimg.com/jzt/temp/js/
-||360buyimg.com^$domain=1024pz.com|chdbits.co|gw54.com|qianggou5.com|xgw5.com
+||360buyimg.com^$domain=1024pz.com|chdbits.co|qianggou5.com
 ||360doc.com^*.html?t=
 ||360kan.com/special/
 ||360kan.com/v1/block?blockid=544&
@@ -7256,7 +7264,6 @@
 ||jd.com/exsites?spread_type=
 ||jd.com/static/js/auto.js
 ||jd.com/static/js/cpc.js
-||jd.com^$domain=gw54.com|xgw5.com
 ||jd100.com/cwmpc/
 ||jdwx.info/api.php?mod=ad&
 ||jia.com/js/common/article_home_adv.js
@@ -9083,6 +9090,8 @@
 ||zhibok8.com/js/scroll.js
 ||zhifuok.com/19xa.jpg
 ||zhihu.com/api/*banners/
+||zhihu.com/api/v4/brand/question/*/card
+||zhihu.com/api/v4/commercial/ecommerce
 ||zhihu.com/commercial_api/banners_
 ||zhihu.com/node/Banner?
 ||zhimg.com/80/v2-503830bc48217331677fc5c7b67eee12.
