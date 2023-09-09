@@ -252,11 +252,11 @@
 ||103.71.154.76^
 ||118.107.47.88^
 ||121.204.246.*.gif
+||121.43.235.135^
 ||143.92.60.44^
 ||154.212.147.231^
 ||154.22.214.2^
 ||154.7.80.158^
-||121.43.235.135^
 ||194.59.220.161^
 ||23.231.151.252^
 ||23.234.217.11^
@@ -425,6 +425,7 @@
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
 ||dojyiu8.com^
@@ -556,10 +557,12 @@
 ||hqgearb.icu^
 ||hqzcths.cn^
 ||hsadeg.site^
+||hsfbpp.xyz^
 ||hslbahu.top^
 ||hstbrt.xyz^
 ||hthivr.xyz^
 ||htienlu.top^
+||htseca.top^
 ||huaxia.name^
 ||hubiazhi.com^
 ||hujunhao.name^
@@ -576,6 +579,7 @@
 ||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
+||inowe.xyz^
 ||iojnask.com^
 ||ipadf.xyz^
 ||iplm.cc^
@@ -740,6 +744,7 @@
 ||nnqwe.xyz^
 ||northcookie.xyz^
 ||nqdufv.xyz^
+||nqoxurf.icu^
 ||nryqr.cn^
 ||nswtojdi.icu^
 ||ntozchv.icu^
@@ -917,6 +922,7 @@
 ||unjld.com^
 ||uraseszincy.com^
 ||uslbaht.top^
+||uuzwvqc.cn^
 ||uwgnpkd.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
@@ -1048,11 +1054,12 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||nqoxurf.icu^
-||inowe.xyz^
-||htseca.top^
-||dmvckj.icu^
-||hsfbpp.xyz^
+||jweoe.xyz^
+||desac10.icu^
+||xbyoujv.icu^
+||azukgee.cn^
+||hwfoct.icu^
+||pchznf.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -9151,6 +9158,7 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||hiaxj.com/dbxf/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -9298,6 +9306,7 @@
 @@||banma.com/statics/js/??
 @@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
+@@||juduo.cc^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
@@ -10760,8 +10769,8 @@
 @@||jsqsjn.com^$script,domain=fyxfcw.com
 @@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|52biquge.com|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|baoshuu.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bodekang.net|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|ixuanshu.net|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qianrenge.cc|qishuta.info|qiuyelou.net|qr1234.com|shu008.com|shuhaiwu.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|ttzw.tv|tutengzw.com|u33.cc|wenxuem.com|x23us.me|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xinxs.la|xquge6.com|xs5200.com|xszww8.net|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
 @@||zmtt.net^$script,domain=luoqiuzw.com
-@@||cloudflare.net^$script,domain=colamanhua.com
-||colamanhua.com/sw.js
+@@||cloudflare.net^$script,domain=colamanga.com
+||colamanga.com/sw.js
 ||alicdn.com/img/ibank/*_!!2208043467212-
 ||alicdn.com/kf/U17649ef1f91e4b428152e709d33aed775.jpg
 ||jsdelivr.net/gh/*/960x60.
