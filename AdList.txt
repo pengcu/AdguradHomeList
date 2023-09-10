@@ -312,6 +312,7 @@
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||asdyui16.cn^
+||azukgee.cn^
 ||b0ufmrzl.icu^
 ||b4g7k9d2.com^
 ||bace10.top^
@@ -414,6 +415,7 @@
 ||degjidp.icu^
 ||dehaer.site^
 ||derew6xbsc.xyz^
+||desac10.icu^
 ||desac7.icu^
 ||destc8.icu^
 ||dffrahax.com^
@@ -510,6 +512,7 @@
 ||gvbhae0.com^
 ||gw1jvhs.com^
 ||gwrpceo.cn^
+||gxgbvmg.cn^
 ||gyq3bew.icu^
 ||gyqifa.com^
 ||gyutmrp.com^
@@ -569,6 +572,7 @@
 ||hummingexam.com^
 ||huoju.asia^
 ||hvdath.xyz^
+||hwfoct.icu^
 ||hwnod.xyz^
 ||hxhohd.xyz^
 ||hxinitv.icu^
@@ -622,6 +626,7 @@
 ||jujcjz.xyz^
 ||jutwzssh.icu^
 ||jvjlkih.com^
+||jweoe.xyz^
 ||jwylcrb.cn^
 ||jxmiyrh.icu^
 ||jxtejf.xyz^
@@ -771,6 +776,7 @@
 ||p52q.cn^
 ||parnett55.xyz^
 ||pbtsjh.xyz^
+||pchznf.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
 ||pdjjrh.xyz^
@@ -969,6 +975,7 @@
 ||wyq3rum.icu^
 ||wzctuv.xyz^
 ||x5hnj21.com^
+||xbyoujv.icu^
 ||xccadc.com^
 ||xckj0623.com^
 ||xcvwrj.xyz^
@@ -992,6 +999,7 @@
 ||xpcwrgy.cn^
 ||xpicj1.cc^
 ||xqblnei.cn^
+||xrb0owc.icu^
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
@@ -1054,12 +1062,10 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||jweoe.xyz^
-||desac10.icu^
-||xbyoujv.icu^
-||azukgee.cn^
-||hwfoct.icu^
-||pchznf.xyz^
+||cheda10.icu^
+||fngcgbl.icu^
+||qhxtzwf.cn^
+||kcnwe.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -6939,6 +6945,7 @@
 ||hgyouxi.com/data/hgyouxiad/
 ||hiad.vmall.com^
 ||hiao.com/node/node_27508.htm
+||hiaxj.com/dbxf/
 ||hibiquan.com/uploads/images/
 ||hinet.net/radio/getAdcode.do
 ||histock.tw/ad/
@@ -7587,7 +7594,6 @@
 ||liwupuba.com/livead/
 ||ll.gxsky.com^
 ||llj22.com/1.gif
-||lndayp.com/4567/
 ||lnzqw.net/js/
 ||localau.vip/plugin/ad_
 ||localau.vip/plugin/pause.php
@@ -9158,7 +9164,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||hiaxj.com/dbxf/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -9306,7 +9311,6 @@
 @@||banma.com/statics/js/??
 @@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
-@@||juduo.cc^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
@@ -9518,6 +9522,7 @@
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsjiami.com^$generichide
 @@||jswenhui.com^*/ad/
+@@||juduo.cc^$generichide
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
 @@||kayixin.com^*/advert

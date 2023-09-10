@@ -2083,6 +2083,7 @@
 [/goagent.codeplex.com/]10.10.10.11
 [/goagentplus.com/]10.10.10.11
 [/gobet.cc/]10.10.10.11
+[/godaddy.com/]10.10.10.11
 [/godfootsteps.org/]10.10.10.11
 [/godns.work/]10.10.10.11
 [/godoc.org/]10.10.10.11
