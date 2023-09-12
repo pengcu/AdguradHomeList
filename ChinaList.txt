@@ -4248,7 +4248,6 @@
 [/52solution.com/]10.10.10.1
 [/52souji.net/]10.10.10.1
 [/52souluo.com/]10.10.10.1
-[/52soutu.com/]10.10.10.1
 [/52survey.com/]10.10.10.1
 [/52svip.cc/]10.10.10.1
 [/52svn.com/]10.10.10.1
@@ -11650,6 +11649,7 @@
 [/bx58.com/]10.10.10.1
 [/bxb2b.com/]10.10.10.1
 [/bxcc.vip/]10.10.10.1
+[/bxcqd.com/]10.10.10.1
 [/bxdaka.com/]10.10.10.1
 [/bxdlkj.com/]10.10.10.1
 [/bxemln.com/]10.10.10.1
@@ -29504,7 +29504,6 @@
 [/ipuu.net/]10.10.10.1
 [/ipv4.host/]10.10.10.1
 [/ipv6dns.com/]10.10.10.1
-[/ipyker.com/]10.10.10.1
 [/ipyy.com/]10.10.10.1
 [/iq123.com/]10.10.10.1
 [/iqalliance.org/]10.10.10.1
@@ -32576,6 +32575,7 @@
 [/kaiyuan.me/]10.10.10.1
 [/kaiyuangroup.cc/]10.10.10.1
 [/kaiyuanhotels.com/]10.10.10.1
+[/kaiyuanweilaikeji.com/]10.10.10.1
 [/kaiyun.com/]10.10.10.1
 [/kajicam.com/]10.10.10.1
 [/kaka.com/]10.10.10.1
@@ -36930,7 +36930,6 @@
 [/markmall.com/]10.10.10.1
 [/markmiao.com/]10.10.10.1
 [/marknum.com/]10.10.10.1
-[/markonreview.com/]10.10.10.1
 [/markorchem.com/]10.10.10.1
 [/marksmile.com/]10.10.10.1
 [/marmot-cloud.com/]10.10.10.1
@@ -41088,7 +41087,6 @@
 [/pandatv.com/]10.10.10.1
 [/pandoe.com/]10.10.10.1
 [/pandolia.net/]10.10.10.1
-[/pandownload.com/]10.10.10.1
 [/panduoduo.net/]10.10.10.1
 [/panduoduo.online/]10.10.10.1
 [/panewslab.com/]10.10.10.1
@@ -44882,6 +44880,7 @@
 [/ruixunidc.com/]10.10.10.1
 [/ruixunidc.net/]10.10.10.1
 [/ruiyang-ra.com/]10.10.10.1
+[/ruiyuanobserve.com/]10.10.10.1
 [/ruiyunit.com/]10.10.10.1
 [/ruizong-gz.com/]10.10.10.1
 [/rujiazg.com/]10.10.10.1
@@ -51148,7 +51147,6 @@
 [/tripbaba.com/]10.10.10.1
 [/tripbe.com/]10.10.10.1
 [/triphr.com/]10.10.10.1
-[/triple7photography.com/]10.10.10.1
 [/triplexservice.com/]10.10.10.1
 [/tripodeck.com/]10.10.10.1
 [/tripsanxia.net/]10.10.10.1
@@ -54694,7 +54692,6 @@
 [/whzydz.com/]10.10.10.1
 [/whzyht.com/]10.10.10.1
 [/wi799.com/]10.10.10.1
-[/wiblog.net/]10.10.10.1
 [/wicep.com/]10.10.10.1
 [/wicp.net/]10.10.10.1
 [/wicp.vip/]10.10.10.1
@@ -59919,6 +59916,7 @@
 [/yongsy.com/]10.10.10.1
 [/yongtu.net/]10.10.10.1
 [/yongxinby.com/]10.10.10.1
+[/yongxinji.com/]10.10.10.1
 [/yongxintex.com/]10.10.10.1
 [/yongzhentang.com/]10.10.10.1
 [/yonho.com/]10.10.10.1
@@ -61505,6 +61503,7 @@
 [/zcsbbs.com/]10.10.10.1
 [/zcskj.com/]10.10.10.1
 [/zctl.net/]10.10.10.1
+[/zctpt.com/]10.10.10.1
 [/zctx.com/]10.10.10.1
 [/zcwlsc.com/]10.10.10.1
 [/zcwxjx.com/]10.10.10.1
@@ -61528,6 +61527,7 @@
 [/zdexe.com/]10.10.10.1
 [/zdface.com/]10.10.10.1
 [/zdfx.net/]10.10.10.1
+[/zdgzc.com/]10.10.10.1
 [/zdh168.com/]10.10.10.1
 [/zdhaitao.com/]10.10.10.1
 [/zdhaitao.net/]10.10.10.1

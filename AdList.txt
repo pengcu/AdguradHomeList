@@ -679,6 +679,7 @@
 ||legdeh.fun^
 ||legopq.site^
 ||lestv1.icu^
+||lestv10.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -712,6 +713,7 @@
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||m4pgay.com^
 ||mdhxyhl.cn^
 ||mdwhxw.com^
 ||metaversemolecule.com^
@@ -726,6 +728,7 @@
 ||mmtnat.com^
 ||mnhknds.com^
 ||mnpbxjq.cn^
+||mnzvtwd.cn^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -791,6 +794,7 @@
 ||piqtpbxo.icu^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
+||pkjmmn.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
 ||pnhp3x1.com^
@@ -805,7 +809,9 @@
 ||puy2.cn^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
+||pzqqstb.icu^
 ||q27sz.com^
+||qbhmz3.com^
 ||qezpjlp.cn^
 ||qhjm600.com^
 ||qhx1h2g.com^
@@ -970,6 +976,7 @@
 ||vzvvifw.cn^
 ||wcv68kw.com^
 ||wddsva0.com^
+||whe0nqk.icu^
 ||wlgxaij.cn^
 ||wnzle.com^
 ||wpoarjokzgi.com^
@@ -1012,6 +1019,7 @@
 ||xukang09.cn^
 ||xukou.net^
 ||xuwfmhh.icu^
+||xwlyfl.xyz^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
@@ -1070,10 +1078,12 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||lestv10.icu^
-||mnzvtwd.cn^
-||pzqqstb.icu^
-||xwlyfl.xyz^
+||xolerkr.cn^
+||sgeth7.icu^
+||zlyhslx.icu^
+||jynthelon.com^
+||tuyyex.icu^
+||fgnzdb.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -8953,6 +8963,7 @@
 ||xitonghe.com/SkinNew/js/init_g.
 ||xitongzhijia.net/theme/2020/js/10033_
 ||xiu8.com/baidu-tieba/*&forum_name=
+||xiumb8.com/js/lm_
 ||xizi.com/js/rotator.js
 ||xkd*.com/layer/layer.js
 ||xkyn.com/imgs/js/xx.js
