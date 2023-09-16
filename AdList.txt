@@ -266,6 +266,8 @@
 ||126ccb.xyz^
 ||1378a.xyz^
 ||1379a.xyz^
+||155zn.com^
+||1jc5t.xyz^
 ||1u5gy.xyz^
 ||23dhj4q.com^
 ||3337126.com^
@@ -282,10 +284,13 @@
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
+||54dbg.xyz^
 ||5gg17gm.com^
 ||5ggj5cp.com^
 ||5lfgdju.com^
 ||777aa999aa.com^
+||777zz777zz.com^
+||789peizi.com^
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
@@ -306,6 +311,7 @@
 ||ajkjbcjbaaaed.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
+||alemu4s.com^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||anei.tv^$third-party
@@ -384,6 +390,7 @@
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||cdncloud.asia^
+||ceshi1.ink^
 ||cfdns.vip^
 ||cheda1.icu^
 ||cheda10.icu^
@@ -421,6 +428,7 @@
 ||ddush.xyz^
 ||degjidp.icu^
 ||dehaer.site^
+||dektcvna.icu^
 ||derew6xbsc.xyz^
 ||desac10.icu^
 ||desac7.icu^
@@ -434,6 +442,7 @@
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||diouy9cvtx.xyz^
 ||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
@@ -476,6 +485,7 @@
 ||eslbahw.top^
 ||etienlw.top^
 ||euitx.cn^
+||evb0gxo.icu^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
@@ -501,12 +511,14 @@
 ||frrhdl.xyz^
 ||frsejhged.xyz^
 ||fsjjrbz.cn^
+||fsmhub.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||fxeaobv.icu^
+||gcbflvx.cn^
 ||gdjme27.com^
 ||ggdrfh5.com^
 ||ggdumze.cn^
@@ -620,6 +632,7 @@
 ||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
+||jkzbjv.xyz^
 ||jmbluyxkl.xyz^
 ||jnhgm.com^
 ||jnp0kmm.icu^
@@ -692,6 +705,7 @@
 ||legopq.site^
 ||lestv1.icu^
 ||lestv10.icu^
+||lestv7.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -946,6 +960,7 @@
 ||tslbahi.top^
 ||ttienli.top^
 ||ttykabh.icu^
+||tuhzjrr.cn^
 ||tuplzt.xyz^
 ||tushwjp.icu^
 ||tuwaqtjcood.com^
@@ -984,6 +999,7 @@
 ||victoriajumpc.com^
 ||vihppjk.cn^
 ||vkjsnvk.com^
+||vktztp.xyz^
 ||vlgkotr.cn^
 ||vlujojf.icu^
 ||vmdlxj.xyz^
@@ -1053,6 +1069,7 @@
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
+||xybnfn.xyz^
 ||yac5t.cn^
 ||yasg114.com^
 ||ybcnvqf.cn^
@@ -1066,12 +1083,14 @@
 ||yjnkas.com^
 ||ykkbwdf.cn^
 ||ymhyw6.lol^
+||ynfxxbp.xyz^
 ||yofprpv.cn^
 ||yruws6.com^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yunliunet.com^
+||ywkkmze.cn^
 ||yxvoud.com^
 ||yyefao.com^
 ||yyuivw6.com^
@@ -1114,19 +1133,8 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||diouy9cvtx.xyz^
-||54dbg.xyz^
-||xybnfn.xyz^
-||1jc5t.xyz^
-||tuhzjrr.cn^
-||lestv7.icu^
-||fsmhub.icu^
-||dektcvna.icu^
-||jkzbjv.xyz^
-||ceshi1.ink^
-||789peizi.com^
-||vktztp.xyz^
-||evb0gxo.icu^
+||vmbzhfh.cn^
+||jcwtml.icu^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -7173,6 +7181,7 @@
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
 ||imagebed.org^$domain=kisstube.top
+||imageoss.com/images/*_GIF2400x120_
 ||images.china.cn^*first/$subdocument
 ||images.jurong.cn/bbs/
 ||images.sohu.com/bill/
@@ -8533,7 +8542,6 @@
 ||sogou.com/reventondc/inner/gamebrand?
 ||sogou.com/uniplan/?pageID=
 ||sogou.com/wap_ask_service?
-||sogoucdn.com/app/a/100540022/2021012518561139502233.png
 ||sogoucdn.com/app/a/100540022/2021022016080586548810.jpg
 ||sogoucdn.com/app/a/200692/960_80_feedback_
 ||sogoucdn.com/dhfe/
@@ -9117,6 +9125,7 @@
 ||ytbbs.com/images/index/
 ||ytse*.top/Static/Home/GongGao/img/
 ||yuanbao777.com/download/*.gif
+||yuanxue365.com/js/a22.
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
 ||yun.baidu.com/act/api/activityentry?
@@ -9226,7 +9235,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||imageoss.com/images/*_GIF2400x120_
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
