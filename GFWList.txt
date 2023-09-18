@@ -103,7 +103,6 @@
 [/6parkbbs.com/]10.10.10.11
 [/6parker.com/]10.10.10.11
 [/6parknews.com/]10.10.10.11
-[/7-zip.org/]10.10.10.11
 [/7capture.com/]10.10.10.11
 [/7cow.com/]10.10.10.11
 [/8-d.com/]10.10.10.11
@@ -1062,6 +1061,7 @@
 [/civilhrfront.org/]10.10.10.11
 [/civiliangunner.com/]10.10.10.11
 [/civilmedia.tw/]10.10.10.11
+[/civitai.com/]10.10.10.11
 [/ck101.com/]10.10.10.11
 [/cl.d0z.net/]10.10.10.11
 [/clarionproject.org/]10.10.10.11
@@ -3148,6 +3148,7 @@
 [/lflinkup.org/]10.10.10.11
 [/lhakar.org/]10.10.10.11
 [/lhasocialwork.org/]10.10.10.11
+[/li.taipei/]10.10.10.11
 [/liangyou.net/]10.10.10.11
 [/liangzhichuanmei.com/]10.10.10.11
 [/lianyue.net/]10.10.10.11
@@ -3461,6 +3462,7 @@
 [/mondex.org/]10.10.10.11
 [/money-link.com.tw/]10.10.10.11
 [/moneyhome.biz/]10.10.10.11
+[/monica.im/]10.10.10.11
 [/monitorchina.org/]10.10.10.11
 [/monocloud.me/]10.10.10.11
 [/monster.com/]10.10.10.11
@@ -3930,7 +3932,6 @@
 [/page.bid.yahoo.com/]10.10.10.11
 [/page.link/]10.10.10.11
 [/page2rss.com/]10.10.10.11
-[/pages.dev/]10.10.10.11
 [/pagodabox.com/]10.10.10.11
 [/palacemoon.com/]10.10.10.11
 [/paldengyal.com/]10.10.10.11
@@ -5166,7 +5167,6 @@
 [/tradingview.com/]10.10.10.11
 [/trans.wenweipo.com/]10.10.10.11
 [/translate.goog/]10.10.10.11
-[/translate.google/]10.10.10.11
 [/transparency.org/]10.10.10.11
 [/treemall.com.tw/]10.10.10.11
 [/trendsmap.com/]10.10.10.11
@@ -5565,7 +5565,6 @@
 [/voxer.com/]10.10.10.11
 [/voy.com/]10.10.10.11
 [/vpn.ac/]10.10.10.11
-[/vpn.cjb.net/]10.10.10.11
 [/vpn.cmu.edu/]10.10.10.11
 [/vpn.sv.cmu.edu/]10.10.10.11
 [/vpn4all.com/]10.10.10.11
