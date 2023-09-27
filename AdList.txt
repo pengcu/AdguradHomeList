@@ -280,7 +280,9 @@
 ||3400.org^
 ||35vc.com^
 ||360114.xyz^
+||36gv.com^
 ||36mghtd.xyz^
+||37dv.com^
 ||38kmute.xyz^
 ||39mydp.xyz^
 ||3ad5iot.com^
@@ -332,6 +334,8 @@
 ||arpg2.com^
 ||asclan.icu^
 ||asdyui16.cn^
+||asfklgnbvx.com^
+||asryrzpu.xyz^
 ||atdlbgx.xyz^
 ||availablesshaother.com^
 ||azukgee.cn^
@@ -379,6 +383,7 @@
 ||bnets1.icu^
 ||bnfyzszm.icu^
 ||bnrdnx.xyz^
+||boats5.top^
 ||boats8.top^
 ||boewgph.icu^
 ||botnrr.xyz^
@@ -398,6 +403,7 @@
 ||bxackzj.icu^
 ||bxjhlhk.xyz^
 ||byvlph.xyz^
+||bzthxv.xyz^
 ||bzxvtj.xyz^
 ||c4d4.cn^
 ||c9r05q.com^
@@ -650,6 +656,7 @@
 ||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
+||imbikh.icu^
 ||inowe.xyz^
 ||iojnask.com^
 ||ipadf.xyz^
@@ -714,6 +721,7 @@
 ||jzixypd.icu^
 ||jzxpxj.xyz^
 ||kahgjjd.com^
+||kanagi.xyz^
 ||kasiklz.cc^
 ||kcnwe.xyz^
 ||kcqpvqr.cn^
@@ -735,6 +743,7 @@
 ||kodfn.xyz^
 ||koljnda.com^
 ||kqubxdb.cn^
+||krjzxie.cn^
 ||kslbahd.top^
 ||ktienld.top^
 ||kuxkddg.cn^
@@ -780,6 +789,7 @@
 ||lknnbd.xyz^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
+||lniwe.xyz^
 ||lokindt.com^
 ||lokngd.com^
 ||lqjinx.xyz^
@@ -902,6 +912,7 @@
 ||ptfxh.com^
 ||ptmabek.cn^
 ||puy2.cn^
+||pvlnjwr.xyz^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
 ||pzqqstb.icu^
@@ -915,6 +926,7 @@
 ||qhxtzwf.cn^
 ||qifyeldy.top^
 ||qjekt0c.xyz^
+||qpcvlbp.cn^
 ||qpztub.xyz^
 ||qqnde.xyz^
 ||qrirud.xyz^
@@ -937,6 +949,7 @@
 ||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdpcom.com^
+||rdpsht.xyz^
 ||rdufuxr.icu^
 ||recds7.icu^
 ||recds8.icu^
@@ -1235,14 +1248,14 @@
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
-||krjzxie.cn^
-||boats5.top^
-||asryrzpu.xyz^
-||imbikh.icu^
-||lniwe.xyz^
-||pvlnjwr.xyz^
-||rdpsht.xyz^
-||bzthxv.xyz^
+||mwqucr.icu^
+||recds4.icu^
+||bnpfdzp.xyz^
+||jijozdrg.xyz^
+||nlrsbd.xyz^
+||mwqucr.icu^
+||znrtfj.xyz^
+||mowec.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
@@ -8477,6 +8490,7 @@
 ||scint-x.com/js/
 ||sconline.com.tw/top/coolpc_
 ||scupio.com/adpinline/
+||scupio.net/kanglei/
 ||scw98.com/ADMM.
 ||scw98.com/js/Index
 ||sd124.com/statics/mystyle/js/1699.js
@@ -9309,7 +9323,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||scupio.net/kanglei/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
