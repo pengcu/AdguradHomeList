@@ -1256,6 +1256,15 @@
 ||mwqucr.icu^
 ||znrtfj.xyz^
 ||mowec.xyz^
+||pjzmbhf.cn^
+||zacff.com^
+||36uh.com^
+||zxpgfl.xyz^
+||sibehgtq.xyz^
+||cheda9.icu^
+||nxtxxcm.xyz^
+||qaagib.icu^
+||zxjrbz.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
@@ -5869,7 +5878,6 @@
 ||ax.ifeng.com^
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
-||axutongxue.*/js/uuiiio.
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||azhibo.*/media/aimg/*.gif
@@ -9323,6 +9331,10 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||axutongxue.*/js/pp
+||hexun.com/pc/js/dataPopup.
+||hexun.com/pc/img/diversionToWXBottom_
+||dytt8.com/js1y/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
