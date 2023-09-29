@@ -282,7 +282,9 @@
 ||360114.xyz^
 ||36gv.com^
 ||36mghtd.xyz^
+||36uh.com^
 ||37dv.com^
+||37io.com^
 ||38kmute.xyz^
 ||39mydp.xyz^
 ||3ad5iot.com^
@@ -313,6 +315,7 @@
 ||a8age.com^
 ||a9able.com^
 ||aaenv48847h.com^
+||aapeople.cn^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||afgp10l.com^
@@ -369,6 +372,7 @@
 ||bhjuy10.com^
 ||bifyeldv.top^
 ||bilezdq.cn^
+||bitsinflow.com^
 ||bkhblj.xyz^
 ||bkjlf58.com^
 ||bleumzr.icu^
@@ -382,6 +386,7 @@
 ||bnds8.site^
 ||bnets1.icu^
 ||bnfyzszm.icu^
+||bnpfdzp.xyz^
 ||bnrdnx.xyz^
 ||boats5.top^
 ||boats8.top^
@@ -421,6 +426,7 @@
 ||cheda10.icu^
 ||cheda7.icu^
 ||cheda8.icu^
+||cheda9.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -513,6 +519,7 @@
 ||ejolul.xyz^
 ||ekdky.cn^
 ||eltdeh.top^
+||emailservcesonline.site^
 ||enhad.xyz^
 ||epoid.xyz^
 ||eraaoec.cn^
@@ -548,6 +555,7 @@
 ||fngcgbl.icu^
 ||fnitw.xyz^
 ||foirkrt.icu^
+||fqmgjad.cn^
 ||fqpxzr.xyz^
 ||frrhdl.xyz^
 ||frsejhged.xyz^
@@ -680,6 +688,7 @@
 ||jhlazsot.icu^
 ||jhvchv.xyz^
 ||jhzfwl.cn^
+||jijozdrg.xyz^
 ||jixmlx.xyz^
 ||jjade.xyz^
 ||jjklrcw.com^
@@ -824,11 +833,13 @@
 ||mnpbxjq.cn^
 ||mnzvtwd.cn^
 ||moobtcnse.xyz^
+||mowec.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
 ||mtienlx.top^
 ||mvamnng.cn^
 ||mvgucp.com^
+||mwqucr.icu^
 ||naqiwjj.icu^
 ||naryvz.xyz^
 ||nba55.cc^
@@ -842,6 +853,7 @@
 ||nifyeldc.top^
 ||nimoatl.icu^
 ||njogejt.icu^
+||nlrsbd.xyz^
 ||nlvgxr.xyz^
 ||nmdotj.xyz^
 ||nmkghh.com^
@@ -862,6 +874,7 @@
 ||nwera.xyz^
 ||nwrgdifq.xyz^
 ||nxhwvt.xyz^
+||nxtxxcm.xyz^
 ||oaclrst.cn^
 ||oaihiiacb.com^
 ||obzthda.xyz^
@@ -898,6 +911,7 @@
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
 ||pjy55d.com^
+||pjzmbhf.cn^
 ||pkjmmn.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
@@ -918,6 +932,7 @@
 ||pzqqstb.icu^
 ||pzykrcq.cn^
 ||q27sz.com^
+||qaagib.icu^
 ||qbhmz3.com^
 ||qezpjlp.cn^
 ||qgrnyis.cn^
@@ -951,6 +966,7 @@
 ||rdpcom.com^
 ||rdpsht.xyz^
 ||rdufuxr.icu^
+||recds4.icu^
 ||recds7.icu^
 ||recds8.icu^
 ||relafp.xyz^
@@ -998,6 +1014,7 @@
 ||sgeth1.icu^
 ||sgeth7.icu^
 ||shulsbs.cn^
+||sibehgtq.xyz^
 ||simblotusitate.com^
 ||sjbgyak.cn^
 ||solaron.top^
@@ -1206,6 +1223,7 @@
 ||yyuivw6.com^
 ||yzllux.xyz^
 ||z3yfkdjd.icu^
+||zacff.com^
 ||zbx01.com^
 ||zbzbzb.xyz^
 ||zcbfjd.xyz^
@@ -1237,6 +1255,7 @@
 ||zlbcxr.xyz^
 ||zlyhslx.icu^
 ||zmdjbl.xyz^
+||znrtfj.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
 ||zpotkvpy.icu^
@@ -1245,26 +1264,19 @@
 ||ztqdkzn.cn^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
+||zxjrbz.xyz^
+||zxpgfl.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
-||mwqucr.icu^
-||recds4.icu^
-||bnpfdzp.xyz^
-||jijozdrg.xyz^
-||nlrsbd.xyz^
-||mwqucr.icu^
-||znrtfj.xyz^
-||mowec.xyz^
-||pjzmbhf.cn^
-||zacff.com^
-||36uh.com^
-||zxpgfl.xyz^
-||sibehgtq.xyz^
-||cheda9.icu^
-||nxtxxcm.xyz^
-||qaagib.icu^
-||zxjrbz.xyz^
+||epxprfk.xyz^
+||sgeth3.icu^
+||hhlsxp.xyz^
+||ljnrjt.xyz^
+||oepce.xyz^
+||ukpsal.icu^
+||bytupkvc.xyz^
+||ra6.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
@@ -5878,6 +5890,7 @@
 ||ax.ifeng.com^
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
+||axutongxue.*/js/pp
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||azhibo.*/media/aimg/*.gif
@@ -6629,6 +6642,7 @@
 ||dytt.com/pc.js
 ||dytt.com^*yb.js
 ||dytt399.com/966.jpg
+||dytt8.com/js1y/
 ||dytt8.net/js3/
 ||dytt8.net/jsd
 ||dyzyhj.com/Jk/
@@ -7105,6 +7119,8 @@
 ||hexun.com*/hx_news/hx_news_finalpage.js
 ||hexun.com/gphqtc/
 ||hexun.com/hxpage_jrtj2020/
+||hexun.com/pc/img/diversionToWXBottom_
+||hexun.com/pc/js/dataPopup.
 ||hf365.com/0/13/79/87/13798795_912593.jpg
 ||hf365.com/0/14/31/00/14310068_933922.png
 ||hf365.com/0/14/60/93/14609355_921128.jpg
@@ -7625,6 +7641,7 @@
 ||klandmart.com/K-Landmart_0011.jpg
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmplayer.cn/include/jscript/*-a.js
+||kmw.com/js/adshow
 ||kocpc.com.tw/adsbyso.js
 ||kokojia.com^$third-party
 ||kostool.cn/screenshot/
@@ -8405,7 +8422,6 @@
 ||r3sub.com/images/ccc/
 ||r3sub.com/posters/0069810.jpg
 ||r3sub.com^*0.gif
-||ra5.xyz/z/*/code.
 ||radikal.ru^$domain=18board.com|18p2p.com
 ||rainpat.com/Content/1360x55/
 ||rainpat.com/Scripts/jquery.SuperSlide.
@@ -8861,6 +8877,7 @@
 ||tq121.com.cn/j/ad/
 ||trafficjam.cn^$third-party
 ||trendmicro.com.tw/wp-content/uploads/*Banner
+||trip.com/partners/ad/
 ||tt.biquge.la^
 ||tt1069.com/bbs/zgg_
 ||tt1069.com/or_pu_0604.js
@@ -9331,10 +9348,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||axutongxue.*/js/pp
-||hexun.com/pc/js/dataPopup.
-||hexun.com/pc/img/diversionToWXBottom_
-||dytt8.com/js1y/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -11605,6 +11618,7 @@
 ||nicelinks.site/ad-block-
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
+||infogram.com^$domain=hk01.com
 @@||th7.cn/sanda2015/css/ads.js
 @@||lancdn.com/landian/public/js/ads.js
 @@||qbox.me/static/js/ads.js$domain=linux.cn
