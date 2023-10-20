@@ -7857,6 +7857,7 @@
 [/alinx.vip/]10.10.10.1
 [/aliog.com/]10.10.10.1
 [/alip.biz/]10.10.10.1
+[/alipan.com/]10.10.10.1
 [/alipansou.com/]10.10.10.1
 [/alipay-eco.com/]10.10.10.1
 [/alipay.com/]10.10.10.1
@@ -15365,6 +15366,7 @@
 [/code.sh/]10.10.10.1
 [/code4apk.com/]10.10.10.1
 [/code668.com/]10.10.10.1
+[/code84.com/]10.10.10.1
 [/codeaha.com/]10.10.10.1
 [/codebaoku.com/]10.10.10.1
 [/codebe.org/]10.10.10.1
@@ -19171,6 +19173,7 @@
 [/e546.net/]10.10.10.1
 [/e5618.com/]10.10.10.1
 [/e5n.com/]10.10.10.1
+[/e5wq.cc/]10.10.10.1
 [/e66666.com/]10.10.10.1
 [/e68cname.com/]10.10.10.1
 [/e7890.com/]10.10.10.1
@@ -26510,6 +26513,7 @@
 [/houdask.com/]10.10.10.1
 [/houdunwang.com/]10.10.10.1
 [/houge.biz/]10.10.10.1
+[/houhoucn.com/]10.10.10.1
 [/houjt.com/]10.10.10.1
 [/houkai.com/]10.10.10.1
 [/houqinbao.com/]10.10.10.1
@@ -30775,6 +30779,7 @@
 [/jingkan.net/]10.10.10.1
 [/jingkids.com/]10.10.10.1
 [/jinglawyer.com/]10.10.10.1
+[/jingliangad.com/]10.10.10.1
 [/jinglingbiaozhu.com/]10.10.10.1
 [/jinglongyu.link/]10.10.10.1
 [/jingmaoyuanxin.com/]10.10.10.1
@@ -31455,6 +31460,7 @@
 [/joymeng.com/]10.10.10.1
 [/joynb.net/]10.10.10.1
 [/joyncleon.com/]10.10.10.1
+[/joynext.com/]10.10.10.1
 [/joyohub.com/]10.10.10.1
 [/joyoung.com/]10.10.10.1
 [/joyowo.com/]10.10.10.1
@@ -37290,6 +37296,7 @@
 [/mianhuatang.la/]10.10.10.1
 [/mianjue.com/]10.10.10.1
 [/mianshi365.com/]10.10.10.1
+[/mianshigee.com/]10.10.10.1
 [/mianshui365.com/]10.10.10.1
 [/mianwai.com/]10.10.10.1
 [/mianxiangxue.com/]10.10.10.1
@@ -40393,6 +40400,7 @@
 [/orangemum.com/]10.10.10.1
 [/orangenews.hk/]10.10.10.1
 [/orangepi.org/]10.10.10.1
+[/orangesgame.com/]10.10.10.1
 [/orangetage.com/]10.10.10.1
 [/orangetech.ltd/]10.10.10.1
 [/orangevip.com/]10.10.10.1
@@ -47105,6 +47113,7 @@
 [/skyworthds.com/]10.10.10.1
 [/skyworthiot.com/]10.10.10.1
 [/skyworthlighting.com/]10.10.10.1
+[/skyworthznxyj.com/]10.10.10.1
 [/skyxinli.com/]10.10.10.1
 [/skyyin.org/]10.10.10.1
 [/skyzms.com/]10.10.10.1
