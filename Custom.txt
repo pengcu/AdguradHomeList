@@ -10,3 +10,4 @@ npmjs.com
 npmjs.org
 ptwxz.com
 stackpathcdn.com
+wallhaven.cc
