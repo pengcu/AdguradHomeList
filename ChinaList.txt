@@ -8391,6 +8391,7 @@
 [/aoomoo.com/]10.10.10.1
 [/aoongmob.com/]10.10.10.1
 [/aopayun.com/]10.10.10.1
+[/aorankj.com/]10.10.10.1
 [/aoratec.com/]10.10.10.1
 [/aoscdn.com/]10.10.10.1
 [/aoscom.net/]10.10.10.1
@@ -14610,6 +14611,7 @@
 [/clouddns.vip/]10.10.10.1
 [/clouddream.net/]10.10.10.1
 [/cloudflare-cn.com/]10.10.10.1
+[/cloudflarecn.net/]10.10.10.1
 [/cloudgap.net/]10.10.10.1
 [/cloudgfw.com/]10.10.10.1
 [/cloudgfw.net/]10.10.10.1
@@ -17666,7 +17668,6 @@
 [/dianxin.net/]10.10.10.1
 [/dianxinnews.com/]10.10.10.1
 [/dianxinos.com/]10.10.10.1
-[/dianyatc.com/]10.10.10.1
 [/dianyingjie.com/]10.10.10.1
 [/dianyingshow.com/]10.10.10.1
 [/dianyingwenxue.com/]10.10.10.1
@@ -28764,6 +28765,7 @@
 [/im577.com/]10.10.10.1
 [/im5i.com/]10.10.10.1
 [/imaccn.com/]10.10.10.1
+[/imacso.com/]10.10.10.1
 [/imaegoo.com/]10.10.10.1
 [/image-mangdiaxyz.com/]10.10.10.1
 [/imageaccelerate.com/]10.10.10.1
@@ -29042,6 +29044,7 @@
 [/initialview.com/]10.10.10.1
 [/initroot.com/]10.10.10.1
 [/inja.com/]10.10.10.1
+[/injoinic.com/]10.10.10.1
 [/inkankan.com/]10.10.10.1
 [/inkanke.com/]10.10.10.1
 [/inkcn.com/]10.10.10.1
@@ -29059,6 +29062,7 @@
 [/inmuu.com/]10.10.10.1
 [/inneed.club/]10.10.10.1
 [/innity.com/]10.10.10.1
+[/innity.net/]10.10.10.1
 [/innjia.com/]10.10.10.1
 [/innocn.com/]10.10.10.1
 [/innocomn.com/]10.10.10.1
@@ -31356,6 +31360,7 @@
 [/jnzycw.com/]10.10.10.1
 [/jo43.com/]10.10.10.1
 [/joaquinchou.com/]10.10.10.1
+[/job-cunni.com/]10.10.10.1
 [/job0768.com/]10.10.10.1
 [/job10000.com/]10.10.10.1
 [/job1001.com/]10.10.10.1
@@ -38059,6 +38064,7 @@
 [/mooreelite.com/]10.10.10.1
 [/mooreiot.com/]10.10.10.1
 [/mooreren.com/]10.10.10.1
+[/moorext.com/]10.10.10.1
 [/moowo.com/]10.10.10.1
 [/mop.com/]10.10.10.1
 [/mopaas.com/]10.10.10.1
@@ -39971,7 +39977,6 @@
 [/oceanlau.com/]10.10.10.1
 [/oceanol.com/]10.10.10.1
 [/oceanplayable.com/]10.10.10.1
-[/oceeq.com/]10.10.10.1
 [/ocideal.com/]10.10.10.1
 [/ocimg.com/]10.10.10.1
 [/oclkj.com/]10.10.10.1
@@ -46254,6 +46259,7 @@
 [/shopin.net/]10.10.10.1
 [/shopj.net/]10.10.10.1
 [/shopjyh.com/]10.10.10.1
+[/shoplazza.com/]10.10.10.1
 [/shopmaxmb.com/]10.10.10.1
 [/shopnc.net/]10.10.10.1
 [/shopplus.vip/]10.10.10.1
@@ -57410,7 +57416,6 @@
 [/xsycps.com/]10.10.10.1
 [/xsyk021.com/]10.10.10.1
 [/xsyqmztg.com/]10.10.10.1
-[/xsyushan.com/]10.10.10.1
 [/xsyx.xyz/]10.10.10.1
 [/xsyxsc.com/]10.10.10.1
 [/xszp.cc/]10.10.10.1
@@ -60559,7 +60564,6 @@
 [/ywshouyou.com/]10.10.10.1
 [/ywsoftware.com/]10.10.10.1
 [/ywtd.xyz/]10.10.10.1
-[/ywtrzm.com/]10.10.10.1
 [/ywtuchuang1.com/]10.10.10.1
 [/ywwpay.com/]10.10.10.1
 [/ywxue.com/]10.10.10.1
@@ -61710,6 +61714,7 @@
 [/zhihjf.com/]10.10.10.1
 [/zhihu.com/]10.10.10.1
 [/zhihu.dev/]10.10.10.1
+[/zhihuclub.com/]10.10.10.1
 [/zhihudsp.com/]10.10.10.1
 [/zhihuiep.com/]10.10.10.1
 [/zhihuihuiwu.com/]10.10.10.1
@@ -61846,7 +61851,6 @@
 [/zhiyinhao.com/]10.10.10.1
 [/zhiyinlou.com/]10.10.10.1
 [/zhiyinmedia.com/]10.10.10.1
-[/zhiyoo.com/]10.10.10.1
 [/zhiyoubao.com/]10.10.10.1
 [/zhiyousx.com/]10.10.10.1
 [/zhiyuan98.com/]10.10.10.1
@@ -62445,6 +62449,7 @@
 [/zjapk.com/]10.10.10.1
 [/zjaqxy.com/]10.10.10.1
 [/zjautoparts.com/]10.10.10.1
+[/zjbinya.com/]10.10.10.1
 [/zjbiz.net/]10.10.10.1
 [/zjbyte.com/]10.10.10.1
 [/zjca.org/]10.10.10.1
