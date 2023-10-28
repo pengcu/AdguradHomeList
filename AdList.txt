@@ -290,6 +290,7 @@
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
+||avplwte.xyz^
 ||awaw.asia^
 ||bbfnrn.xyz^
 ||beezwol.com^
@@ -309,6 +310,7 @@
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
+||cjohpsc.cn^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
 ||crazyit8.com^
@@ -319,6 +321,7 @@
 ||dcdglb.xyz^
 ||ddkh59.com^
 ||ddvoht.xyz^
+||df-long.cn^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
 ||djiuss.cn^
@@ -368,6 +371,8 @@
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx38.top^
+||gmx41.top^
 ||gmx42.top^
 ||gmx43.top^
 ||gmx44.top^
@@ -427,8 +432,10 @@
 ||liuyuhuaa.cn^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
+||lmfehr.xyz^
 ||lnxpdj.xyz^
 ||lovespenhas.com^
+||lryqef.xyz^
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
@@ -501,10 +508,13 @@
 ||shx11.xyz^
 ||smlpcz.icu^
 ||sregfle.cn^
+||suzoqz.icu^
+||syjkscy.cn^
 ||tcgaqh.icu^
 ||tdhlmto.cn^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
+||tongjiniao.com^
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
@@ -535,6 +545,7 @@
 ||whdwydt.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
+||woxwhfdo.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuruigroup.com^
@@ -572,13 +583,17 @@
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||woxwhfdo.xyz^
-||avplwte.xyz^
-||suzoqz.icu^
-||syjkscy.cn^
-||lmfehr.xyz^
-||df-long.cn^
-||lryqef.xyz^
+||lwhffh.xyz^
+||fepmpify.xyz^
+||rntdqwc.xyz^
+||wyoaij.icu^
+||naweslt.cn^
+||jupeicha.cn^
+||unqrroh.cn^
+||mrthav.xyz^
+||gmx40.top^
+||vrivslffndepxqd.xyz^
+||clcmdie.com^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
@@ -5160,6 +5175,7 @@
 ||51ztzj.com/res/web/img/pic/inshow.jpg
 ||520call.me/ad/ad_
 ||520cc.tw/AD/
+||520click.com/ad.$domain=~video.520cc.cc
 ||520xingyun.com/images/188*.gif
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
@@ -9266,7 +9282,6 @@
 @@||520cc.cc/api/jspopunder.
 @@||520cc.cc/jspopunder.
 @@||520cc.cc^*/ad.php
-@@||520click.com/ad.php
 @@||5278.cool^$generichide
 @@||52zy.com/gg/
 @@||58.com/adJump?adType=
