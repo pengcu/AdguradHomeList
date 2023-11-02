@@ -350,6 +350,7 @@
 ||dvnqhdmze.xyz^
 ||dwerzv.xyz^
 ||ebmlsvw.cn^
+||eejwvwoo.xyz^
 ||eht116.com^
 ||ekzzed.icu^
 ||esnysd.icu^
@@ -362,6 +363,7 @@
 ||fcgxidqwcx.xyz^
 ||fepmpify.xyz^
 ||fkjsjwbs.xyz^
+||fluhmmr.cn^
 ||fmvbyji.cn^
 ||foizico.cn^
 ||fptdxkm.com^
@@ -451,6 +453,7 @@
 ||jupeicha.cn^
 ||jvjmjt.xyz^
 ||kaaqgf.icu^
+||kjdbcjkmc.com^
 ||klfbnklddfbkn.com^
 ||knhmgn.com^
 ||knuaxfv.cn^
@@ -495,6 +498,7 @@
 ||nangongmall.com^
 ||naweslt.cn^
 ||nbxymdy.cn^
+||nbycjpo.cn^
 ||ndvfwlv.cn^
 ||neeujqf.cn^
 ||negnixa.cn^
@@ -525,6 +529,7 @@
 ||ppvpmrt.xyz^
 ||pqjeoqa.cn^
 ||psroyx.icu^
+||ptdofj.xyz^
 ||pxxnejx.xyz^
 ||qauksl.icu^
 ||qbhjokk.xyz^
@@ -555,6 +560,7 @@
 ||smlpcz.icu^
 ||sqevnrb.com^
 ||sregfle.cn^
+||srlhgo.cn^
 ||suzoqz.icu^
 ||syjkscy.cn^
 ||tcgaqh.icu^
@@ -576,6 +582,7 @@
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
+||vdggsd001.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -593,6 +600,7 @@
 ||vivienjumpe.com^
 ||vizhtd.xyz^
 ||vrivslffndepxqd.xyz^
+||vrnrpzy.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
 ||waxin0gjue.cn^
@@ -618,6 +626,7 @@
 ||xxfphsg.cn^
 ||xxkswdf.icu^
 ||y341i.xyz^
+||ycgkol.icu^
 ||ycmgeb.icu^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
@@ -635,11 +644,14 @@
 ||zcpsc.top^
 ||zents2.top^
 ||zjdruhn.xyz^
-||ycgkol.icu^
-||ptdofj.xyz^
-||vdggsd001.com^
-||eejwvwoo.xyz^
-||vrnrpzy.xyz^
+||zlncvn.xyz^
+||ynulcpt.cn^
+||nubcdaqa.xyz^
+||cgqwgv.icu^
+||vdggsd002.com^
+||hjnjjcw.xyz^
+||hvpard.xyz^
+||bfbchr.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -8107,6 +8119,7 @@
 ||pchome.com.tw/iframe/$domain=mail.pchome.com.tw
 ||pchome.com.tw/js/overlay_ad.js
 ||pchome.net/flow.php
+||pcjx365.com/kpimg/*.gif
 ||pcmx.autohome.com.cn/impress?
 ||pconline.com.cn/_hux_/
 ||pconline.com.cn/download/*/intf*.js
@@ -9287,6 +9300,7 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||qy1.ru/data/game/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -9513,7 +9527,6 @@
 @@||doubleclick.net/ddm/trackclk/$popup,domain=hongkongcard.com
 @@||doubleclick.net/gpt/pubads_impl$domain=www.gamer.com.tw
 @@||doubleclick.net/gpt/pubads_impl_$domain=mytvsuper.com|tvb.com|tvbs.com.tw
-@@||doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||down.cc/down/js/ad.js
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||duelmeta.com^$generichide
