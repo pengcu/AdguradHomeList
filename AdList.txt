@@ -301,6 +301,7 @@
 ||beezwol.com^
 ||berrynicolo.com^
 ||beste3.icu^
+||bfbchr.xyz^
 ||bgbqfqwi.xyz^
 ||bjtgds.xyz^
 ||bmxvxl.xyz^
@@ -316,6 +317,7 @@
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
+||cgqwgv.icu^
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
@@ -395,6 +397,7 @@
 ||gmx29.top^
 ||gmx30.top^
 ||gmx31.top^
+||gmx33.top^
 ||gmx34.top^
 ||gmx35.top^
 ||gmx36.top^
@@ -422,12 +425,14 @@
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
+||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hunklm.com^
 ||huxifena.cn^
+||hvpard.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hynahyqq.xyz^
 ||ibsea.cn^
@@ -509,6 +514,7 @@
 ||njtbiml.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
+||nubcdaqa.xyz^
 ||nyfgpbsc.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
@@ -583,6 +589,7 @@
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
 ||vdggsd001.com^
+||vdggsd002.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -632,6 +639,7 @@
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -645,13 +653,10 @@
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
-||ynulcpt.cn^
-||nubcdaqa.xyz^
-||cgqwgv.icu^
-||vdggsd002.com^
-||hjnjjcw.xyz^
-||hvpard.xyz^
-||bfbchr.xyz^
+||pfrbnl.xyz^
+||wutsldsk.xyz^
+||ybrbdft.xyz^
+||vdggsd003.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -6828,6 +6833,7 @@
 ||gaoqing.la/wp-content/uploads/*980x
 ||gaoqing.la/wp-content/uploads/*banner
 ||gaoqing.la/wp-content/uploads/*GOOVIS
+||gaoqing888.com/img/icmarkets.
 ||gasaq.com/public/flash/
 ||gavbus*.com/assets/common/js/ad.js
 ||gavbus*.com/assets/common/js/admenu.js
@@ -8363,6 +8369,7 @@
 ||qunlove.com^*.gif
 ||qwblog.cn/localfile/20200612230036.gif
 ||qy0.ru/data/game/
+||qy1.ru/data/game/
 ||qyun.vip/pic/*.gif
 ||qz828.com/css/2010/script/*ad
 ||qzone.la/Scripts/m.js
@@ -9300,7 +9307,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||qy1.ru/data/game/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
