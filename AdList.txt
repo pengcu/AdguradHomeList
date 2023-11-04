@@ -353,6 +353,7 @@
 ||dwerzv.xyz^
 ||ebmlsvw.cn^
 ||eejwvwoo.xyz^
+||eglizqf.cn^
 ||eht116.com^
 ||ekzzed.icu^
 ||esnysd.icu^
@@ -363,6 +364,7 @@
 ||faxffjo.com^
 ||fcgmoas.cn^
 ||fcgxidqwcx.xyz^
+||fenem.top^
 ||fepmpify.xyz^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
@@ -530,6 +532,7 @@
 ||pajhvd.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
+||pfrbnl.xyz^
 ||phwrju.xyz^
 ||pidurrmu.xyz^
 ||ppvpmrt.xyz^
@@ -539,6 +542,7 @@
 ||pxxnejx.xyz^
 ||qauksl.icu^
 ||qbhjokk.xyz^
+||qboywc.xyz^
 ||qbswezw.cn^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
@@ -590,6 +594,7 @@
 ||uwfxvvm.cn^
 ||vdggsd001.com^
 ||vdggsd002.com^
+||vdggsd003.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -618,6 +623,7 @@
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuruigroup.com^
+||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
 ||wyoaij.icu^
@@ -625,6 +631,7 @@
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
 ||xkfigjh.cn^
+||xlca666.site^
 ||xmvmir.icu^
 ||xqgduov.cn^
 ||xrcembm.cn^
@@ -633,6 +640,7 @@
 ||xxfphsg.cn^
 ||xxkswdf.icu^
 ||y341i.xyz^
+||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
 ||yepgdita.xyz^
@@ -653,10 +661,13 @@
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
-||pfrbnl.xyz^
-||wutsldsk.xyz^
-||ybrbdft.xyz^
-||vdggsd003.com^
+||zys13.top^
+||cklithuw.xyz^
+||cammak.xyz^
+||ktvtxir.xyz^
+||egadfe.xyz^
+||vdggsd004.com^
+||pptclb.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -9750,6 +9761,8 @@
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||ozabc.com^$generichide
+@@||yummy.best^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=yummy.best
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
