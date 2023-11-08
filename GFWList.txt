@@ -6154,6 +6154,7 @@
 [/npmjs.com/]10.10.10.11
 [/npmjs.org/]10.10.10.11
 [/ptwxz.com/]10.10.10.11
+[/sublimetext.com/]10.10.10.11
 [/stackpathcdn.com/]10.10.10.11
 [/wallhaven.cc/]10.10.10.11
 10.10.10.1
