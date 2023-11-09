@@ -269,6 +269,7 @@
 ||0yzabcd.com^
 ||17123.net^
 ||1bctkn.xyz^
+||1k2l3m4n5o.com^
 ||1t24.com^$third-party
 ||20szp.com^
 ||24w0p.com^
@@ -290,11 +291,13 @@
 ||actrqdr.cn^
 ||agossuoeach.com^
 ||aidmat.icu^
+||aispyd.icu^
 ||aknkvallbfml.com^
 ||albsgdq.cn^
 ||anhlnnm.cn^
 ||aniede.xyz^
 ||anjneia.xyz^
+||apis301.com^
 ||aqburrae.xyz^
 ||asfybkiy.xyz^
 ||athecsz.cn^
@@ -318,7 +321,9 @@
 ||bpbfymv.xyz^
 ||brorzpj.cn^
 ||bydcxdy.cn^
+||bzbopfh.cn^
 ||bzvhgbr.xyz^
+||c1ecda.com^
 ||cadizer.com^
 ||cammak.xyz^
 ||cdsa2.icu^
@@ -365,6 +370,7 @@
 ||eglizqf.cn^
 ||eht116.com^
 ||ekzzed.icu^
+||elas666.pics^
 ||esnysd.icu^
 ||estixfl.cn^
 ||ewioud.com^
@@ -471,6 +477,7 @@
 ||jndxsuy.xyz^
 ||jnkmhn.com^
 ||jofknbpe.xyz^
+||jqtkzuco.xyz^
 ||juljrd.xyz^
 ||jupeicha.cn^
 ||jvjmjt.xyz^
@@ -491,6 +498,7 @@
 ||l404k.com^
 ||l80ays.com^
 ||ldvnehc.xyz^
+||lfhnzbj.xyz^
 ||lianglili2.cn^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
@@ -525,6 +533,7 @@
 ||naweslt.cn^
 ||nbxymdy.cn^
 ||nbycjpo.cn^
+||ndbaxn.xyz^
 ||ndvfwlv.cn^
 ||neeujqf.cn^
 ||negnixa.cn^
@@ -636,6 +645,7 @@
 ||vdggsd016.com^
 ||vdggsd017.com^
 ||vgjaxnuw.xyz^
+||virginiasibyl.com^
 ||vivienjumpe.com^
 ||vizhtd.xyz^
 ||vrivslffndepxqd.xyz^
@@ -644,6 +654,7 @@
 ||vxdpmxw.xyz^
 ||waxin0gjue.cn^
 ||whdwydt.cn^
+||whols.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
 ||wlzlrlp.xyz^
@@ -656,6 +667,7 @@
 ||wvtem.com^
 ||wyiegt.icu^
 ||wyoaij.icu^
+||wyohm.xyz^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -698,10 +710,12 @@
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
-||jqtkzuco.xyz^
-||lfhnzbj.xyz^
-||bzbopfh.cn^
-||ndbaxn.xyz^
+||mlumlio.cn^
+||xxlfteg.xyz^
+||arbbj6.com^
+||sglahyea.xyz^
+||nndytv.xyz^
+||eshbqn.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -5610,7 +5624,6 @@
 ||acfun.cn/appSpreadContents/danmuad/
 ||acgbenzi.com^$image
 ||acggd.com/4d22b/
-||acglala.net/images/upload/*0.gif
 ||acglover.*/wp-content/uploads/*-520-245.
 ||acglover.*/wp-content/uploads/*-720
 ||acgnx.se/images/adwork/
