@@ -1019,7 +1019,6 @@
 [/128sy.com/]10.10.10.1
 [/128uu.com/]10.10.10.1
 [/12988.net/]10.10.10.1
-[/12edu.com/]10.10.10.1
 [/12h5.com/]10.10.10.1
 [/12jn.com/]10.10.10.1
 [/12ky.com/]10.10.10.1
@@ -2244,7 +2243,6 @@
 [/2gdt.com/]10.10.10.1
 [/2gei.com/]10.10.10.1
 [/2google.com/]10.10.10.1
-[/2hanjutv.com/]10.10.10.1
 [/2haohr.com/]10.10.10.1
 [/2heng.xin/]10.10.10.1
 [/2hua.com/]10.10.10.1
@@ -2671,7 +2669,6 @@
 [/360uu.com/]10.10.10.1
 [/360vcloud.com/]10.10.10.1
 [/360vipshop.com/]10.10.10.1
-[/360vps.com/]10.10.10.1
 [/360vrzy.com/]10.10.10.1
 [/360wbl.com/]10.10.10.1
 [/360webcache.com/]10.10.10.1
@@ -4387,7 +4384,6 @@
 [/56ml.com/]10.10.10.1
 [/56mp.com/]10.10.10.1
 [/56pan.com/]10.10.10.1
-[/56php.com/]10.10.10.1
 [/56qq.com/]10.10.10.1
 [/56show.com/]10.10.10.1
 [/56shuku.org/]10.10.10.1
@@ -19783,7 +19779,6 @@
 [/emojiwiz.com/]10.10.10.1
 [/emqx.com/]10.10.10.1
 [/emqx.net/]10.10.10.1
-[/emrl0z.com/]10.10.10.1
 [/ems-audio.com/]10.10.10.1
 [/ems517.com/]10.10.10.1
 [/emshost.com/]10.10.10.1
@@ -33720,6 +33715,7 @@
 [/lanshanweb.com/]10.10.10.1
 [/lanshenniao.com/]10.10.10.1
 [/lanshizi.com/]10.10.10.1
+[/lansors.com/]10.10.10.1
 [/lantian-hotel.com/]10.10.10.1
 [/lantian.tv/]10.10.10.1
 [/lanting123.com/]10.10.10.1
@@ -34269,7 +34265,6 @@
 [/leweicn.com/]10.10.10.1
 [/lewen.la/]10.10.10.1
 [/lewen567.com/]10.10.10.1
-[/lewen88.com/]10.10.10.1
 [/lewenba.cc/]10.10.10.1
 [/lewenn.com/]10.10.10.1
 [/lewenxsw.com/]10.10.10.1
@@ -35290,7 +35285,6 @@
 [/lolgo.net/]10.10.10.1
 [/loli.cloud/]10.10.10.1
 [/loli.ee/]10.10.10.1
-[/loli.my/]10.10.10.1
 [/loli.wiki/]10.10.10.1
 [/loliloli.moe/]10.10.10.1
 [/loliloli.net/]10.10.10.1
@@ -38183,6 +38177,7 @@
 [/mukewang.com/]10.10.10.1
 [/mukool.com/]10.10.10.1
 [/mulazim.com/]10.10.10.1
+[/multilingual-volc.com/]10.10.10.1
 [/mumayi.com/]10.10.10.1
 [/mumu01.com/]10.10.10.1
 [/muniao.com/]10.10.10.1
@@ -42831,6 +42826,7 @@
 [/qoocc.com/]10.10.10.1
 [/qooic.com/]10.10.10.1
 [/qookar.com/]10.10.10.1
+[/qookkagames.com/]10.10.10.1
 [/qoqaoligei.com/]10.10.10.1
 [/qoqkkhy.com/]10.10.10.1
 [/qosq.com/]10.10.10.1
@@ -47969,7 +47965,6 @@
 [/sumrday.net/]10.10.10.1
 [/sumscope.com/]10.10.10.1
 [/sumsz.com/]10.10.10.1
-[/sumygg.com/]10.10.10.1
 [/sumzc.com/]10.10.10.1
 [/sun-ada.net/]10.10.10.1
 [/sun-wish.com/]10.10.10.1
@@ -51639,6 +51634,7 @@
 [/upupbug.com/]10.10.10.1
 [/upupfile.com/]10.10.10.1
 [/upupoo.com/]10.10.10.1
+[/upupview.com/]10.10.10.1
 [/upupw.net/]10.10.10.1
 [/upwardsware.com/]10.10.10.1
 [/upwith.me/]10.10.10.1
@@ -54064,7 +54060,6 @@
 [/win3000.com/]10.10.10.1
 [/win4000.com/]10.10.10.1
 [/win71234.com/]10.10.10.1
-[/win789.com/]10.10.10.1
 [/win7china.com/]10.10.10.1
 [/win7en.com/]10.10.10.1
 [/win7qijian.com/]10.10.10.1
@@ -54580,7 +54575,6 @@
 [/wowoyou.net/]10.10.10.1
 [/wowqu.cc/]10.10.10.1
 [/wowsai.com/]10.10.10.1
-[/wowys.com/]10.10.10.1
 [/woxian.com/]10.10.10.1
 [/woxiaoyun.com/]10.10.10.1
 [/woxihuan.com/]10.10.10.1
@@ -62004,6 +61998,7 @@
 [/zihaixiaochengxu.com/]10.10.10.1
 [/zihexin.net/]10.10.10.1
 [/zihu.com/]10.10.10.1
+[/zihua.li/]10.10.10.1
 [/zihua01.com/]10.10.10.1
 [/zihuazhijia.com/]10.10.10.1
 [/ziisp.com/]10.10.10.1
