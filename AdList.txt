@@ -273,6 +273,7 @@
 ||1bctkn.xyz^
 ||1cpkcnm.com^
 ||1k2l3m4n5o.com^
+||1kqfzwd.com^
 ||1t24.com^$third-party
 ||20szp.com^
 ||24w0p.com^
@@ -332,6 +333,7 @@
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
 ||brorzpj.cn^
+||btfjjwt.xyz^
 ||bthypgm.cn^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
@@ -352,6 +354,7 @@
 ||clcmdie.com^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
+||cojvur.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cry2h.cn^
@@ -574,6 +577,7 @@
 ||mlumlio.cn^
 ||mmvjuti.cn^
 ||mnhncf.cn^
+||mpgsqk.xyz^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
 ||mrthav.xyz^
@@ -606,6 +610,7 @@
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
 ||oapyrzde.xyz^
+||ocpydszq.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -649,6 +654,7 @@
 ||qwnmfiti.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
+||rfrhfh.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -729,6 +735,8 @@
 ||vrnrpzy.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
+||w3wci.site^
+||wakenssponged.com^
 ||waxin0gjue.cn^
 ||whdwydt.cn^
 ||whols.cn^
@@ -767,6 +775,7 @@
 ||xxlfteg.xyz^
 ||xzvahr.xyz^
 ||y341i.xyz^
+||yasma.top^
 ||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
@@ -799,6 +808,12 @@
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
+||eqcwpeo.cn^
+||k6syi.space^
+||drpsjp.xyz^
+||bhiagi.xyz^
+||tfrwxv.xyz^
+||nlfbdgr.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -9896,7 +9911,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|zxmee.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
@@ -11016,6 +11031,7 @@
 ||duanwenxue.com/functions/
 ||fxsc6.net/js/
 ||fzxiaoshuo.com/source/
+||haitangmi.xyz/assets/public/*.js
 ||jcdf99.com/hzz/scripts/new
 ||jieshengit.com/1*.js
 ||jieshengit.com/js/*_
@@ -11028,7 +11044,6 @@
 ||kanshushi.com/yyddssdd.
 ||loli.net^$domain=xinqingdou.net
 ||meiguixs.net/images/*.js
-||myhaitang.cc/assets/public/*.js
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$third-party
 ||qianrenge.cc/qian/
