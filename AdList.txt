@@ -327,6 +327,7 @@
 ||awaw.asia^
 ||azdiqsb.cn^
 ||bbfnrn.xyz^
+||bcovazp.icu^
 ||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
@@ -337,6 +338,7 @@
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bhiagi.xyz^
+||bjhhbox.xyz^
 ||bjtgds.xyz^
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
@@ -514,6 +516,7 @@
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
 ||hchuviq.cn^
@@ -543,6 +546,7 @@
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
 ||hynahyqq.xyz^
+||i9klo.com^
 ||ibsea.cn^
 ||iccjkn.icu^
 ||icvsleec.xyz^
@@ -568,6 +572,7 @@
 ||jeqxuvv.icu^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
+||jiangyahuid.top^
 ||jili9.io^
 ||jingxuanjingyan.com^
 ||jlhlnd.xyz^
@@ -589,6 +594,7 @@
 ||kbbrptv.xyz^
 ||kbzs88.com^
 ||kemas.top^
+||kfckcu.xyz^
 ||kjdbcjkmc.com^
 ||kkeojk.xyz^
 ||kkmsa.top^
@@ -612,7 +618,9 @@
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
+||leidad.xyz^
 ||lejshxao.xyz^
+||lemida.xyz^
 ||lewhrzv.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
@@ -702,6 +710,7 @@
 ||pdngnx.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
+||pezttb.xyz^
 ||pfrbnl.xyz^
 ||phwrju.xyz^
 ||pidurrmu.xyz^
@@ -713,9 +722,11 @@
 ||prhphla.xyz^
 ||psroyx.icu^
 ||ptdofj.xyz^
+||pvnzrr.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
 ||pzwjonv.icu^
+||q4v3c.site^
 ||qauksl.icu^
 ||qbhjokk.xyz^
 ||qboywc.xyz^
@@ -799,6 +810,7 @@
 ||uakxkb.icu^
 ||uavejnys.xyz^
 ||udpdmeb.cn^
+||uebipacy.xyz^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
@@ -836,6 +848,7 @@
 ||vjzjpt.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
+||vrdxznr.xyz^
 ||vrivslffndepxqd.xyz^
 ||vrnrpzy.xyz^
 ||vrosqolcg.com^
@@ -927,14 +940,16 @@
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||jiangyahuid.top^
-||bjhhbox.xyz^
-||uebipacy.xyz^
-||q4v3c.site^
-||kfckcu.xyz^
-||pezttb.xyz^
-||leidad.xyz^
-||pvnzrr.xyz^
+||rycff.online^
+||ntlzvrv.xyz^
+||xixil.cn^
+||autyxdek.xyz^
+||bhlntz.xyz^
+||pobrpr.xyz^
+||jiangyahuir.top^
+||eraygc.xyz^
+||mmiedf.xyz^
+||uzrxoxd.xyz^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -5302,6 +5317,7 @@
 ||189.cn^*/push/$third-party
 ||189.gd^*.html$third-party
 ||18avday.*/aa/
+||1905.com/data/js/*.json
 ||1909.me/upload/ad/
 ||1990tu.com/i/*.gif
 ||1990tu.com/i/*.png
@@ -5575,7 +5591,6 @@
 ||58avgo.*/AirADPic/
 ||58cdn.com.cn/ds/tgbrand/*.js
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
-||58cdn.com.cn^$domain=tvyb03.com
 ||58file.com/down/xyk.
 ||59.36.101.209:888/link/*_280x192.
 ||591hx.com/images/0000.jpg
@@ -5736,6 +5751,8 @@
 ||90zy.cn/data/attachment/portal/
 ||9191.site/ad.js
 ||91avv8.com/vU18BNDYo1ktVpge.js
+||91bixin.net/api/adv/
+||91bixin.net/api/chdd/liveAdv?
 ||91danji.com/attachments/201810/12/10/2hdyj7ut9.jpg
 ||91danji.com/js/lmt.js
 ||91hs005.xyz^*.gif
@@ -8070,6 +8087,7 @@
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
 ||m1905.cn/images/vod/vod*-90.jpg
+||m1905.cn/js/afp/m
 ||m1905.com/asp_js/k.js
 ||m1955.com/template/qq/images/playad/
 ||m2.lelemh.com^
