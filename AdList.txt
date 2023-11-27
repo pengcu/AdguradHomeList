@@ -323,6 +323,7 @@
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
+||autyxdek.xyz^
 ||avplwte.xyz^
 ||awaw.asia^
 ||azdiqsb.cn^
@@ -338,6 +339,7 @@
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bhiagi.xyz^
+||bhlntz.xyz^
 ||bjhhbox.xyz^
 ||bjtgds.xyz^
 ||bmtfka93.xyz^
@@ -422,6 +424,7 @@
 ||elas666.pics^
 ||elemea.xyz^
 ||eqcwpeo.cn^
+||eraygc.xyz^
 ||erutxdk.cn^
 ||eshbqn.icu^
 ||esnysd.icu^
@@ -434,6 +437,7 @@
 ||f4nfg.site^
 ||fastjs.org^
 ||faxffjo.com^
+||fbvskv3.com^
 ||fcgmoas.cn^
 ||fcgxidqwcx.xyz^
 ||fehrda.xyz^
@@ -573,6 +577,7 @@
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
 ||jiangyahuid.top^
+||jiangyahuir.top^
 ||jili9.io^
 ||jingxuanjingyan.com^
 ||jlhlnd.xyz^
@@ -655,6 +660,7 @@
 ||mhnzhlase.xyz^
 ||mhzftye.xyz^
 ||mlumlio.cn^
+||mmiedf.xyz^
 ||mmvjuti.cn^
 ||mnhncf.cn^
 ||mpgsqk.xyz^
@@ -662,6 +668,7 @@
 ||mqrupjsm.xyz^
 ||mrthav.xyz^
 ||mryqtym.cn^
+||muycpg.xyz^
 ||muyxmmz.cn^
 ||mvng.cn^
 ||mwfyab.icu^
@@ -686,6 +693,7 @@
 ||nnfalf.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
+||ntlzvrv.xyz^
 ||nubcdaqa.xyz^
 ||nyfgpbsc.xyz^
 ||nyhgjmlg.xyz^
@@ -715,6 +723,7 @@
 ||phwrju.xyz^
 ||pidurrmu.xyz^
 ||pirubcfy.xyz^
+||pobrpr.xyz^
 ||ppenid.xyz^
 ||pptclb.xyz^
 ||ppvpmrt.xyz^
@@ -766,6 +775,7 @@
 ||rvreuxi.cn^
 ||rvvji.online^
 ||rxrdjb.xyz^
+||rycff.online^
 ||rzflhxn.cn^
 ||scqaaf.cn^
 ||serda10.icu^
@@ -812,6 +822,7 @@
 ||udpdmeb.cn^
 ||uebipacy.xyz^
 ||ugvbsrbht.xyz^
+||uidwyx.icu^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
 ||uncs7.top^
@@ -821,6 +832,7 @@
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
+||uzrxoxd.xyz^
 ||valerieurania.com^
 ||vdggsd001.com^
 ||vdggsd002.com^
@@ -884,6 +896,7 @@
 ||xfqrsjq.cn^
 ||xfztgxt.com^
 ||xg6hb.xyz^
+||xixil.cn^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
 ||xlam.cn^
@@ -940,16 +953,14 @@
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||rycff.online^
-||ntlzvrv.xyz^
-||xixil.cn^
-||autyxdek.xyz^
-||bhlntz.xyz^
-||pobrpr.xyz^
-||jiangyahuir.top^
-||eraygc.xyz^
-||mmiedf.xyz^
-||uzrxoxd.xyz^
+||qoswfds.cn^
+||elprput.xyz^
+||e3inu.space^
+||qqyjis.xyz^
+||ymniqh.icu^
+||julefhgu.xyz^
+||xydslz.xyz^
+||dwadwere.xyz^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -6832,6 +6843,7 @@
 ||douyucdn.cn/butterfly-java/*?width=242&height=489&
 ||douyucdn.cn/common/simplayer/assets/effect/cpsUI_
 ||douyucdn.cn/dyfelocal/act/*/ad.png
+||douyucdn.cn/front-publish/live-master/js/room/IconCardAd_
 ||douyucdn.cn/japi/sign/web/getinfo
 ||down.admin5.com/z/
 ||downhot.com/Res/js/arc.js
