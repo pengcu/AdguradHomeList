@@ -961,6 +961,18 @@
 ||julefhgu.xyz^
 ||xydslz.xyz^
 ||dwadwere.xyz^
+||merywf.xyz^
+||ahgfdhp.xyz^
+||danun.cn^
+||poiwer.com^
+||ttgjwxp.icu^
+||skdunkig.xyz^
+||pugxfvm.cn^
+||fifqjp.xyz^
+||hshmbx.xyz^
+||jwjzf.online^
+||qdtjjxr.xyz^
+||ccwxma.xyz^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -11160,6 +11172,7 @@
 @@||230book.com/images/bqg.js$domain=230book.net
 @@||dushu.ru^$script,domain=bhshu.net
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
+||139xiaoshuo.com/css/js/tools.
 ||13txt.net/js/ssgdd.
 ||1pwx.com/js/ck.js
 ||222xs.com/js/greentea.js
