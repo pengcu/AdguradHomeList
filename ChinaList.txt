@@ -7147,6 +7147,7 @@
 [/affu.net/]10.10.10.1
 [/afgame.com/]10.10.10.1
 [/afie.xin/]10.10.10.1
+[/afirstsoft.com/]10.10.10.1
 [/afjk.com/]10.10.10.1
 [/afjob88.com/]10.10.10.1
 [/afriendx.com/]10.10.10.1
@@ -12771,7 +12772,6 @@
 [/ch999.com/]10.10.10.1
 [/ch999img.com/]10.10.10.1
 [/cha-tm.com/]10.10.10.1
-[/cha001.com/]10.10.10.1
 [/cha127.com/]10.10.10.1
 [/cha138.com/]10.10.10.1
 [/chabeichong.com/]10.10.10.1
@@ -22023,7 +22023,6 @@
 [/gaclib.net/]10.10.10.1
 [/gacmotor.com/]10.10.10.1
 [/gacsofinco.com/]10.10.10.1
-[/gadscc.xyz/]10.10.10.1
 [/gaeadata.com/]10.10.10.1
 [/gaeamobile.net/]10.10.10.1
 [/gafata.com/]10.10.10.1
@@ -26593,7 +26592,6 @@
 [/htmleaf.com/]10.10.10.1
 [/htmlsucai.com/]10.10.10.1
 [/htnice.com/]10.10.10.1
-[/htobl.com/]10.10.10.1
 [/htoo.vip/]10.10.10.1
 [/htqyy.com/]10.10.10.1
 [/htranslate.com/]10.10.10.1
@@ -28622,11 +28620,9 @@
 [/img16888.com/]10.10.10.1
 [/img4399.com/]10.10.10.1
 [/img898.com/]10.10.10.1
-[/imgads.xyz/]10.10.10.1
 [/imgcdc.com/]10.10.10.1
 [/imgcdn2.com/]10.10.10.1
 [/imgchr.com/]10.10.10.1
-[/imgds.xyz/]10.10.10.1
 [/imgeek.org/]10.10.10.1
 [/imgets.com/]10.10.10.1
 [/imgii.com/]10.10.10.1
@@ -36264,7 +36260,6 @@
 [/mangxuewang.com/]10.10.10.1
 [/mangzitian.com/]10.10.10.1
 [/manhua1.com/]10.10.10.1
-[/manhua101.com/]10.10.10.1
 [/manhua166.com/]10.10.10.1
 [/manhua188.com/]10.10.10.1
 [/manhua365.com/]10.10.10.1
@@ -42267,6 +42262,7 @@
 [/qiguo.com/]10.10.10.1
 [/qiguoread.com/]10.10.10.1
 [/qih.cc/]10.10.10.1
+[/qihaoaoban.com/]10.10.10.1
 [/qihaoip.com/]10.10.10.1
 [/qihaxiaoshuo.com/]10.10.10.1
 [/qihihi.com/]10.10.10.1
@@ -45062,7 +45058,6 @@
 [/seopre.com/]10.10.10.1
 [/seosiguan.com/]10.10.10.1
 [/seosn.com/]10.10.10.1
-[/seosrx.net/]10.10.10.1
 [/seotcs.com/]10.10.10.1
 [/seowhy.com/]10.10.10.1
 [/seoxiaosai.com/]10.10.10.1
@@ -49245,6 +49240,7 @@
 [/tenmh.com/]10.10.10.1
 [/tennoo.com/]10.10.10.1
 [/tenorshare.com/]10.10.10.1
+[/tenorshare.tw/]10.10.10.1
 [/tenpay.com/]10.10.10.1
 [/tenqent.com/]10.10.10.1
 [/tensafe.com/]10.10.10.1
@@ -50425,7 +50421,6 @@
 [/ts95.com/]10.10.10.1
 [/tscf8.com/]10.10.10.1
 [/tsddu.com/]10.10.10.1
-[/tsdm.net/]10.10.10.1
 [/tsdxb.com/]10.10.10.1
 [/tsg-online.net/]10.10.10.1
 [/tsggwl.com/]10.10.10.1
@@ -54973,7 +54968,6 @@
 [/wxscreen.com/]10.10.10.1
 [/wxsell.com/]10.10.10.1
 [/wxshake.com/]10.10.10.1
-[/wxsky.net/]10.10.10.1
 [/wxsteed.com/]10.10.10.1
 [/wxsy.net/]10.10.10.1
 [/wxsywh.com/]10.10.10.1
