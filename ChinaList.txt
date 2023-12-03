@@ -114,6 +114,7 @@
 [/021fenglei.com/]10.10.10.1
 [/021fx.com/]10.10.10.1
 [/021gjhb.com/]10.10.10.1
+[/021hunbohui.com/]10.10.10.1
 [/021ja.com/]10.10.10.1
 [/021jingwei.com/]10.10.10.1
 [/021jingwu.com/]10.10.10.1
@@ -835,7 +836,6 @@
 [/114zpw.com/]10.10.10.1
 [/114zw.org/]10.10.10.1
 [/115.com/]10.10.10.1
-[/11544.com/]10.10.10.1
 [/1155871.com/]10.10.10.1
 [/1156.com/]10.10.10.1
 [/1156dns.com/]10.10.10.1
@@ -10221,6 +10221,7 @@
 [/bihu.com/]10.10.10.1
 [/bihubao.com/]10.10.10.1
 [/biikan.com/]10.10.10.1
+[/biioii.com/]10.10.10.1
 [/biji13.com/]10.10.10.1
 [/bijiago.com/]10.10.10.1
 [/bijiagou.com/]10.10.10.1
@@ -38328,6 +38329,7 @@
 [/myoldtime.com/]10.10.10.1
 [/myopenwrt.org/]10.10.10.1
 [/myoppo.com/]10.10.10.1
+[/myorbita.net/]10.10.10.1
 [/myottad.com/]10.10.10.1
 [/myouth.net/]10.10.10.1
 [/myp2pch.net/]10.10.10.1
@@ -41334,7 +41336,6 @@
 [/poppur.com/]10.10.10.1
 [/popqiu.com/]10.10.10.1
 [/popsoft.com/]10.10.10.1
-[/popu.org/]10.10.10.1
 [/popumed.com/]10.10.10.1
 [/poputar.com/]10.10.10.1
 [/popziti.com/]10.10.10.1
@@ -51560,6 +51561,7 @@
 [/utepo.com/]10.10.10.1
 [/utermux.dev/]10.10.10.1
 [/utfinancing.com/]10.10.10.1
+[/utgd.net/]10.10.10.1
 [/uthinks.com/]10.10.10.1
 [/utiankong.com/]10.10.10.1
 [/utogame.com/]10.10.10.1
@@ -54712,6 +54714,7 @@
 [/wumii.com/]10.10.10.1
 [/wumii.tv/]10.10.10.1
 [/wuming.com/]10.10.10.1
+[/wupfrl.com/]10.10.10.1
 [/wuqing.cc/]10.10.10.1
 [/wuqiong.info/]10.10.10.1
 [/wuqishike.com/]10.10.10.1
@@ -60221,7 +60224,6 @@
 [/yytek.com/]10.10.10.1
 [/yytingli.com/]10.10.10.1
 [/yyuap.com/]10.10.10.1
-[/yyuasa.com/]10.10.10.1
 [/yywlsj.com/]10.10.10.1
 [/yywords.com/]10.10.10.1
 [/yywt.online/]10.10.10.1

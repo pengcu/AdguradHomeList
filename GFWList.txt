@@ -433,6 +433,7 @@
 [/backchina.com/]10.10.10.11
 [/backpackers.com.tw/]10.10.10.11
 [/backtotiananmen.com/]10.10.10.11
+[/bad.news/]10.10.10.11
 [/badiucao.com/]10.10.10.11
 [/badjojo.com/]10.10.10.11
 [/badoo.com/]10.10.10.11
@@ -2802,6 +2803,7 @@
 [/indiemerch.com/]10.10.10.11
 [/info-graf.fr/]10.10.10.11
 [/initiativesforchina.org/]10.10.10.11
+[/inkbunny.net/]10.10.10.11
 [/inkui.com/]10.10.10.11
 [/inmediahk.net/]10.10.10.11
 [/innermongolia.org/]10.10.10.11
@@ -3312,6 +3314,7 @@
 [/matrix.org/]10.10.10.11
 [/matsushimakaede.com/]10.10.10.11
 [/matters.news/]10.10.10.11
+[/matters.town/]10.10.10.11
 [/matthewdgreen.wordpress.com/]10.10.10.11
 [/mattwilcox.net/]10.10.10.11
 [/maturejp.com/]10.10.10.11
