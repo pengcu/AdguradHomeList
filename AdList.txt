@@ -1127,6 +1127,12 @@
 ||hdbppx.xyz^
 ||murdyq.com^
 ||wzzlnld.xyz^
+||kvhtsvy.xyz^
+||zpzlbv.xyz^
+||ytlcz.cn^
+||lsce.top^
+||88dml.top^
+||valerieavisnba.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -8219,7 +8225,7 @@
 ||smqzj.com/seo.js
 ||smuc.cnnfootballclub.com^
 ||smzy.com/v1/img/
-||so.com/baike/ads?
+||so.com^*baike/ads?
 ||so.com/index/advertise
 ||so.com/recomm/simi?
 ||so.com/resource/js/mod/detail/business.
