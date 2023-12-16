@@ -186,6 +186,8 @@
 ||cibntv.net/youku/$media
 ||valipl.cp31.ott.cibntv.net/$media
 ||sealine.youku.com/yk/*callback=adpagesdk$script
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$media,object-subrequest
@@ -235,8 +237,6 @@
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
-||nunuyingyuan.tk/serviceworker.js^$script
-||nunuyy.cf/serviceworker.js^$script
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
@@ -268,6 +268,9 @@
 ||0hq6k.site^
 ||0mnopqr.com^
 ||0yzabcd.com^
+||1227a.xyz^
+||1229a.xyz^
+||1287a.xyz^
 ||17123.net^
 ||1bctkn.xyz^
 ||1cjzfyb.com^
@@ -283,6 +286,7 @@
 ||1vudktp.com^
 ||1weorpu.com^
 ||20szp.com^
+||222aa333bb.com^
 ||24w0p.com^
 ||273knt.xyz^
 ||2c0a5.xyz^
@@ -297,8 +301,10 @@
 ||415677.com^
 ||44180055.cn^
 ||44jui.top^
+||5698tp.com^
 ||5jzu5t.com^
 ||6528fdyngk.xyz^
+||666aa777bb.com^
 ||6gcstb.xyz^
 ||7bspu.site^
 ||7dusx.xyz^
@@ -306,6 +312,8 @@
 ||888bb666cc.com^
 ||888cool.cn^
 ||88dgl.top^
+||88dgn.top^
+||88dgx.top^
 ||88dml.top^
 ||88lajs3.com^
 ||88lajs4.com^
@@ -314,6 +322,7 @@
 ||8d07a.xyz^
 ||8zkt7.xyz^
 ||913mj.xyz^
+||94n33.fun^
 ||96kso.online^
 ||999aa666bb.com^
 ||99zns.top^
@@ -321,6 +330,7 @@
 ||9i8i.com^
 ||a4bj6.xyz^
 ||a99hz.space^
+||aa889988aa.com^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
 ||aaknmt.icu^
@@ -335,8 +345,10 @@
 ||aidmat.icu^
 ||aiiaqw.xyz^
 ||aispyd.icu^
+||ajbpcxi.xyz^
 ||aknkvallbfml.com^
 ||albsgdq.cn^
+||alchemeeten.com^
 ||ameidj.xyz^
 ||amxk.top^
 ||anhlnnm.cn^
@@ -360,6 +372,7 @@
 ||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
+||baitu3lllqubyqmttdkjsv.com^
 ||bavkvoks.xyz^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
@@ -378,6 +391,7 @@
 ||bhiagi.xyz^
 ||bhlntz.xyz^
 ||birgga.top^
+||birglucy.xyz^
 ||bjhhbox.xyz^
 ||bjtgds.xyz^
 ||bmatgg18.xyz^
@@ -473,6 +487,7 @@
 ||eejwvwoo.xyz^
 ||egadfe.xyz^
 ||eglizqf.cn^
+||eheuye.xyz^
 ||eht116.com^
 ||ejxo0.online^
 ||ekzzed.icu^
@@ -507,6 +522,7 @@
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fgukchz.icu^
+||fhdjdv.xyz^
 ||fherunm.cn^
 ||fifqjp.xyz^
 ||fjxstt.xyz^
@@ -524,6 +540,7 @@
 ||ftzzbx.xyz^
 ||fuvbbjl.xyz^
 ||fwhhcpj.xyz^
+||fxbcc.cyou^
 ||fxkfhbn.xyz^
 ||fytpft.xyz^
 ||fzgetdy.cn^
@@ -664,6 +681,7 @@
 ||jane1.top^
 ||jane2.top^
 ||jcbjcb9.cn^
+||jdbfknsbkldns.com^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
 ||jhl1993.cn^
@@ -692,6 +710,7 @@
 ||jvjmjt.xyz^
 ||jwjzf.online^
 ||jwxwnr.xyz^
+||jxpjlb.xyz^
 ||jxuhurp.icu^
 ||jzlso.xyz^
 ||k6syi.space^
@@ -702,10 +721,12 @@
 ||kdgjsf.com^
 ||kemas.top^
 ||kfckcu.xyz^
+||kfpicimage.xyz^
 ||kjdbcjkmc.com^
 ||kkeojk.xyz^
 ||kkisoo.com^
 ||kkmsa.top^
+||kkyjfdj.xyz^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
 ||kmlpgjh.xyz^
@@ -730,6 +751,7 @@
 ||l80ays.com^
 ||latu.cc^
 ||lblwhh.xyz^
+||lckjqtx.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
 ||lejshxao.xyz^
@@ -770,6 +792,7 @@
 ||manymgsgn.com^
 ||max211.top^
 ||maxun066.top^
+||maxun103.top^
 ||maxun118.top^
 ||mbiypew.cn^
 ||mcds7.icu^
@@ -793,6 +816,7 @@
 ||mpgsqk.xyz^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
+||mross044.com^
 ||mrs30w.com^
 ||mrthav.xyz^
 ||mryqtym.cn^
@@ -854,6 +878,7 @@
 ||operqr.top^
 ||oprece.xyz^
 ||oq8.top^
+||orbxiul.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
 ||owkmmo.xyz^
@@ -867,6 +892,7 @@
 ||pexavfro.xyz^
 ||pezttb.xyz^
 ||pfrbnl.xyz^
+||pgieqr.top^
 ||phwrju.xyz^
 ||pidurrmu.xyz^
 ||pipc.top^
@@ -903,6 +929,7 @@
 ||qoswfds.cn^
 ||qqvlsr.icu^
 ||qqyjis.xyz^
+||qtciam.xyz^
 ||qtq632.com^
 ||quqtone.cn^
 ||quwwa.top^
@@ -944,6 +971,7 @@
 ||rvreuxi.cn^
 ||rvvji.online^
 ||rvvmhp.xyz^
+||rwnmcum.cn^
 ||rxrdjb.xyz^
 ||rycff.online^
 ||rzflhxn.cn^
@@ -963,6 +991,7 @@
 ||slkdfg.com^
 ||sllo.top^
 ||sltle.icu^
+||smbx8.net^
 ||smlpcz.icu^
 ||sotunet.com^
 ||splfnok.cn^
@@ -1019,6 +1048,7 @@
 ||ukjwyv.icu^
 ||ukkkmg.xyz^
 ||ulrvkee.xyz^
+||um9.top^
 ||uncs7.top^
 ||unidict.cn^
 ||unqrroh.cn^
@@ -1054,10 +1084,12 @@
 ||vgjaxnuw.xyz^
 ||vhhxnb.xyz^
 ||vhotcvp.xyz^
+||viladram.xyz^
 ||virginiasibyl.com^
 ||vivienjumpe.com^
 ||vixajghi.xyz^
 ||vizhtd.xyz^
+||vjnxpj.xyz^
 ||vjzjpt.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
@@ -1080,6 +1112,7 @@
 ||wkrcbszi.xyz^
 ||wlzlrlp.xyz^
 ||wnllmyw.xyz^
+||worlderva.com^
 ||woxwhfdo.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
@@ -1112,6 +1145,7 @@
 ||xlam.cn^
 ||xlca666.site^
 ||xmvmir.icu^
+||xn--1qwynp09f.net^
 ||xn--9kq29i0tjy6b044actm.com^
 ||xn--gmq238c5fy.com^
 ||xnjklp.xyz^
@@ -1125,6 +1159,7 @@
 ||xxfphsg.cn^
 ||xxkswdf.icu^
 ||xxlfteg.xyz^
+||xxlihf.xyz^
 ||xydslz.xyz^
 ||xyryjt.xyz^
 ||xzvahr.xyz^
@@ -1187,37 +1222,16 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||viladram.xyz^
-||um9.top^
-||eheuye.xyz^
-||xxlihf.xyz^
-||orbxiul.xyz^
-||94n33.fun^
-||jxpjlb.xyz^
-||lckjqtx.xyz^
-||rwnmcum.cn^
-||xn--1qwynp09f.net^
-||smbx8.net^
-||sda1.dev^
-||mross044.com^
-||maxun103.top^
-||kfpicimage.xyz^
-||baitu3lllqubyqmttdkjsv.com^
-||aa889988aa.com^
-||666aa777bb.com^
-||5698tp.com^
-||222aa333bb.com^
-||1287a.xyz^
-||1229a.xyz^
-||1227a.xyz^
-||jdbfknsbkldns.com^
-||88dgn.top^
-||88dgx.top^
-||fxbcc.cyou^
-||kkyjfdj.xyz^
-||fhdjdv.xyz^
-||pgieqr.top^
-||ajbpcxi.xyz^
+||kyjwtxei.xyz^
+||f780f.space^
+||awzddev.cn^
+||qznjujv.xyz^
+||hvlitr.xyz^
+||mbfhwag.xyz^
+||trojangfw.xyz^
+||nrfhbd.xyz^
+||cfateu.xyz^
+||acemof.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -5902,6 +5916,7 @@
 ||cdn.shdsp.net/ad
 ||cdn.wo.cc/wo.js
 ||cdn.wuyou.ca^
+||cdn77.org^*.mp4
 ||cdncg.com^*/Aepku
 ||cdncg.com^*/peiyinquan
 ||cdndm.com/12/2016/$domain=1kkk.com|dm5.com
@@ -9073,6 +9088,7 @@
 @@||3d66.com/??*ad-
 @@||3dpchip.com^$generichide
 @@||3gmfw.cn/js/wap/8.js
+@@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
 @@||4gtv.tv/4gtv/Data/GetAD.ashx
 @@||4horlover.com^$generichide
