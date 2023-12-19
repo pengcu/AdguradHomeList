@@ -354,6 +354,7 @@
 ||aknkvallbfml.com^
 ||albsgdq.cn^
 ||alchemeeten.com^
+||alwaysc.com^
 ||ameidj.xyz^
 ||amxk.top^
 ||anhlnnm.cn^
@@ -363,6 +364,7 @@
 ||apvnzvg.xyz^
 ||aqburrae.xyz^
 ||aqiemc.xyz^
+||aqwsms.xyz^
 ||ar611.xyz^
 ||arbbj6.com^
 ||asfybkiy.xyz^
@@ -384,6 +386,7 @@
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
 ||bcovazp.icu^
+||bcqnbge.cn^
 ||bctxtl.xyz^
 ||bdlexn.xyz^
 ||bdzdd2-sdd53-vxc.com^
@@ -415,6 +418,7 @@
 ||brorzpj.cn^
 ||btfjjwt.xyz^
 ||bthypgm.cn^
+||bvpqrydt.xyz^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
 ||bzbopfh.cn^
@@ -471,6 +475,7 @@
 ||djiuss.cn^
 ||djponj.xyz^
 ||dkvakldvnsv.com^
+||dotuij.top^
 ||dpj0uvy.icu^
 ||dqlfabc.cn^
 ||dqzehgha.xyz^
@@ -531,6 +536,7 @@
 ||fenem.top^
 ||fepmpify.xyz^
 ||fgcxdr.cn^
+||fghhbp.xyz^
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fgukchz.icu^
@@ -677,6 +683,7 @@
 ||ikmhndd.com^
 ||iknhgj.com^
 ||ileled.xyz^
+||ilph0.icu^
 ||imrvyop.cn^
 ||imxsvpxe.xyz^
 ||insfengdata.com^
@@ -751,11 +758,13 @@
 ||kqbrgl.icu^
 ||kqvvqv.icu^
 ||kqwerp.top^
+||kreisis.top^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
 ||kvhee.com^
 ||kvhtsvy.xyz^
+||kvpqrydt.xyz^
 ||kvskknklssv.com^
 ||kvsvug.xyz^
 ||kwtgntyu.xyz^
@@ -843,6 +852,7 @@
 ||muycpg.xyz^
 ||muyxmmz.cn^
 ||mvng.cn^
+||mvpqrydt.xyz^
 ||mwfyab.icu^
 ||myyxox.icu^
 ||mzthbna.xyz^
@@ -897,6 +907,7 @@
 ||oouiqi.xyz^
 ||operqr.top^
 ||oprece.xyz^
+||opszt.com^
 ||oq8.top^
 ||orbxiul.xyz^
 ||orssengseen.com^
@@ -920,6 +931,7 @@
 ||pidurrmu.xyz^
 ||pipc.top^
 ||pirubcfy.xyz^
+||plnrkgc.xyz^
 ||pobrpr.xyz^
 ||poiwer.com^
 ||ppenid.xyz^
@@ -1059,6 +1071,7 @@
 ||ttgjwxp.icu^
 ||tunovl.xyz^
 ||tuvixr.xyz^
+||tvpqrydt.xyz^
 ||twlmq.space^
 ||txzepl.xyz^
 ||tybmbbgu.xyz^
@@ -1087,6 +1100,7 @@
 ||uskoie.xyz^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
+||uvpqrydt.xyz^
 ||uwerpyh.cn^
 ||uwfxvvm.cn^
 ||uzrxoxd.xyz^
@@ -1122,8 +1136,10 @@
 ||vizhtd.xyz^
 ||vjnxpj.xyz^
 ||vjzjpt.xyz^
+||vljjtj.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
+||vpqrydt.xyz^
 ||vrdxznr.xyz^
 ||vrivslffndepxqd.xyz^
 ||vrnblp.xyz^
@@ -1187,6 +1203,7 @@
 ||xrrhwgj.xyz^
 ||xucyufv.icu^
 ||xvorpqz.cn^
+||xvpqrydt.xyz^
 ||xvzfyra.xyz^
 ||xxfphsg.cn^
 ||xxkswdf.icu^
@@ -1243,6 +1260,7 @@
 ||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zotcjeig.xyz^
 ||zpvfsrb.xyz^
 ||zpvuugw.cn^
 ||zpzlbv.xyz^
@@ -1255,14 +1273,15 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||ilph0.icu^
-||bcqnbge.cn^
-||plnrkgc.xyz^
-||kvpqrydt.xyz^
-||aqwsms.xyz^
-||zotcjeig.xyz^
-||vljjtj.xyz^
-||fghhbp.xyz^
+||kuxfznnf.xyz^
+||bvnjeqa.xyz^
+||uckgqa.xyz^
+||n2faw.site^
+||iolsrikq.xyz^
+||ectyet.top^
+||vvlhrz.xyz^
+||demifa.top^
+||rsvvfx.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -6305,6 +6324,7 @@
 ||doubleclick.ctfile.com^
 ||douguo.net/upload/post/d/
 ||doutula.com/img/upupoo/
+||douyin.com/api/user/getPcBanner?
 ||douyu.com/japi/sign/web/getinfo
 ||douyu.com/member/gamegift/gameList/
 ||douyucdn.cn/butterfly-java/*?width=1200&height=100&
@@ -10949,6 +10969,7 @@
 ||teads.tv^$third-party
 ||topqualitylink.com^$third-party
 ||yu0123456.com^$third-party
+||fundingchoicesmessages.google.com^$third-party
 ||7moor.com^$third-party
 ||2005net.net^$third-party
 ||3jia5.com^$third-party
