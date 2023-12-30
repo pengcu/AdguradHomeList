@@ -1157,6 +1157,7 @@
 [/contests.twilio.com/]10.10.10.11
 [/convio.net/]10.10.10.11
 [/coobay.com/]10.10.10.11
+[/cool18.com/]10.10.10.11
 [/coolaler.com/]10.10.10.11
 [/coolder.com/]10.10.10.11
 [/coolloud.org.tw/]10.10.10.11
@@ -1355,6 +1356,7 @@
 [/discuss4u.com/]10.10.10.11
 [/dish.com/]10.10.10.11
 [/disk.yandex.com/]10.10.10.11
+[/disk.yandex.ru/]10.10.10.11
 [/disp.cc/]10.10.10.11
 [/disqus.com/]10.10.10.11
 [/dit-inc.us/]10.10.10.11
@@ -2366,7 +2368,6 @@
 [/graphis.ne.jp/]10.10.10.11
 [/graphql.org/]10.10.10.11
 [/gravatar.com/]10.10.10.11
-[/greasespot.net/]10.10.10.11
 [/great-firewall.com/]10.10.10.11
 [/great-roc.org/]10.10.10.11
 [/greatfire.org/]10.10.10.11
@@ -3811,6 +3812,7 @@
 [/oann.com/]10.10.10.11
 [/observechina.net/]10.10.10.11
 [/obutu.com/]10.10.10.11
+[/obyte.org/]10.10.10.11
 [/ocaspro.com/]10.10.10.11
 [/occupytiananmen.com/]10.10.10.11
 [/oclp.hk/]10.10.10.11
@@ -4169,6 +4171,7 @@
 [/psiphon.civisec.org/]10.10.10.11
 [/psiphon3.com/]10.10.10.11
 [/psiphontoday.com/]10.10.10.11
+[/pstatic.net/]10.10.10.11
 [/pt.im/]10.10.10.11
 [/pts.org.tw/]10.10.10.11
 [/ptt.cc/]10.10.10.11
@@ -4384,6 +4387,7 @@
 [/rxhj.net/]10.10.10.11
 [/s-cute.com/]10.10.10.11
 [/s-dragon.org/]10.10.10.11
+[/s.yimg.com/]10.10.10.11
 [/s1.nudezz.com/]10.10.10.11
 [/s1heng.com/]10.10.10.11
 [/s1s1s1.com/]10.10.10.11
@@ -4991,6 +4995,7 @@
 [/thomasbernhard.org/]10.10.10.11
 [/thongdreams.com/]10.10.10.11
 [/threadreaderapp.com/]10.10.10.11
+[/threads.net/]10.10.10.11
 [/threatchaos.com/]10.10.10.11
 [/throughnightsfire.com/]10.10.10.11
 [/thumbzilla.com/]10.10.10.11
@@ -5773,13 +5778,13 @@
 [/wjbk.org/]10.10.10.11
 [/wlcnew.jigsy.com/]10.10.10.11
 [/wlx.sowiki.net/]10.10.10.11
+[/wmflabs.org/]10.10.10.11
 [/wn.com/]10.10.10.11
 [/wnacg.com/]10.10.10.11
 [/wnacg.org/]10.10.10.11
 [/wo.tc/]10.10.10.11
 [/wo3ttt.wordpress.com/]10.10.10.11
 [/woeser.com/]10.10.10.11
-[/woesermiddle-way.net/]10.10.10.11
 [/wokar.org/]10.10.10.11
 [/wolfax.com/]10.10.10.11
 [/wombo.ai/]10.10.10.11
@@ -5833,7 +5838,6 @@
 [/www.aolnews.com/]10.10.10.11
 [/www.businessinsider.com.au/]10.10.10.11
 [/www.cmoinc.org/]10.10.10.11
-[/www.cool18.com/]10.10.10.11
 [/www.dmm.com/]10.10.10.11
 [/www.dwheeler.com/]10.10.10.11
 [/www.eastturkistan.net/]10.10.10.11
