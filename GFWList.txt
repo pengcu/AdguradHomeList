@@ -826,6 +826,7 @@
 [/caijinglengyan.com/]10.10.10.11
 [/calameo.com/]10.10.10.11
 [/calebelston.com/]10.10.10.11
+[/calendarz.com/]10.10.10.11
 [/calgarychinese.ca/]10.10.10.11
 [/calgarychinese.com/]10.10.10.11
 [/calgarychinese.net/]10.10.10.11
@@ -892,6 +893,7 @@
 [/cdig.info/]10.10.10.11
 [/cdjp.org/]10.10.10.11
 [/cdn-images.mailchimp.com/]10.10.10.11
+[/cdn-telegram.org/]10.10.10.11
 [/cdn.assets.lfpcontent.com/]10.10.10.11
 [/cdn.helixstudios.net/]10.10.10.11
 [/cdn.printfriendly.com/]10.10.10.11
@@ -1144,6 +1146,7 @@
 [/comefromchina.com/]10.10.10.11
 [/comic-mega.me/]10.10.10.11
 [/commandarms.com/]10.10.10.11
+[/comments.app/]10.10.10.11
 [/commentshk.com/]10.10.10.11
 [/communistcrimes.org/]10.10.10.11
 [/community.windy.com/]10.10.10.11
@@ -2003,6 +2006,7 @@
 [/geekheart.info/]10.10.10.11
 [/gekikame.com/]10.10.10.11
 [/gelbooru.com/]10.10.10.11
+[/generated.photos/]10.10.10.11
 [/genius.com/]10.10.10.11
 [/geocities.co.jp/]10.10.10.11
 [/geocities.com/]10.10.10.11
@@ -2365,6 +2369,7 @@
 [/grammaly.com/]10.10.10.11
 [/grandtrial.org/]10.10.10.11
 [/grangorz.org/]10.10.10.11
+[/graph.org/]10.10.10.11
 [/graphis.ne.jp/]10.10.10.11
 [/graphql.org/]10.10.10.11
 [/gravatar.com/]10.10.10.11
@@ -2673,6 +2678,8 @@
 [/hudatoriq.web.id/]10.10.10.11
 [/hudson.org/]10.10.10.11
 [/huffingtonpost.com/]10.10.10.11
+[/huffpost.com/]10.10.10.11
+[/huggingface.co/]10.10.10.11
 [/hugoroy.eu/]10.10.10.11
 [/huhaitai.com/]10.10.10.11
 [/huhamhire.com/]10.10.10.11
@@ -4227,6 +4234,7 @@
 [/questvisual.com/]10.10.10.11
 [/quitccp.net/]10.10.10.11
 [/quitccp.org/]10.10.10.11
+[/quiz.directory/]10.10.10.11
 [/quora.com/]10.10.10.11
 [/quoracdn.net/]10.10.10.11
 [/quran.com/]10.10.10.11
@@ -4924,9 +4932,11 @@
 [/tehrantimes.com/]10.10.10.11
 [/telecomspace.com/]10.10.10.11
 [/telegra.ph/]10.10.10.11
+[/telegram-cdn.org/]10.10.10.11
 [/telegram.dog/]10.10.10.11
 [/telegram.me/]10.10.10.11
 [/telegram.org/]10.10.10.11
+[/telegram.space/]10.10.10.11
 [/telegramdownload.com/]10.10.10.11
 [/telegraph.co.uk/]10.10.10.11
 [/telesco.pe/]10.10.10.11
@@ -5659,6 +5669,7 @@
 [/wav.tv/]10.10.10.11
 [/waveprotocol.org/]10.10.10.11
 [/waymo.com/]10.10.10.11
+[/wd.bible/]10.10.10.11
 [/wda.gov.tw/]10.10.10.11
 [/wdf5.com/]10.10.10.11
 [/wealth.com.tw/]10.10.10.11
