@@ -390,6 +390,7 @@
 ||autyxdek.xyz^
 ||auvohoxm.xyz^
 ||avplwte.xyz^
+||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
 ||awzddev.cn^
@@ -399,9 +400,11 @@
 ||bachou.cn^
 ||baitu3lllqubyqmttdkjsv.com^
 ||bavkvoks.xyz^
+||baxbyfn.cn^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
+||bbyfsfo.cn^
 ||bcovazp.icu^
 ||bcqnbge.cn^
 ||bctxtl.xyz^
@@ -444,6 +447,7 @@
 ||bpdtrfb.xyz^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
+||bpyerxzn.xyz^
 ||bqjqripb.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
@@ -846,6 +850,7 @@
 ||kkisoo.com^
 ||kkmsa.top^
 ||kkosiso.com^
+||kksjoa.com^
 ||kkyjfdj.xyz^
 ||klfbnklddfbkn.com^
 ||kltmjevd.xyz^
@@ -858,6 +863,7 @@
 ||koqsxdpx.xyz^
 ||koyuod.xyz^
 ||kphcrjth.xyz^
+||kpyerxzn.xyz^
 ||kqbrgl.icu^
 ||kqjqripb.xyz^
 ||kqvvqv.icu^
@@ -974,6 +980,7 @@
 ||mpgsqk.xyz^
 ||mphcrjth.xyz^
 ||mphhgat.xyz^
+||mpyerxzn.xyz^
 ||mqjqripb.xyz^
 ||mqrupjsm.xyz^
 ||mqznjujv.xyz^
@@ -1184,8 +1191,10 @@
 ||s019.com^
 ||s5ue6.com^
 ||sagcyq.xyz^
+||sakguz.icu^
 ||sbhduht.xyz^
 ||scqaaf.cn^
+||sd2ua.icu^
 ||sdjbcjsbdjk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
@@ -1220,7 +1229,9 @@
 ||suzoqz.icu^
 ||svhdbmp.cn^
 ||syjkscy.cn^
+||szbpf.cn^
 ||szbxm.cn^
+||szmkr.cn^
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
@@ -1256,6 +1267,7 @@
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tphcrjth.xyz^
+||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
@@ -1314,6 +1326,7 @@
 ||unxuoag.cn^
 ||uoqsxdpx.xyz^
 ||uphcrjth.xyz^
+||upyerxzn.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uskoie.xyz^
@@ -1369,6 +1382,7 @@
 ||vjzjpt.xyz^
 ||vljjtj.xyz^
 ||vmr6t.icu^
+||vnvyhj.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
@@ -1405,6 +1419,7 @@
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wvyqks.xyz^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
@@ -1450,6 +1465,7 @@
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
 ||xphcrjth.xyz^
+||xpyerxzn.xyz^
 ||xqgduov.cn^
 ||xqjqripb.xyz^
 ||xrcembm.cn^
@@ -1545,13 +1561,8 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||baxbyfn.cn^
-||vnvyhj.xyz^
-||kpyerxzn.xyz^
-||sakguz.icu^
-||wvyqks.xyz^
-||avvfjhg.xyz^
-||szmkr.cn^
+||kogtrmjz.xyz^
+||iumboa.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -7902,6 +7913,7 @@
 ||mbalib.com/common/a_mbalib/
 ||mcmod.cn/editor/upload/20221126/1669399546_2_ONBt.
 ||mcncc.com/yeyou/*.htm
+||mddcloud.*/oweApi/ad/
 ||me680.com/js/*.js
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
@@ -9379,7 +9391,6 @@
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||mddcloud.*/oweApi/ad/
 ||mydrivers.com/img/2005/202112011849.png
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -9846,6 +9857,7 @@
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piccool.com/2home/phpAdsNew/
 @@||pinduoduo.com/advert/$~third-party
+@@||pkstep.com^$generichide
 @@||poedb.tw^$generichide
 @@||poedb.tw^*ad$script,~third-party
 @@||popart.hk/newweb/$generichide
