@@ -291,7 +291,6 @@
 [/0523zp.com/]10.10.10.1
 [/0523zz.com/]10.10.10.1
 [/05273.com/]10.10.10.1
-[/0527ys.com/]10.10.10.1
 [/0527zz.com/]10.10.10.1
 [/052yx.com/]10.10.10.1
 [/0531.com/]10.10.10.1
@@ -3640,7 +3639,6 @@
 [/51lifes.com/]10.10.10.1
 [/51lingji.com/]10.10.10.1
 [/51liucheng.com/]10.10.10.1
-[/51ljms.com/]10.10.10.1
 [/51lucy.com/]10.10.10.1
 [/51lunwenwang.com/]10.10.10.1
 [/51luying.com/]10.10.10.1
@@ -32648,7 +32646,6 @@
 [/koto.com/]10.10.10.1
 [/kotoo.com/]10.10.10.1
 [/koubei.com/]10.10.10.1
-[/koubeiblog.com/]10.10.10.1
 [/koubeikc.com/]10.10.10.1
 [/koucai365.com/]10.10.10.1
 [/koudai.com/]10.10.10.1
@@ -33144,6 +33141,7 @@
 [/kye-erp.com/]10.10.10.1
 [/kyemall.com/]10.10.10.1
 [/kygf1.com/]10.10.10.1
+[/kygf3.com/]10.10.10.1
 [/kyhtech.com/]10.10.10.1
 [/kyjxy.com/]10.10.10.1
 [/kylc.com/]10.10.10.1
@@ -34002,6 +34000,7 @@
 [/lezi.com/]10.10.10.1
 [/lezuan.net/]10.10.10.1
 [/lezuan9.com/]10.10.10.1
+[/lezuocai.com/]10.10.10.1
 [/lf127.net/]10.10.10.1
 [/lfan.net/]10.10.10.1
 [/lfang.com/]10.10.10.1
@@ -44227,6 +44226,7 @@
 [/sayabear.com/]10.10.10.1
 [/sayll.com/]10.10.10.1
 [/sayloving.com/]10.10.10.1
+[/sayodevice.com/]10.10.10.1
 [/saywash.com/]10.10.10.1
 [/sbanzu.com/]10.10.10.1
 [/sbc-mcc.com/]10.10.10.1
@@ -44945,7 +44945,6 @@
 [/shandongsannong.com/]10.10.10.1
 [/shandongyunpin.com/]10.10.10.1
 [/shandw.com/]10.10.10.1
-[/shane-nanyang.com/]10.10.10.1
 [/shang-chain.com/]10.10.10.1
 [/shang-ma.com/]10.10.10.1
 [/shang0898.com/]10.10.10.1
@@ -49024,7 +49023,6 @@
 [/th.app/]10.10.10.1
 [/th38.com/]10.10.10.1
 [/thamco.com/]10.10.10.1
-[/thanhong.me/]10.10.10.1
 [/thankbabe.com/]10.10.10.1
 [/thatinterpreter.net/]10.10.10.1
 [/thatsmags.com/]10.10.10.1
@@ -58442,7 +58440,6 @@
 [/ymd88.com/]10.10.10.1
 [/ymexf.com/]10.10.10.1
 [/ymfile.com/]10.10.10.1
-[/ymgmno.com/]10.10.10.1
 [/ymhudong.com/]10.10.10.1
 [/ymiot.net/]10.10.10.1
 [/ymkuzhan.com/]10.10.10.1
