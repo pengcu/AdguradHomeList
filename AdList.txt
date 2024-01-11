@@ -1646,6 +1646,15 @@
 ||zrljzgs.xyz^
 ||setoniale.com^
 ||stusnais.com^
+||qwmamh.icu^
+||twj6s.icu^
+||uebohjhh.xyz^
+||88lm03.com^
+||szpnp.cn^
+||bebohjhh.xyz^
+||xebohjhh.xyz^
+||u21033.com^
+||tebohjhh.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -10146,6 +10155,8 @@
 @@||vodjk.com/offlights.js
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
+||h1.wk2.com^
+||ato.tooopen.com^
 ||003store.com^
 ||0512s.com^$third-party
 ||0755rc.com^$third-party

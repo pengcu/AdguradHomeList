@@ -6166,6 +6166,7 @@
 [/bnbstatic.com/]10.10.10.11
 [/docker.com/]10.10.10.11
 [/fastly.net/]10.10.10.11
+[/maj-soul.com/]10.10.10.11
 [/nintendo.com/]10.10.10.11
 [/nintendo.net/]10.10.10.11
 [/npm.community/]10.10.10.11
