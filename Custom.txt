@@ -3,6 +3,7 @@ binance.com
 bnbstatic.com
 docker.com
 fastly.net
+maj-soul.com
 nintendo.com
 nintendo.net
 npm.community
