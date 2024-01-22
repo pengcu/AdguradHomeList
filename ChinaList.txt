@@ -975,7 +975,6 @@
 [/125.la/]10.10.10.1
 [/12530.com/]10.10.10.1
 [/12580.com/]10.10.10.1
-[/12580.net/]10.10.10.1
 [/12580.tv/]10.10.10.1
 [/12580study.com/]10.10.10.1
 [/125edu.com/]10.10.10.1
@@ -1100,7 +1099,6 @@
 [/13yx.com/]10.10.10.1
 [/140414.com/]10.10.10.1
 [/1415926.com/]10.10.10.1
-[/1415926.mobi/]10.10.10.1
 [/14294.com/]10.10.10.1
 [/14498.com/]10.10.10.1
 [/1451cn.com/]10.10.10.1
@@ -18575,6 +18573,7 @@
 [/duobei.com/]10.10.10.1
 [/duobeiyun.net/]10.10.10.1
 [/duobiji.com/]10.10.10.1
+[/duocaish.com/]10.10.10.1
 [/duocaitou.com/]10.10.10.1
 [/duochang.cc/]10.10.10.1
 [/duodaa.com/]10.10.10.1
@@ -21200,7 +21199,6 @@
 [/fl365.com/]10.10.10.1
 [/fl5.co/]10.10.10.1
 [/flachina.com/]10.10.10.1
-[/flacro.me/]10.10.10.1
 [/flamecdn.com/]10.10.10.1
 [/flamesky.org/]10.10.10.1
 [/flamingcold.com/]10.10.10.1
@@ -29827,7 +29825,6 @@
 [/jdedu.net/]10.10.10.1
 [/jdemall.com/]10.10.10.1
 [/jdfcloud.com/]10.10.10.1
-[/jdfhq.com/]10.10.10.1
 [/jdfschool.com/]10.10.10.1
 [/jdgogo.com/]10.10.10.1
 [/jdgslb.com/]10.10.10.1
@@ -38974,7 +38971,6 @@
 [/niceimg.net/]10.10.10.1
 [/niceisp.com/]10.10.10.1
 [/nicekid.com/]10.10.10.1
-[/nicekodi.xyz/]10.10.10.1
 [/nicelabel.cc/]10.10.10.1
 [/nicelinks.site/]10.10.10.1
 [/niceloo.com/]10.10.10.1
@@ -41606,6 +41602,7 @@
 [/puh3.com/]10.10.10.1
 [/puhuacapital.com/]10.10.10.1
 [/puhuahui.com/]10.10.10.1
+[/puidc.com/]10.10.10.1
 [/puiedu.com/]10.10.10.1
 [/pujia8.com/]10.10.10.1
 [/pujiaba.com/]10.10.10.1
@@ -44247,7 +44244,6 @@
 [/rzok.net/]10.10.10.1
 [/rzspx.com/]10.10.10.1
 [/rzszp.com/]10.10.10.1
-[/rzwssy.com/]10.10.10.1
 [/rzx.me/]10.10.10.1
 [/rzzyfw.com/]10.10.10.1
 [/s-02.com/]10.10.10.1
@@ -46219,6 +46215,7 @@
 [/shyihuoh.com/]10.10.10.1
 [/shykx.com/]10.10.10.1
 [/shykz123456.com/]10.10.10.1
+[/shyojin.com/]10.10.10.1
 [/shyonghui.xyz/]10.10.10.1
 [/shyongzeng.com/]10.10.10.1
 [/shyouai.com/]10.10.10.1
@@ -47052,6 +47049,7 @@
 [/sokutu.com/]10.10.10.1
 [/solarbe.com/]10.10.10.1
 [/solaridc.com/]10.10.10.1
+[/soldeazy.com/]10.10.10.1
 [/soldierstory-toys.com/]10.10.10.1
 [/soleilneon.com/]10.10.10.1
 [/solepic.com/]10.10.10.1
@@ -58951,6 +58949,7 @@
 [/yongheyinian.com/]10.10.10.1
 [/yonghongtech.com/]10.10.10.1
 [/yonghuivip.com/]10.10.10.1
+[/yongjindl.com/]10.10.10.1
 [/yongkao.com/]10.10.10.1
 [/yongqianbao.com/]10.10.10.1
 [/yongqiaonews.com/]10.10.10.1
