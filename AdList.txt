@@ -313,6 +313,7 @@
 ||415677.com^
 ||44180055.cn^
 ||44jui.top^
+||4imk5.online^
 ||4wfe3.icu^
 ||53ynh.xyz^
 ||5698tp.com^
@@ -524,6 +525,7 @@
 ||cgqwgv.icu^
 ||chbheroq.xyz^
 ||cheda6.icu^
+||chgpuxim.xyz^
 ||chnvgdkw.xyz^
 ||chrtds.xyz^
 ||chubsxmg.xyz^
@@ -569,6 +571,7 @@
 ||dbpxivi.xyz^
 ||dcdglb.xyz^
 ||ddkh59.com^
+||ddllhqj.xyz^
 ||ddvoht.xyz^
 ||deanth.xyz^
 ||demifa.top^
@@ -584,6 +587,7 @@
 ||djponj.xyz^
 ||dkvakldvnsv.com^
 ||dkyd6.xyz^
+||dmdnlr.xyz^
 ||dnfnpff.xyz^
 ||dnn1300.top^
 ||dotuij.top^
@@ -937,6 +941,7 @@
 ||kaaqgf.icu^
 ||kaezakkjt.com^
 ||kafuzcxr.xyz^
+||kaurieseluxate.com^
 ||kbayke.xyz^
 ||kbbrptv.xyz^
 ||kbzs88.com^
@@ -1032,6 +1037,7 @@
 ||lih6e.site^
 ||limopf.top^
 ||linj.top^
+||lioyfmp.cn^
 ||liujiahao6.cn^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
@@ -1179,6 +1185,7 @@
 ||newpgqnfapkamg.xyz^
 ||nfldgbt.xyz^
 ||nhcdn.cn^
+||niticl.icu^
 ||nixqvd.xyz^
 ||njppuaj.cn^
 ||njpyrn.xyz^
@@ -1300,6 +1307,7 @@
 ||qmwx4.xyz^
 ||qoqoangry.com^
 ||qoswfds.cn^
+||qqainj.cn^
 ||qqvlsr.icu^
 ||qqyjis.xyz^
 ||qsfbmol.cn^
@@ -1697,6 +1705,7 @@
 ||xg6hb.xyz^
 ||xgrcfz.xyz^
 ||xhbheroq.xyz^
+||xhgpuxim.xyz^
 ||xhnvgdkw.xyz^
 ||xhubsxmg.xyz^
 ||xiaobizaizi1.top^
@@ -1770,6 +1779,7 @@
 ||yfzpxnb.xyz^
 ||ygfgzmzo.xyz^
 ||yhbheroq.xyz^
+||yhgpuxim.xyz^
 ||yhlzadr.xyz^
 ||yhnvgdkw.xyz^
 ||yhtpsy8888.cc^
@@ -1803,6 +1813,7 @@
 ||yxcrcc.xyz^
 ||yxptcrss.xyz^
 ||yxrxsov.xyz^
+||yzmcok.xyz^
 ||z0a1b2c3d4.com^
 ||z1wfe.top^
 ||z3p9f.xyz^
@@ -1848,11 +1859,6 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||ddllhqj.xyz^
-||yhgpuxim.xyz^
-||qqainj.cn^
-||yzmcok.xyz^
-||4imk5.online^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -9211,7 +9217,6 @@
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||tucao.cam/uploadfile/*/300-86.
 ||tui.gtimg.com//res/
 ||tui555.com/public/gong/js/a_
 ||tuicool.com/images/upload/aliyun
@@ -11097,7 +11102,6 @@
 ||v1.phb123.com^
 ||v1.taksh.cn^
 ||v1.wphonelife.com^
-||ve.kj-cy.cn^
 ||vip.panggugu.com^
 ||vjie.com^$third-party
 ||vv1.pyhfxdm.cn^
