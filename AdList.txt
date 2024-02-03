@@ -316,6 +316,7 @@
 ||5q7eb.website^
 ||6528fdyngk.xyz^
 ||666aa777bb.com^
+||666bb777ww.com^
 ||6969aa.cn^
 ||6gcstb.xyz^
 ||777bb111ww.com^
@@ -472,6 +473,7 @@
 ||bnfhxszj.xyz^
 ||bnnfvd.xyz^
 ||boats4.top^
+||bocenamesingle.xyz^
 ||bogtrmjz.xyz^
 ||bollenhurkle.com^
 ||boplgt.icu^
@@ -483,6 +485,7 @@
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bqjqripb.xyz^
+||bqnmxza.cn^
 ||bqxexj.xyz^
 ||brookssa.com^
 ||brorzpj.cn^
@@ -516,6 +519,7 @@
 ||cadizer.com^
 ||cammak.xyz^
 ||caonme.xyz^
+||catwalkoutled.com^
 ||cbttnmo.xyz^
 ||ccwxma.xyz^
 ||cdsa2.icu^
@@ -563,6 +567,7 @@
 ||cry2h.cn^
 ||cshlal.icu^
 ||csmfee.xyz^
+||ctcxflak.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
 ||cvtbdap.xyz^
@@ -738,6 +743,7 @@
 ||gepvgv.icu^
 ||gfbdb1.com^
 ||gfpvvwf.xyz^
+||gghhce96.shop^
 ||gghhct36.shop^
 ||ggrfab.icu^
 ||ggsnyc.xyz^
@@ -803,6 +809,7 @@
 ||gwdobvs.cn^
 ||gwivqo.xyz^
 ||gxx4t.online^
+||h7h35.space^
 ||hailfi.top^
 ||haise3.top^
 ||haise4.top^
@@ -902,6 +909,7 @@
 ||iqs871.com^
 ||iqveat.icu^
 ||irtefs.xyz^
+||isigqno.com^
 ||isine88.com^
 ||isksss.top^
 ||isna.top^
@@ -989,6 +997,7 @@
 ||kjacgk.xyz^
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
+||kjjjusb.xyz^
 ||kjrspnbf.xyz^
 ||kkbbjtfp.xyz^
 ||kkeojk.xyz^
@@ -1113,6 +1122,7 @@
 ||m8oxd.xyz^
 ||mads7.icu^
 ||mafuzcxr.xyz^
+||makqsd.icu^
 ||manymgsgn.com^
 ||maoskk.com^
 ||maqmix.icu^
@@ -1345,6 +1355,7 @@
 ||qmwx4.xyz^
 ||qoqoangry.com^
 ||qoswfds.cn^
+||qpawkw.xyz^
 ||qqainj.cn^
 ||qqvlsr.icu^
 ||qqyjis.xyz^
@@ -1696,6 +1707,7 @@
 ||wcbghap63.shop^
 ||wclsylk.cn^
 ||wdadad.cn^
+||wdakda.cn^
 ||wdcigo.xyz^
 ||wecklrb.cn^
 ||werssf.com^
@@ -1799,6 +1811,7 @@
 ||xrllybr.xyz^
 ||xrrhwgj.xyz^
 ||xsvkfwth.xyz^
+||xtcxflak.xyz^
 ||xtnwxhjv.xyz^
 ||xucyufv.icu^
 ||xuoizbtl.xyz^
@@ -1863,6 +1876,7 @@
 ||yqlxwb.icu^
 ||yshlor.icu^
 ||ysxt9.com^
+||ytcxflak.xyz^
 ||ytezym.xyz^
 ||ytjzqde.xyz^
 ||ytlcz.cn^
@@ -1913,6 +1927,7 @@
 ||zrljzgs.xyz^
 ||zu2.top^
 ||zuugfj.cn^
+||zvnjvd.xyz^
 ||zvtnj.icu^
 ||zxpvalr.xyz^
 ||zys13.top^
@@ -9437,6 +9452,7 @@
 @@||chinamobile.com^$generichide
 @@||chinamobile.com^*/ad$~third-party
 @@||chinatimes.com/css-main/ad.css
+@@||chineseanime.vip^$generichide
 @@||chtoen.com/js/adsbygoogle.js
 @@||citysbs.com^*/swfupload/
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
@@ -9716,7 +9732,6 @@
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
-@@||photopea.com/ads.js
 @@||piccool.com/2home/phpAdsNew/
 @@||pinduoduo.com/advert/$~third-party
 @@||pkstep.com^$generichide
