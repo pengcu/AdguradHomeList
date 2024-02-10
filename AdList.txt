@@ -222,6 +222,7 @@
 ||log1.17173.com/
 ||17173.com/batch_show?ads=
 ||17173.com/if/$script,subdocument
+||ott.cibntv.net/*/letv-wzgug/$media
 ||letvimg.com/$object,xhr
 ||letvimg.com/*_gugwl/$image
 ||js.letvcdn.com/*_banner_$script
@@ -341,6 +342,7 @@
 ||88lajs6.com^
 ||88lm02.com^
 ||88lm03.com^
+||88lm04.com^
 ||89hdn.cn^
 ||8d07a.xyz^
 ||8ovgk.online^
@@ -359,6 +361,7 @@
 ||9t51o.icu^
 ||a4bj6.xyz^
 ||a99hz.space^
+||aa3e4.cyou^
 ||aa889988aa.com^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
@@ -428,6 +431,7 @@
 ||awhsaso.cn^
 ||awzddev.cn^
 ||ax7fv.space^
+||axhfeum.xyz^
 ||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
@@ -478,6 +482,7 @@
 ||bjtgds.xyz^
 ||bkbbjtfp.xyz^
 ||bkxuprh.cn^
+||blntzf.xyz^
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
 ||bmatgg18.xyz^
@@ -560,6 +565,7 @@
 ||cklithuw.xyz^
 ||ckmbig.xyz^
 ||clcmdie.com^
+||cldxphtg.xyz^
 ||clgvlvbc.xyz^
 ||clkdbbvy.xyz^
 ||clrjnhxi.xyz^
@@ -686,6 +692,7 @@
 ||epxfjcb.xyz^
 ||eqcwpeo.cn^
 ||eraygc.xyz^
+||erluankuan.com^
 ||erutxdk.cn^
 ||eshbqn.icu^
 ||esnysd.icu^
@@ -730,6 +737,7 @@
 ||fm44f.space^
 ||fmvbyji.cn^
 ||fmzifaqi.xyz^
+||fnbhxv.xyz^
 ||foizico.cn^
 ||fol9v.xyz^
 ||fopksr.icu^
@@ -1428,6 +1436,7 @@
 ||qwjtdcl.cn^
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
+||qxvp6.site^
 ||qxzlmzt.xyz^
 ||qydoex.icu^
 ||qyoqeq.xyz^
@@ -1517,6 +1526,7 @@
 ||slkdfg.com^
 ||slkdnlkfnskl.com^
 ||sllo.top^
+||sltbjrf.cn^
 ||sltle.icu^
 ||smbx8.net^
 ||smgsue.xyz^
@@ -1755,6 +1765,7 @@
 ||vrwdsvr.icu^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
+||vu43lh.cn^
 ||vvlhrz.xyz^
 ||vwmjkl.icu^
 ||vwsgmf.icu^
@@ -1767,6 +1778,7 @@
 ||wbkaqly.cn^
 ||wbnbocz.xyz^
 ||wcbghap63.shop^
+||wcd2l.icu^
 ||wclsylk.cn^
 ||wdadad.cn^
 ||wdakda.cn^
@@ -1800,6 +1812,7 @@
 ||wuruigroup.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
+||wvceki.xyz^
 ||wvtem.com^
 ||wvyqks.xyz^
 ||wwhsxwow.xyz^
@@ -1851,6 +1864,7 @@
 ||xkjmjj.com^
 ||xlam.cn^
 ||xlca666.site^
+||xldxphtg.xyz^
 ||xlgvlvbc.xyz^
 ||xlkdbbvy.xyz^
 ||xlnvvbk.xyz^
@@ -1937,6 +1951,7 @@
 ||ykujch.icu^
 ||ykxafzdu.xyz^
 ||yldfkfb.cn^
+||yldxphtg.xyz^
 ||ylgvlvbc.xyz^
 ||ylkdbbvy.xyz^
 ||ylrjnhxi.xyz^
@@ -1990,6 +2005,7 @@
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
 ||zghsep.icu^
+||zgwvcv.icu^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zigyspv.icu^
@@ -2024,6 +2040,9 @@
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||nxditl.xyz^
+||ydazjxso.xyz^
+||qhapoq.xyz^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
@@ -10986,10 +11005,10 @@
 @@||bdstatic.com^$domain=17k.com|bxwx888.org
 @@||c.mipcdn.com^$domain=prpcoin.com
 @@||cdn.bcebos.com^*/$script,domain=fyxfcw.com
-@@||cdn.bootcdn.net^$script,domain=38kanshu.net
+@@||cdn.bootcdn.net^$script,domain=38kanshu.net|tianz.la
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|luoqiuzw.com|u33.me|xbiqugela.com|xhtxt.cc|xs98.me|ysxs8.vip
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
-@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|91zww.com|biququ.info|bxwx.live|lzbao.net|shenzu.org
+@@||cdn.staticfile.org^$domain=00ksw.com|147xiaoshuo.com|91zww.com|biququ.info|bxwx.live|lzbao.net|shenzu.org|tianz.la
 @@||dnsgom.net/public/$domain=jingwubook.com|xwdsc.com
 @@||jsqsjn.com^$script,domain=fyxfcw.com
 @@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kans.com|230book.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|52biquge.com|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|baoshuu.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bodekang.net|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qianrenge.cc|qishuta.info|qiuyelou.net|qr1234.com|shu008.com|shuhaiwu.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|ttzw.tv|tutengzw.com|u33.cc|wenxuem.com|x23us.me|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xinxs.la|xquge6.com|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
