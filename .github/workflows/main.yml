@@ -59,11 +59,9 @@ jobs:
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
           git add ./domain-list-community/domain.txt
           git commit -m "${{ env.RELEASE_NAME }}"
-          git remote add publish "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}"
-          git push -f publish release
+          git push -f
 
       - name: Release and upload assets
         if: ${{ env.NeedToSync }}
