@@ -1967,7 +1967,7 @@
 [/stxmosquitoproject.net/]10.10.10.11
 [/stxmosquitoproject.org/]10.10.10.11
 [/sublimetext.com/]10.10.10.11
-[/supercell.com:@!cn/]10.10.10.11
+[/supercell.com/]10.10.10.11
 [/supercellcommunity.cn/]10.10.10.11
 [/supercellsupport.cn/]10.10.10.11
 [/supermario.com/]10.10.10.11
