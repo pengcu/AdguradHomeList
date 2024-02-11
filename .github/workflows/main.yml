@@ -53,7 +53,10 @@ jobs:
           cd domain-list-community || exit 1
           cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sed 's/:@ads//g' | sort -u > domain.txt
           cp domain.txt ../code/
-          cd ../
+          cd ../code/
+          cat ./Custom.txt >> ./domain.txt
+          sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./domain.txt > ./BypassList.txt
+          echo "10.10.10.1" >> ./BypassList.txt
 
       - name: Git push assets to "release" branch
         if: ${{ env.NeedToSync }}
@@ -61,7 +64,7 @@ jobs:
           cd code || exit 1
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./domain.txt
+          git add ./BypassList.txt
           git commit -m "${{ env.RELEASE_NAME }}"
           git push -f
 
@@ -74,6 +77,6 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            ./domain-list-community/domain.txt
+            ./code/BypassList.txt
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
