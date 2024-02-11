@@ -52,6 +52,7 @@ jobs:
         run: |
           cd domain-list-community || exit 1
           cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sort -u > domain.txt
+          cd ../
 
       - name: Git push assets to "release" branch
         if: ${{ env.NeedToSync }}
