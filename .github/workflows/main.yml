@@ -51,7 +51,7 @@ jobs:
         if: ${{ env.NeedToSync }}
         run: |
           cd domain-list-community || exit 1
-          cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sed 's/:@ads//g' | sort -u > domain.txt
+          cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sed 's/:@ads//g' | sed 's/:@!cn//g' | sort -u > domain.txt
           cp domain.txt ../code/
           cd ../code/
           cat ./Custom.txt >> ./domain.txt
