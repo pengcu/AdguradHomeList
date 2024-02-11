@@ -52,6 +52,7 @@ jobs:
         run: |
           cd domain-list-community || exit 1
           cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sort -u > domain.txt
+          cp domain.txt ../code/
           cd ../
 
       - name: Git push assets to "release" branch
@@ -60,7 +61,7 @@ jobs:
           cd code || exit 1
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./domain-list-community/domain.txt
+          git add ./domain.txt
           git commit -m "${{ env.RELEASE_NAME }}"
           git push -f
 
