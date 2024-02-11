@@ -1,38 +1,79 @@
-name: Build
-
+name: Build BypassDomain
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 21 * * *"
   push:
     branches:
       - master
-  schedule:
-    - cron: '0 0 * * *'
-      
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3.3.0
-    
-    - name: Fetch files
-      run: |
-        curl https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf > ./ChinaList.conf
-        curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt > ./GFW.txt
-        curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdguardHome.txt
-        
-    - name: Format & Custom
-      run: |
-        sed 's/server=\//\[\//g;s/114.114.114.114/\]10.10.10.1/g' ./ChinaList.conf > ./ChinaList.txt
-        echo "10.10.10.11" >> ./ChinaList.txt
-        cat ./Custom.txt >> ./GFW.txt
-        sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./GFW.txt > ./GFWList.txt
-        echo "10.10.10.1" >> ./GFWList.txt
-        grep '||' ./AdguardHome.txt > ./AdList.txt
-        
-    - name: Push commit
-      run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add .
-        git commit -m "generated"
-        git push
+      - name: Compare latest tags and set variables
+        run: |
+          upstreamLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/v2fly/domain-list-community/releases/latest | grep "tag_name" | cut -d\" -f4)
+          thisLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/${{ github.repository }}/releases/latest | grep "tag_name" | cut -d\" -f4)
+          if [[ $upstreamLatestTag != $thisLatestTag ]]; then
+            echo "NeedToSync=true" >> $GITHUB_ENV
+          fi
+          echo "RELEASE_NAME=$upstreamLatestTag" >> $GITHUB_ENV
+          echo "TAG_NAME=$upstreamLatestTag" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Checkout codebase
+        uses: actions/checkout@v4
+        if: ${{ env.NeedToSync }}
+        with:
+          path: code
+
+      - name: Checkout v2fly/domain-list-community
+        if: ${{ env.NeedToSync }}
+        uses: actions/checkout@v4
+        with:
+          repository: v2fly/domain-list-community
+          path: domain-list-community
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        if: ${{ env.NeedToSync }}
+        with:
+          go-version-file: domain-list-community/go.mod
+
+      - name: Get dependencies and run
+        if: ${{ env.NeedToSync }}
+        run: |
+          cd domain-list-community || exit 1
+          go run ./ -exportlists=$(cat ../code/domain)
+          cd ../
+
+      - name: Format Domain List
+        if: ${{ env.NeedToSync }}
+        run: |
+          cd domain-list-community || exit 1
+          cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sort -u > domain.txt
+
+      - name: Git push assets to "release" branch
+        if: ${{ env.NeedToSync }}
+        run: |
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add ./domain-list-community/domain.txt
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add publish "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}"
+          git push -f publish release
+
+      - name: Release and upload assets
+        if: ${{ env.NeedToSync }}
+        uses: softprops/action-gh-release@v1
+        with:
+          name: ${{ env.RELEASE_NAME }}
+          tag_name: ${{ env.TAG_NAME }}
+          draft: false
+          prerelease: false
+          files: |
+            ./domain-list-community/domain.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
