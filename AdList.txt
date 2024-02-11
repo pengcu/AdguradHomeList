@@ -542,6 +542,7 @@
 ||cbttnmo.xyz^
 ||cbyhoe.xyz^
 ||ccwxma.xyz^
+||cdazjxso.xyz^
 ||cdhfvrug.xyz^
 ||cdolhlwq.xyz^
 ||cdsa2.icu^
@@ -639,6 +640,7 @@
 ||dpe5t.space^
 ||dpj0uvy.icu^
 ||dqlfabc.cn^
+||dqlhuf.icu^
 ||dqrdwz.icu^
 ||dqzehgha.xyz^
 ||drjyjr.xyz^
@@ -1225,6 +1227,7 @@
 ||mpgsqk.xyz^
 ||mphcrjth.xyz^
 ||mphhgat.xyz^
+||mphxyxk.xyz^
 ||mpyerxzn.xyz^
 ||mqjqripb.xyz^
 ||mqrupjsm.xyz^
@@ -1303,6 +1306,8 @@
 ||ntrwnd.xyz^
 ||nubcdaqa.xyz^
 ||nwpcptmm.xyz^
+||nxditl.xyz^
+||nxledn.xyz^
 ||nyfgpbsc.xyz^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
@@ -1410,6 +1415,7 @@
 ||qejjhnq.cn^
 ||qeuckn.icu^
 ||qgl27.xyz^
+||qhapoq.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
 ||qlcbeg.xyz^
@@ -1531,6 +1537,7 @@
 ||smbx8.net^
 ||smgsue.xyz^
 ||smlpcz.icu^
+||smxflvz.cn^
 ||so1nv.xyz^
 ||sogou.st^
 ||sotunet.com^
@@ -1741,6 +1748,7 @@
 ||vfvad.top^
 ||vggg5.space^
 ||vgjaxnuw.xyz^
+||vhgunzr.cn^
 ||vhhxnb.xyz^
 ||vhotcvp.xyz^
 ||viladram.xyz^
@@ -1779,6 +1787,7 @@
 ||wbnbocz.xyz^
 ||wcbghap63.shop^
 ||wcd2l.icu^
+||wckkl.online^
 ||wclsylk.cn^
 ||wdadad.cn^
 ||wdakda.cn^
@@ -1831,6 +1840,7 @@
 ||xafuzcxr.xyz^
 ||xcholvbc.xyz^
 ||xcqbbcqpl.xyz^
+||xdazjxso.xyz^
 ||xdfdqce.xyz^
 ||xdhfvrug.xyz^
 ||xdjdpyrt.xyz^
@@ -1928,6 +1938,7 @@
 ||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
+||ydazjxso.xyz^
 ||yddbysa.xyz^
 ||ydhfvrug.xyz^
 ||ydolhlwq.xyz^
@@ -2040,9 +2051,11 @@
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||nxditl.xyz^
-||ydazjxso.xyz^
-||qhapoq.xyz^
+||nhvgrb.xyz^
+||lrxdnyq.cn^
+||ctydsy.xyz^
+||yhlpshi.xyz^
+||ylwrdnrw.xyz^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
@@ -5678,6 +5691,7 @@
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9wcn.com/gcld/500.gif
+||9y01.xyz/app/index.html
 ||9ya.net/con/ad
 ||9ye.com/Files/Editor/ad/
 ||9zvip.net/hi5asd/
@@ -8879,6 +8893,7 @@
 ||titan007.com/js/indexshow.
 ||titan007.com/news.aspx
 ||tk.504pk.com^
+||tklivechat.com/widgets/$third-party
 ||tl86tv.com/52
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlula507.com/Public/js/dui
@@ -8894,6 +8909,7 @@
 ||toolfk.com/common/zfb.jpg
 ||topmba.mobi/ad/
 ||topthink.com/api/basic/
+||toptoon03.xyz/app/tuijian.html
 ||totheglory.im/pic/business/
 ||totheglory.im/pic/fangtuo.jpg
 ||totheglory.im/pic/ttg-
