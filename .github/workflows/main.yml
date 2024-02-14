@@ -60,7 +60,6 @@ jobs:
 
       - name: Generate AdguardHome file
         run: |
-          cd code || exit 1
           curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
           grep '||' ./AdList.txt > ./AdguardHome.txt
 
