@@ -57,12 +57,13 @@ jobs:
           cat ./Custom.txt >> ./domain.txt
           sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./domain.txt > ./BypassList.txt
           echo "10.10.10.1" >> ./BypassList.txt
+          cd ../
 
       - name: Generate AdguardHome file
         run: |
+          cd code || exit 1
           curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
           grep '||' ./AdList.txt > ./AdguardHome.txt
-          pwd
 
       - name: Git push assets to "release" branch
         if: ${{ env.NeedToSync }}
