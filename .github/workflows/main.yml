@@ -62,7 +62,7 @@ jobs:
         run: |
           cd code || exit 1
           curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
-          grep '||' ./AdguardHome.txt > ./AdguardHome.txt
+          grep '||' ./AdList.txt > ./AdguardHome.txt
 
       - name: Git push assets to "release" branch
         if: ${{ env.NeedToSync }}
