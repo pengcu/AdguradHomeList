@@ -58,6 +58,12 @@ jobs:
           sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./domain.txt > ./BypassList.txt
           echo "10.10.10.1" >> ./BypassList.txt
 
+      - name: Generate AdguardHome file
+        run: |
+          cd code || exit 1
+          curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
+          grep '||' ./AdguardHome.txt > ./AdguardHome.txt
+
       - name: Git push assets to "release" branch
         if: ${{ env.NeedToSync }}
         run: |
@@ -65,6 +71,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add ./BypassList.txt
+          git add ./AdguardHome.txt
           git commit -m "${{ env.RELEASE_NAME }}"
           git push -f
 
@@ -78,5 +85,6 @@ jobs:
           prerelease: false
           files: |
             ./code/BypassList.txt
+            ./code/AdguardHome.txt
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
