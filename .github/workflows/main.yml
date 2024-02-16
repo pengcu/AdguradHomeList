@@ -60,6 +60,7 @@ jobs:
           cd ../
 
       - name: Generate AdguardHome file
+        if: ${{ env.NeedToSync }}
         run: |
           cd code || exit 1
           curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
