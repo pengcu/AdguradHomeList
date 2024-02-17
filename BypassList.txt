@@ -203,6 +203,8 @@
 [/azuresmartspaces.net/]10.10.10.11
 [/azurestackvalidation.com/]10.10.10.11
 [/azurewebsites.net/]10.10.10.11
+[/b-graph-fallback.facebook.com/]10.10.10.11
+[/b-graph.facebook.com/]10.10.10.11
 [/b2clogin.cn/]10.10.10.11
 [/b3itech.cn/]10.10.10.11
 [/badgen.net/]10.10.10.11
@@ -418,14 +420,18 @@
 [/cloudflare.net/]10.10.10.11
 [/cloudflare.tv/]10.10.10.11
 [/cloudflareaccess.com/]10.10.10.11
+[/cloudflareanycast.net/]10.10.10.11
 [/cloudflareapps.com/]10.10.10.11
 [/cloudflarebolt.com/]10.10.10.11
+[/cloudflarechina.cn/]10.10.10.11
 [/cloudflareclient.com/]10.10.10.11
 [/cloudflarecn.net/]10.10.10.11
+[/cloudflareglobal.net/]10.10.10.11
 [/cloudflareinsights-cn.com/]10.10.10.11
 [/cloudflareinsights.com/]10.10.10.11
 [/cloudflareok.com/]10.10.10.11
 [/cloudflarepartners.com/]10.10.10.11
+[/cloudflareperf.com/]10.10.10.11
 [/cloudflareportal.com/]10.10.10.11
 [/cloudflarepreview.com/]10.10.10.11
 [/cloudflareprod.com/]10.10.10.11
@@ -464,6 +470,8 @@
 [/computer.org/]10.10.10.11
 [/comsoc.org/]10.10.10.11
 [/conda.io/]10.10.10.11
+[/connect.facebook.com/]10.10.10.11
+[/connect.facebook.net/]10.10.10.11
 [/conquerwithcharacter.com/]10.10.10.11
 [/conscrypt.com/]10.10.10.11
 [/conscrypt.org/]10.10.10.11
@@ -1377,6 +1385,9 @@
 [/goto-game.org/]10.10.10.11
 [/gotolink.net/]10.10.10.11
 [/gouhuo.qq.com/]10.10.10.11
+[/graph-fallback.facebook.com/]10.10.10.11
+[/graph.facebook.com/]10.10.10.11
+[/graph.fbpigeon.com/]10.10.10.11
 [/graph.org/]10.10.10.11
 [/graphengine.io/]10.10.10.11
 [/grazie.ai/]10.10.10.11
@@ -1711,6 +1722,7 @@
 [/mongodb.org/]10.10.10.11
 [/mono-project.com/]10.10.10.11
 [/moodstocks.com/]10.10.10.11
+[/mqtt-mini.facebook.com/]10.10.10.11
 [/msappproxy.cn/]10.10.10.11
 [/mschcdn.com/]10.10.10.11
 [/msdn.com/]10.10.10.11
@@ -2134,6 +2146,8 @@
 [/stacksnippets.net/]10.10.10.11
 [/stadia.dev/]10.10.10.11
 [/standardsuniversity.org/]10.10.10.11
+[/star.c10r.facebook.com/]10.10.10.11
+[/star.fallback.c10r.facebook.com/]10.10.10.11
 [/starcraft.com/]10.10.10.11
 [/starcraft2.com/]10.10.10.11
 [/starfox.com/]10.10.10.11
@@ -2671,6 +2685,7 @@
 [/yximg.cn/]10.10.10.11
 [/yxwsgame.com/]10.10.10.11
 [/yzyxgame.com/]10.10.10.11
+[/z-m-graph.facebook.com/]10.10.10.11
 [/zcjbgame.com/]10.10.10.11
 [/zencdn.net/]10.10.10.11
 [/zhuoyuegame.com/]10.10.10.11
