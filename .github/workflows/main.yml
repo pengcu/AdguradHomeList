@@ -44,7 +44,7 @@ jobs:
         if: ${{ env.NeedToSync }}
         run: |
           cd domain-list-community || exit 1
-          go run ./ -exportlists=$(cat ../code/domain)
+          go run ./ -exportlists=$(cat ../code/domain | tr -d '\n')
           cd ../
 
       - name: Format Domain List
