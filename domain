@@ -1,7 +1,9 @@
 category-dev, \
 category-orgs, \
-google,facebook, \
-twitter,wikimedia, \
+google, \
+facebook, \
+twitter, \
+wikimedia, \
 steam, \
 cloudflare, \
 telegram, \
