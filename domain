@@ -1,12 +1,12 @@
-category-dev, \
-category-orgs, \
-google, \
-facebook, \
-twitter, \
-wikimedia, \
-steam, \
-cloudflare, \
-telegram, \
-fastly, \
-azure, \
+category-dev,
+category-orgs,
+google,
+facebook,
+twitter,
+wikimedia,
+steam,
+cloudflare,
+telegram,
+fastly,
+azure,
 aws
