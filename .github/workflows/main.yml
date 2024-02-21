@@ -67,7 +67,7 @@ jobs:
           grep '||' ./AdList.txt > ./AdguardHome.txt
           cd ../
 
-      - name: Git push assets to "release" branch
+      - name: Git push file to branch
         if: ${{ env.NeedToSync }}
         run: |
           cd code || exit 1
