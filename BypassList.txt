@@ -27,6 +27,7 @@
 [/admob-cn.com/]10.10.10.11
 [/admob.com/]10.10.10.11
 [/ads-twitter.com/]10.10.10.11
+[/ads.unitychina.cn/]10.10.10.11
 [/ads.youtube.com/]10.10.10.11
 [/adsense.com/]10.10.10.11
 [/adsensecustomsearchads.com/]10.10.10.11
@@ -467,6 +468,7 @@
 [/doubleclick.cn/]10.10.10.11
 [/doubleclick.com/]10.10.10.11
 [/doubleclick.net/]10.10.10.11
+[/download-cdn.jetbrains.com.cn/]10.10.10.11
 [/draftjs.org/]10.10.10.11
 [/ecr.aws/]10.10.10.11
 [/edge.steam-dns.top.comcast.net/]10.10.10.11
@@ -1650,6 +1652,8 @@
 [/snapstore.io/]10.10.10.11
 [/solveforx.com/]10.10.10.11
 [/sourcehut.org/]10.10.10.11
+[/splash-ads.cdn.unity.cn/]10.10.10.11
+[/splash-ads.unitychina.cn/]10.10.10.11
 [/sportsfacebook.com/]10.10.10.11
 [/sportstream.com/]10.10.10.11
 [/sqlite.org/]10.10.10.11
@@ -1795,6 +1799,7 @@
 [/unity.com/]10.10.10.11
 [/unity3d.com/]10.10.10.11
 [/unity3dcloud.cn/]10.10.10.11
+[/unityads.unity.cn/]10.10.10.11
 [/unityads.unity3d.com/]10.10.10.11
 [/unityads.unitychina.cn/]10.10.10.11
 [/unpkg.com/]10.10.10.11
