@@ -319,6 +319,7 @@
 [/cf-ns.net/]10.10.10.11
 [/cf-ns.site/]10.10.10.11
 [/cf-ns.tech/]10.10.10.11
+[/cfl.re/]10.10.10.11
 [/cftest5.cn/]10.10.10.11
 [/cftest6.cn/]10.10.10.11
 [/cftest7.com/]10.10.10.11
@@ -342,7 +343,6 @@
 [/chroniclesec.com/]10.10.10.11
 [/clearlinux.org/]10.10.10.11
 [/click-url.com/]10.10.10.11
-[/clickserver.googleads.com/]10.10.10.11
 [/clojure.org/]10.10.10.11
 [/cloudburstresearch.com/]10.10.10.11
 [/cloudflare-cn.com/]10.10.10.11
@@ -1434,6 +1434,7 @@
 [/mobilefacebook.com/]10.10.10.11
 [/mobileview.page/]10.10.10.11
 [/mochajs.org/]10.10.10.11
+[/modperl.pl/]10.10.10.11
 [/moneywithfacebook.com/]10.10.10.11
 [/mongodb.com/]10.10.10.11
 [/mongodb.org/]10.10.10.11
@@ -1536,6 +1537,7 @@
 [/paxlicense.org/]10.10.10.11
 [/pcre.org/]10.10.10.11
 [/periscope.tv/]10.10.10.11
+[/perl.apache.org/]10.10.10.11
 [/perl.org/]10.10.10.11
 [/phantomjs.org/]10.10.10.11
 [/photonicssociety.org/]10.10.10.11
@@ -1677,8 +1679,6 @@
 [/stacksnippets.net/]10.10.10.11
 [/stadia.dev/]10.10.10.11
 [/standardsuniversity.org/]10.10.10.11
-[/star.c10r.facebook.com/]10.10.10.11
-[/star.fallback.c10r.facebook.com/]10.10.10.11
 [/stateofthemap.com/]10.10.10.11
 [/stateofthemap.org/]10.10.10.11
 [/stcroixmosquito.com/]10.10.10.11
