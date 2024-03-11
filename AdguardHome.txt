@@ -326,9 +326,11 @@
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
 ||cwssfg632.shop^
+||cxlvlbx.xyz^
 ||dawdlealmonry.com^
 ||ddielv.cn^
 ||delhirs.com^
+||diccsbhij.com^
 ||difmnd.xyz^
 ||dkjwbv.xyz^
 ||dqhxmbx.cn^
@@ -359,6 +361,7 @@
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
+||gkutca.xyz^
 ||gsuxyg.xyz^
 ||gvbta.icu^
 ||ha723.icu^
@@ -382,6 +385,7 @@
 ||inifdlao.top^
 ||inworket.com^
 ||ivbgpax.cn^
+||jbmfldt.cn^
 ||jflwhf.xyz^
 ||jgblvt.xyz^
 ||jgmywh.icu^
@@ -390,13 +394,16 @@
 ||jozbun.icu^
 ||jqpejp.xyz^
 ||js131.cn^
+||justapp.top^
 ||jzjpntr.xyz^
 ||kbomku.xyz^
 ||kfdrc.cyou^
 ||kksjsa.top^
+||knifdlad.top^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||l5kt1.icu^
+||lafirx.xyz^
 ||lardmoni.com^
 ||lenvvb.xyz^
 ||lewiooz.cn^
@@ -420,6 +427,7 @@
 ||nkbkor.icu^
 ||nowhern.com^
 ||nplahh.xyz^
+||nsjnmx.icu^
 ||nvdtdsd.xyz^
 ||nyt5j.cyou^
 ||obturex.com^
@@ -446,6 +454,7 @@
 ||qqkkpos.com^
 ||qrkhwe.xyz^
 ||qrttfmo.cn^
+||qw9cu.cyou^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rbhunp.xyz^
@@ -508,6 +517,7 @@
 ||uu22662.com^
 ||uxlvk.cn^
 ||uxrdg.cn^
+||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
 ||vszzzj.xyz^
@@ -517,6 +527,7 @@
 ||wisealty.com^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
+||wopvmmy.cn^
 ||wqcfg.cn^
 ||wwjtdjj.cn^
 ||xcypgd.icu^
@@ -559,6 +570,7 @@
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
+||zttuvj.xyz^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
 ||002777.xyz^
@@ -9737,9 +9749,7 @@
 @@||hanjubaike.com^$script,~third-party
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
-@@||haokoubei.top/check_img_block.js
-@@||haokoubei.top/dl/rfo_v_f_pc.js
-@@||haokoubei.top/sz/to_v_f.js
+@@||haokoubei.top/sz/tos_v_f.js
 @@||haoweichi.com/Public/js/ads.js
 @@||hbu.cn^*/ad.css?$stylesheet
 @@||hc360.com/ad/*.css
