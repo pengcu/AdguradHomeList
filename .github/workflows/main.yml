@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Set Variable
         run: |
-          version=date +'%Y%m%d%H%M%S'
+          version=$(date +'%Y%m%d%H%M%S')
           echo "RELEASE_NAME=$version" >> $GITHUB_ENV
           echo "TAG_NAME=$version" >> $GITHUB_ENV
       - name: Checkout codebase
