@@ -12,18 +12,25 @@ jobs:
     steps:
       - name: Set Variable
         run: |
-          version=$(date +'%Y%m%d%H%M%S')
-          echo "RELEASE_NAME=$version" >> $GITHUB_ENV
-          echo "TAG_NAME=$version" >> $GITHUB_ENV
+          upstreamLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/gfwlist/gfwlist/commits | grep "date"| cut -d\" -f4 | head -n 1)
+          thisLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/${{ github.repository }}/releases/latest | grep "tag_name" | cut -d\" -f4)
+          if [[ $upstreamLatestTag != $thisLatestTag ]]; then
+            echo "NeedToSync=true" >> $GITHUB_ENV
+          fi
+          echo "RELEASE_NAME=$upstreamLatestTag" >> $GITHUB_ENV
+          echo "TAG_NAME=$upstreamLatestTag" >> $GITHUB_ENV
           
       - name: Checkout codebase
+        if: ${{ env.NeedToSync }}
         uses: actions/checkout@v4
           
       - name: Fetch GFWList
+        if: ${{ env.NeedToSync }}
         run: |
           curl -L https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | base64 -d > gfwlist.txt
           
       - name: Format Domain List
+        if: ${{ env.NeedToSync }}
         run: |
           grep -E '^([|]{2}|[.])' gfwlist.txt  | grep -v '/' | grep -v '[*]' | sed 's/^[|.]*//' | sort -u > domain.txt
           cat ./Custom.txt >> ./domain.txt
@@ -31,20 +38,23 @@ jobs:
           echo "10.10.10.1" >> ./BypassList.txt
 
       - name: Generate AdguardHome file
+        if: ${{ env.NeedToSync }}
         run: |
           curl -L https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
           grep '||' ./AdList.txt > ./AdguardHome.txt
 
       - name: Git push file to branch
+        if: ${{ env.NeedToSync }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add ./BypassList.txt
           git add ./AdguardHome.txt
           git commit -m "${{ env.RELEASE_NAME }}"
-          git push || exit 1
+          git push -f
 
       - name: Release and upload assets
+        if: ${{ env.NeedToSync }}
         uses: softprops/action-gh-release@v1
         with:
           name: ${{ env.RELEASE_NAME }}
