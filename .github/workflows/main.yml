@@ -10,65 +10,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Compare latest tags and set variables
+      - name: Set Variable
         run: |
-          upstreamLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/v2fly/domain-list-community/releases/latest | grep "tag_name" | cut -d\" -f4)
-          thisLatestTag=$(curl -sSL --connect-timeout 5 --retry 5 -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/${{ github.repository }}/releases/latest | grep "tag_name" | cut -d\" -f4)
-          if [[ $upstreamLatestTag != $thisLatestTag ]]; then
-            echo "NeedToSync=true" >> $GITHUB_ENV
-          fi
-          echo "RELEASE_NAME=$upstreamLatestTag" >> $GITHUB_ENV
-          echo "TAG_NAME=$upstreamLatestTag" >> $GITHUB_ENV
-        shell: bash
-
+          version=date +'%Y%m%d%H%M%S'
+          echo "RELEASE_NAME=$version" >> $GITHUB_ENV
+          echo "TAG_NAME=$version" >> $GITHUB_ENV
       - name: Checkout codebase
         uses: actions/checkout@v4
-        if: ${{ env.NeedToSync }}
         with:
           path: code
-
-      - name: Checkout v2fly/domain-list-community
-        if: ${{ env.NeedToSync }}
-        uses: actions/checkout@v4
-        with:
-          repository: v2fly/domain-list-community
-          path: domain-list-community
-
-      - name: Setup Go
-        uses: actions/setup-go@v5
-        if: ${{ env.NeedToSync }}
-        with:
-          go-version-file: domain-list-community/go.mod
-
-      - name: Get dependencies and run
-        if: ${{ env.NeedToSync }}
+          
+      - name: Fetch GFWList
         run: |
-          cd domain-list-community || exit 1
-          go run ./ -exportlists=$(cat ../code/domain | tr -d '\n')
-          cd ../
-
+          curl -L https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | base64 -d > gfwlist.txt
+          
       - name: Format Domain List
-        if: ${{ env.NeedToSync }}
         run: |
-          cd domain-list-community || exit 1
-          cat *.txt | grep domain | sed 's/domain://g' | sed 's/:@cn//g' | sed 's/:@ads//g' | sed 's/:@!cn//g' | sed '/apple/d' | sort -u > domain.txt
-          cp domain.txt ../code/
-          cd ../code/
+          grep -E '^([|]{2}|[.])' gfwlist.txt  | grep -v '/' | grep -v '[*]' | sed 's/^[|.]*//' | sort -u > domain.txt
           cat ./Custom.txt >> ./domain.txt
           sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./domain.txt > ./BypassList.txt
           echo "10.10.10.1" >> ./BypassList.txt
-          cd ../
 
       - name: Generate AdguardHome file
-        if: ${{ env.NeedToSync }}
         run: |
-          cd code || exit 1
-          curl https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
+          curl -L https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
           grep '||' ./AdList.txt > ./AdguardHome.txt
-          cd ../
 
       - name: Git push file to branch
-        if: ${{ env.NeedToSync }}
         run: |
           cd code || exit 1
           git config --local user.name "github-actions[bot]"
@@ -79,7 +47,6 @@ jobs:
           git push -f
 
       - name: Release and upload assets
-        if: ${{ env.NeedToSync }}
         uses: softprops/action-gh-release@v1
         with:
           name: ${{ env.RELEASE_NAME }}
@@ -87,7 +54,7 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            ./code/BypassList.txt
-            ./code/AdguardHome.txt
+            ./BypassList.txt
+            ./AdguardHome.txt
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
