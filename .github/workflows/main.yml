@@ -42,7 +42,7 @@ jobs:
           git add ./BypassList.txt
           git add ./AdguardHome.txt
           git commit -m "${{ env.RELEASE_NAME }}"
-          git push
+          git push || exit 1
 
       - name: Release and upload assets
         uses: softprops/action-gh-release@v1
