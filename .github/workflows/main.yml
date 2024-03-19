@@ -15,10 +15,9 @@ jobs:
           version=$(date +'%Y%m%d%H%M%S')
           echo "RELEASE_NAME=$version" >> $GITHUB_ENV
           echo "TAG_NAME=$version" >> $GITHUB_ENV
+          
       - name: Checkout codebase
         uses: actions/checkout@v4
-        with:
-          path: code
           
       - name: Fetch GFWList
         run: |
