@@ -2,7 +2,7 @@ name: Build BypassDomain
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "0 0 * * 0"
   push:
     branches:
       - master
