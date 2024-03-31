@@ -281,6 +281,7 @@
 [/appledaily.com/]10.10.10.11
 [/appledaily.com.hk/]10.10.10.11
 [/appledaily.com.tw/]10.10.10.11
+[/apps.evozi.com/]10.10.10.11
 [/appshopper.com/]10.10.10.11
 [/appsocks.net/]10.10.10.11
 [/appspot.com/]10.10.10.11
@@ -289,6 +290,7 @@
 [/archive.fo/]10.10.10.11
 [/archive.is/]10.10.10.11
 [/archive.li/]10.10.10.11
+[/archive.md/]10.10.10.11
 [/archive.org/]10.10.10.11
 [/archive.ph/]10.10.10.11
 [/archiveofourown.com/]10.10.10.11
@@ -610,6 +612,7 @@
 [/c-spanvideo.org/]10.10.10.11
 [/c100tibet.org/]10.10.10.11
 [/c2cx.com/]10.10.10.11
+[/cableav.tv/]10.10.10.11
 [/cablegatesearch.net/]10.10.10.11
 [/cachinese.com/]10.10.10.11
 [/cacnw.com/]10.10.10.11
@@ -795,6 +798,7 @@
 [/chuang-yen.org/]10.10.10.11
 [/chubold.com/]10.10.10.11
 [/chushigangdrug.ch/]10.10.10.11
+[/ciciai.com/]10.10.10.11
 [/cienen.com/]10.10.10.11
 [/cineastentreff.de/]10.10.10.11
 [/cipfg.org/]10.10.10.11
@@ -897,6 +901,7 @@
 [/cotweet.com/]10.10.10.11
 [/counter.social/]10.10.10.11
 [/coursehero.com/]10.10.10.11
+[/coze.com/]10.10.10.11
 [/cpj.org/]10.10.10.11
 [/cq99.us/]10.10.10.11
 [/crackle.com/]10.10.10.11
@@ -2813,6 +2818,7 @@
 [/newlandmagazine.com.au/]10.10.10.11
 [/newmitbbs.com/]10.10.10.11
 [/newnews.ca/]10.10.10.11
+[/news.ebc.net.tw/]10.10.10.11
 [/news.now.com/]10.10.10.11
 [/news.ycombinator.com/]10.10.10.11
 [/newsancai.com/]10.10.10.11
