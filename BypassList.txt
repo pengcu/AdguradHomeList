@@ -684,6 +684,7 @@
 [/cdn-telegram.org/]10.10.10.11
 [/cdn.assets.lfpcontent.com/]10.10.10.11
 [/cdn.helixstudios.net/]10.10.10.11
+[/cdn.jwplayer.com/]10.10.10.11
 [/cdn.printfriendly.com/]10.10.10.11
 [/cdn.seatguru.com/]10.10.10.11
 [/cdn.softlayer.net/]10.10.10.11
@@ -1266,6 +1267,7 @@
 [/etaa.org.au/]10.10.10.11
 [/etadult.com/]10.10.10.11
 [/etherdelta.com/]10.10.10.11
+[/ethermine.org/]10.10.10.11
 [/etherscan.io/]10.10.10.11
 [/etizer.org/]10.10.10.11
 [/etokki.com/]10.10.10.11
@@ -1298,6 +1300,7 @@
 [/eyny.com/]10.10.10.11
 [/ezpeer.com/]10.10.10.11
 [/ezua.com/]10.10.10.11
+[/f2pool.com/]10.10.10.11
 [/f8.com/]10.10.10.11
 [/fa.gov.tw/]10.10.10.11
 [/facebook.br/]10.10.10.11
@@ -1990,6 +1993,7 @@
 [/hrcir.com/]10.10.10.11
 [/hrea.org/]10.10.10.11
 [/hrichina.org/]10.10.10.11
+[/hrntt.org/]10.10.10.11
 [/hrtsea.com/]10.10.10.11
 [/hrw.org/]10.10.10.11
 [/hsjp.net/]10.10.10.11
@@ -2057,6 +2061,7 @@
 [/iblist.com/]10.10.10.11
 [/iblogserv-f.net/]10.10.10.11
 [/ibvpn.com/]10.10.10.11
+[/icedrive.net/]10.10.10.11
 [/icij.org/]10.10.10.11
 [/icl-fi.org/]10.10.10.11
 [/icoco.com/]10.10.10.11
@@ -2895,6 +2900,7 @@
 [/noypf.com/]10.10.10.11
 [/npa.go.jp/]10.10.10.11
 [/npa.gov.tw/]10.10.10.11
+[/npm.gov.tw/]10.10.10.11
 [/npnt.me/]10.10.10.11
 [/nps.gov/]10.10.10.11
 [/npsboost.com/]10.10.10.11
@@ -3203,6 +3209,7 @@
 [/posts.careerengine.us/]10.10.10.11
 [/potato.im/]10.10.10.11
 [/potvpn.com/]10.10.10.11
+[/pourquoi.tw/]10.10.10.11
 [/power.com/]10.10.10.11
 [/powerapple.com/]10.10.10.11
 [/powercx.com/]10.10.10.11
@@ -3399,6 +3406,7 @@
 [/roodo.com/]10.10.10.11
 [/rosechina.net/]10.10.10.11
 [/rotten.com/]10.10.10.11
+[/rou.video/]10.10.10.11
 [/rsdlmonitor.com/]10.10.10.11
 [/rsf-chinese.org/]10.10.10.11
 [/rsf.org/]10.10.10.11
@@ -4585,6 +4593,7 @@
 [/wtbn.org/]10.10.10.11
 [/wtfpeople.com/]10.10.10.11
 [/wufafangwen.com/]10.10.10.11
+[/wufi.org.tw/]10.10.10.11
 [/wuguoguang.com/]10.10.10.11
 [/wujieliulan.com/]10.10.10.11
 [/wuw.red/]10.10.10.11
@@ -4753,6 +4762,7 @@
 [/yzzk.com/]10.10.10.11
 [/z-lib.org/]10.10.10.11
 [/zalmos.com/]10.10.10.11
+[/zamimg.com/]10.10.10.11
 [/zannel.com/]10.10.10.11
 [/zaobao.com/]10.10.10.11
 [/zaobao.com.sg/]10.10.10.11
@@ -4836,5 +4846,6 @@
 [/ptwxz.com/]10.10.10.11
 [/sublimetext.com/]10.10.10.11
 [/stackpathcdn.com/]10.10.10.11
+[/usevia.app/]10.10.10.11
 [/wallhaven.cc/]10.10.10.11
 10.10.10.1
