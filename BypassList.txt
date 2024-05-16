@@ -719,6 +719,7 @@
 [/channelnewsasia.com/]10.10.10.11
 [/chaoex.com/]10.10.10.11
 [/chapm25.com/]10.10.10.11
+[/chatgpt.com/]10.10.10.11
 [/chatnook.com/]10.10.10.11
 [/chaturbate.com/]10.10.10.11
 [/checkgfw.com/]10.10.10.11
