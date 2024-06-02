@@ -3277,6 +3277,7 @@
 [/python.com.tw/]10.10.10.11
 [/pytorch.org/]10.10.10.11
 [/qanote.com/]10.10.10.11
+[/qbittorrent.org/]10.10.10.11
 [/qgirl.com.tw/]10.10.10.11
 [/qhigh.com/]10.10.10.11
 [/qi-gong.me/]10.10.10.11
@@ -4613,6 +4614,7 @@
 [/x-berry.com/]10.10.10.11
 [/x-wall.org/]10.10.10.11
 [/x.co/]10.10.10.11
+[/x.com/]10.10.10.11
 [/x.company/]10.10.10.11
 [/x24hr.com/]10.10.10.11
 [/xa.yimg.com/]10.10.10.11
