@@ -271,6 +271,7 @@
 [/apkmonk.com/]10.10.10.11
 [/apkplz.com/]10.10.10.11
 [/apkpure.com/]10.10.10.11
+[/apkpure.net/]10.10.10.11
 [/aplusvpn.com/]10.10.10.11
 [/app.box.com/]10.10.10.11
 [/app.cloudcone.com/]10.10.10.11
@@ -719,6 +720,7 @@
 [/channelnewsasia.com/]10.10.10.11
 [/chaoex.com/]10.10.10.11
 [/chapm25.com/]10.10.10.11
+[/chat.lmsys.org/]10.10.10.11
 [/chatgpt.com/]10.10.10.11
 [/chatnook.com/]10.10.10.11
 [/chaturbate.com/]10.10.10.11
@@ -1035,6 +1037,7 @@
 [/deviantart.net/]10.10.10.11
 [/devio.us/]10.10.10.11
 [/devpn.com/]10.10.10.11
+[/devv.ai/]10.10.10.11
 [/dfas.mil/]10.10.10.11
 [/dharamsalanet.com/]10.10.10.11
 [/dhcp.biz/]10.10.10.11
@@ -2428,6 +2431,7 @@
 [/lianyue.net/]10.10.10.11
 [/liaowangxizang.net/]10.10.10.11
 [/liberal.org.hk/]10.10.10.11
+[/libertysculpturepark.com/]10.10.10.11
 [/libertytimes.com.tw/]10.10.10.11
 [/libredd.it/]10.10.10.11
 [/lifemiles.com/]10.10.10.11
@@ -2464,7 +2468,6 @@
 [/livedoor.jp/]10.10.10.11
 [/liveleak.com/]10.10.10.11
 [/livemint.com/]10.10.10.11
-[/livestation.com/]10.10.10.11
 [/livestream.com/]10.10.10.11
 [/livevideo.com/]10.10.10.11
 [/livingonline.us/]10.10.10.11
@@ -3146,6 +3149,7 @@
 [/pipii.tv/]10.10.10.11
 [/piposay.com/]10.10.10.11
 [/piring.com/]10.10.10.11
+[/pixeldrain.com/]10.10.10.11
 [/pixelqi.com/]10.10.10.11
 [/pixiv.net/]10.10.10.11
 [/pixnet.net/]10.10.10.11
@@ -3308,9 +3312,9 @@
 [/qz.com/]10.10.10.11
 [/r0.ru/]10.10.10.11
 [/r18.com/]10.10.10.11
-[/ra.gg/]10.10.10.11
-[/radicalparty.org/]10.10.10.11
+[/radio-canada.ca/]10.10.10.11
 [/radio.garden/]10.10.10.11
+[/radioaustralia.net.au/]10.10.10.11
 [/radiohilight.net/]10.10.10.11
 [/radioline.co/]10.10.10.11
 [/radiovaticana.org/]10.10.10.11
@@ -3825,6 +3829,7 @@
 [/taipei.gov.tw/]10.10.10.11
 [/taipeisociety.org/]10.10.10.11
 [/taipeitimes.com/]10.10.10.11
+[/taisounds.com/]10.10.10.11
 [/taiwanbible.com/]10.10.10.11
 [/taiwancon.com/]10.10.10.11
 [/taiwandaily.net/]10.10.10.11
@@ -4485,6 +4490,7 @@
 [/wefong.com/]10.10.10.11
 [/wego.here.com/]10.10.10.11
 [/weihuo.org/]10.10.10.11
+[/weijingsheng.org/]10.10.10.11
 [/weiming.info/]10.10.10.11
 [/welovecock.com/]10.10.10.11
 [/welt.de/]10.10.10.11
@@ -4589,6 +4595,7 @@
 [/wp.com/]10.10.10.11
 [/wpoforum.com/]10.10.10.11
 [/wqyd.org/]10.10.10.11
+[/writesonic.com/]10.10.10.11
 [/wsj.com/]10.10.10.11
 [/wsj.net/]10.10.10.11
 [/wsjhk.com/]10.10.10.11
@@ -4715,7 +4722,6 @@
 [/yigeni.com/]10.10.10.11
 [/yingsuoss.com/]10.10.10.11
 [/yipub.com/]10.10.10.11
-[/yiyechat.com/]10.10.10.11
 [/yizhihongxing.com/]10.10.10.11
 [/yobit.net/]10.10.10.11
 [/yobt.com/]10.10.10.11
@@ -4757,11 +4763,11 @@
 [/yuanzhengtang.org/]10.10.10.11
 [/yulghun.com/]10.10.10.11
 [/yunchao.net/]10.10.10.11
-[/yuntipub.com/]10.10.10.11
 [/yuvutu.com/]10.10.10.11
 [/yvesgeleyn.com/]10.10.10.11
 [/yyii.org/]10.10.10.11
 [/yyjlymb.xyz/]10.10.10.11
+[/yysub.net/]10.10.10.11
 [/yzzk.com/]10.10.10.11
 [/z-lib.org/]10.10.10.11
 [/zalmos.com/]10.10.10.11
