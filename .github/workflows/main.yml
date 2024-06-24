@@ -34,8 +34,8 @@ jobs:
         run: |
           grep -E '^([|]{2}|[.])' gfwlist.txt  | grep -v '/' | grep -v '[*]' | sed 's/^[|.]*//' | sort -u > domain.txt
           cat ./Custom.txt >> ./domain.txt
-          sed 's/^/[\//g;s/$/&\/]10.10.10.11/g' ./domain.txt > ./BypassList.txt
-          echo "10.10.10.1" >> ./BypassList.txt
+          sed 's/^/[\//g;s/$/&\/]10.0.0.11/g' ./domain.txt > ./BypassList.txt
+          echo "10.0.0.1" >> ./BypassList.txt
 
       - name: Generate AdguardHome file
         if: ${{ env.NeedToSync }}
