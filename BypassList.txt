@@ -239,6 +239,7 @@
 [/anpopo.com/]10.0.0.11
 [/answering-islam.org/]10.0.0.11
 [/anthonycalzadilla.com/]10.0.0.11
+[/anthropic.com/]10.0.0.11
 [/anti1984.com/]10.0.0.11
 [/antiwave.net/]10.0.0.11
 [/anyporn.com/]10.0.0.11
@@ -522,6 +523,7 @@
 [/bloomfortune.com/]10.0.0.11
 [/blubrry.com/]10.0.0.11
 [/bmfinn.com/]10.0.0.11
+[/bnbstatic.com/]10.0.0.11
 [/bnews.co/]10.0.0.11
 [/bnext.com.tw/]10.0.0.11
 [/bnn.co/]10.0.0.11
@@ -822,6 +824,7 @@
 [/civitai.com/]10.0.0.11
 [/ck101.com/]10.0.0.11
 [/classicalguitarblog.net/]10.0.0.11
+[/claude.ai/]10.0.0.11
 [/clb.org.hk/]10.0.0.11
 [/cldr.unicode.org/]10.0.0.11
 [/cleansite.biz/]10.0.0.11
@@ -3114,6 +3117,7 @@
 [/perfect-privacy.com/]10.0.0.11
 [/perfectgirls.net/]10.0.0.11
 [/periscope.tv/]10.0.0.11
+[/perplexity.ai/]10.0.0.11
 [/persecutionblog.com/]10.0.0.11
 [/persiankitty.com/]10.0.0.11
 [/phayul.com/]10.0.0.11
