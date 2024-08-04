@@ -362,6 +362,7 @@
 [/axios.com/]10.0.0.11
 [/axureformac.com/]10.0.0.11
 [/azerbaycan.tv/]10.0.0.11
+[/azirevpn.com/]10.0.0.11
 [/azubu.tv/]10.0.0.11
 [/b-ok.cc/]10.0.0.11
 [/b0ne.com/]10.0.0.11
@@ -841,6 +842,8 @@
 [/clubhouseapi.com/]10.0.0.11
 [/clyp.it/]10.0.0.11
 [/cmcn.org/]10.0.0.11
+[/cmegroup.com/]10.0.0.11
+[/cmi.org.tw/]10.0.0.11
 [/cms.gov/]10.0.0.11
 [/cmule.com/]10.0.0.11
 [/cmule.org/]10.0.0.11
@@ -2110,8 +2113,10 @@
 [/imageab.com/]10.0.0.11
 [/imagefap.com/]10.0.0.11
 [/imageflea.com/]10.0.0.11
+[/imageglass.org/]10.0.0.11
 [/images-gaytube.com/]10.0.0.11
 [/images.comico.tw/]10.0.0.11
+[/imageshack.us/]10.0.0.11
 [/imagevenue.com/]10.0.0.11
 [/imagezilla.net/]10.0.0.11
 [/imb.org/]10.0.0.11
