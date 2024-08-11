@@ -2213,6 +2213,7 @@
 [/ivacy.com/]10.0.0.11
 [/iverycd.com/]10.0.0.11
 [/ivpn.net/]10.0.0.11
+[/iwara.tv/]10.0.0.11
 [/ixquick.com/]10.0.0.11
 [/ixxx.com/]10.0.0.11
 [/iyouport.com/]10.0.0.11
@@ -4039,6 +4040,7 @@
 [/tibetsupportgroup.org/]10.0.0.11
 [/tibetswiss.ch/]10.0.0.11
 [/tibettelegraph.com/]10.0.0.11
+[/tibettruth.com/]10.0.0.11
 [/tibetwrites.org/]10.0.0.11
 [/ticket.com.tw/]10.0.0.11
 [/tigervpn.com/]10.0.0.11
