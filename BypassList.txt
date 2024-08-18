@@ -3763,6 +3763,7 @@
 [/store.steampowered.com/]10.0.0.11
 [/stories.google/]10.0.0.11
 [/storify.com/]10.0.0.11
+[/storj.io/]10.0.0.11
 [/storm.mg/]10.0.0.11
 [/stormmediagroup.com/]10.0.0.11
 [/stoweboyd.com/]10.0.0.11
@@ -4305,6 +4306,7 @@
 [/urlparser.com/]10.0.0.11
 [/usacn.com/]10.0.0.11
 [/usaip.eu/]10.0.0.11
+[/uscardforum.com/]10.0.0.11
 [/uscnpm.org/]10.0.0.11
 [/usfk.mil/]10.0.0.11
 [/usma.edu/]10.0.0.11
