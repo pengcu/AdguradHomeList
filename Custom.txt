@@ -1,6 +1,7 @@
 appstorrent.ru
 binance.com
 bnbstatic.com
+daisyui.com
 docker.com
 fastly.net
 maj-soul.com
