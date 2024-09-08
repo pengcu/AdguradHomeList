@@ -497,6 +497,7 @@
 [/blog.fizzik.com/]10.0.0.11
 [/blog.fuckgfw233.org/]10.0.0.11
 [/blog.google/]10.0.0.11
+[/blog.jackjia.com/]10.0.0.11
 [/blog.jp/]10.0.0.11
 [/blog.kangye.org/]10.0.0.11
 [/blog.pathtosharepoint.com/]10.0.0.11
@@ -602,6 +603,7 @@
 [/buzzhand.com/]10.0.0.11
 [/buzzhand.net/]10.0.0.11
 [/buzzorange.com/]10.0.0.11
+[/buzzsprout.com/]10.0.0.11
 [/bvpn.com/]10.0.0.11
 [/bwgyhw.com/]10.0.0.11
 [/bwh1.net/]10.0.0.11
@@ -2212,6 +2214,7 @@
 [/iuksky.com/]10.0.0.11
 [/ivacy.com/]10.0.0.11
 [/iverycd.com/]10.0.0.11
+[/ivonblog.com/]10.0.0.11
 [/ivpn.net/]10.0.0.11
 [/iwara.tv/]10.0.0.11
 [/ixquick.com/]10.0.0.11
@@ -2226,6 +2229,7 @@
 [/jable.tv/]10.0.0.11
 [/jamestown.org/]10.0.0.11
 [/jamyangnorbu.com/]10.0.0.11
+[/jan.ai/]10.0.0.11
 [/jandyx.com/]10.0.0.11
 [/janwongphoto.com/]10.0.0.11
 [/japan-whores.com/]10.0.0.11
@@ -3116,6 +3120,7 @@
 [/pen.io/]10.0.0.11
 [/penchinese.net/]10.0.0.11
 [/penthouse.com/]10.0.0.11
+[/pentoy.hk/]10.0.0.11
 [/peoplebookcafe.com/]10.0.0.11
 [/peoplenews.tw/]10.0.0.11
 [/peopo.org/]10.0.0.11
@@ -3185,6 +3190,8 @@
 [/poe.com/]10.0.0.11
 [/pokerstars.com/]10.0.0.11
 [/pokerstars.net/]10.0.0.11
+[/politicalchina.org/]10.0.0.11
+[/politicalconsultation.org/]10.0.0.11
 [/politiscales.net/]10.0.0.11
 [/poloniex.com/]10.0.0.11
 [/polymer-project.org/]10.0.0.11
@@ -3984,7 +3991,9 @@
 [/tibet.at/]10.0.0.11
 [/tibet.com/]10.0.0.11
 [/tibet.net/]10.0.0.11
+[/tibet.nu/]10.0.0.11
 [/tibet.org/]10.0.0.11
+[/tibet.org.tw/]10.0.0.11
 [/tibet.sk/]10.0.0.11
 [/tibet.to/]10.0.0.11
 [/tibet3rdpole.org/]10.0.0.11
@@ -4036,16 +4045,19 @@
 [/tibetoralhistory.org/]10.0.0.11
 [/tibetpolicy.eu/]10.0.0.11
 [/tibetrelieffund.co.uk/]10.0.0.11
+[/tibetsites.com/]10.0.0.11
 [/tibetsociety.com/]10.0.0.11
 [/tibetsun.com/]10.0.0.11
 [/tibetsupportgroup.org/]10.0.0.11
 [/tibetswiss.ch/]10.0.0.11
 [/tibettelegraph.com/]10.0.0.11
+[/tibettimes.net/]10.0.0.11
 [/tibettruth.com/]10.0.0.11
 [/tibetwrites.org/]10.0.0.11
 [/ticket.com.tw/]10.0.0.11
 [/tigervpn.com/]10.0.0.11
 [/tiktok.com/]10.0.0.11
+[/tiktokv.com/]10.0.0.11
 [/tiltbrush.com/]10.0.0.11
 [/timdir.com/]10.0.0.11
 [/time.com/]10.0.0.11
@@ -4803,6 +4815,7 @@
 [/zfreet.com/]10.0.0.11
 [/zgsddh.com/]10.0.0.11
 [/zh.ecdm.wikia.com/]10.0.0.11
+[/zh.pokerstrategy.com/]10.0.0.11
 [/zh.wikinews.org/]10.0.0.11
 [/zh.wikiquote.org/]10.0.0.11
 [/zhanbin.net/]10.0.0.11
