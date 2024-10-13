@@ -1317,6 +1317,7 @@
 [/fa.gov.tw/]10.0.0.11
 [/facebook.br/]10.0.0.11
 [/facebook.com/]10.0.0.11
+[/facebook.de/]10.0.0.11
 [/facebook.design/]10.0.0.11
 [/facebook.hu/]10.0.0.11
 [/facebook.in/]10.0.0.11
@@ -2613,6 +2614,7 @@
 [/meripet.com/]10.0.0.11
 [/merit-times.com.tw/]10.0.0.11
 [/messenger.com/]10.0.0.11
+[/meta.com/]10.0.0.11
 [/metafilter.com/]10.0.0.11
 [/metart.com/]10.0.0.11
 [/metarthunter.com/]10.0.0.11
@@ -4110,6 +4112,7 @@
 [/torrentprivacy.com/]10.0.0.11
 [/torrenty.org/]10.0.0.11
 [/torrentz.eu/]10.0.0.11
+[/tortoisesvn.net/]10.0.0.11
 [/torvpn.com/]10.0.0.11
 [/totalvpn.com/]10.0.0.11
 [/toutiaoabc.com/]10.0.0.11
