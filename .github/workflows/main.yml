@@ -40,8 +40,8 @@ jobs:
       - name: Generate AdguardHome file
         if: ${{ env.NeedToSync }}
         run: |
-          curl -L https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt > ./AdList.txt
-          grep '||' ./AdList.txt > ./AdguardHome.txt
+          curl -L https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt > ./AdList.txt
+          grep -v '^@@' filename | grep '||' > ./AdguardHome.txt
 
       - name: Git push file to branch
         if: ${{ env.NeedToSync }}
