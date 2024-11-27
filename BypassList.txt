@@ -4877,13 +4877,13 @@
 [/daisyui.com/]10.0.0.11
 [/docker.com/]10.0.0.11
 [/fastly.net/]10.0.0.11
+[/hsreplay.net/]10.0.0.11
 [/maj-soul.com/]10.0.0.11
 [/nintendo.com/]10.0.0.11
 [/nintendo.net/]10.0.0.11
 [/npm.community/]10.0.0.11
 [/npmjs.com/]10.0.0.11
 [/npmjs.org/]10.0.0.11
-[/ptwxz.com/]10.0.0.11
 [/sublimetext.com/]10.0.0.11
 [/stackpathcdn.com/]10.0.0.11
 [/usevia.app/]10.0.0.11
