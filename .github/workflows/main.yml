@@ -40,7 +40,7 @@ jobs:
       - name: Generate AdguardHome file
         if: ${{ env.NeedToSync }}
         run: |
-          curl -L https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt > ./AdList.txt
+          curl -L https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt > ./AdList.txt
           grep -v '^@@' ./AdList.txt | grep '||' > ./AdguardHome.txt
 
       - name: Git push file to branch
