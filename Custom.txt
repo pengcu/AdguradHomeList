@@ -3,6 +3,7 @@ binance.com
 bnbstatic.com
 daisyui.com
 docker.com
+emby.xeton.dev
 fastly.net
 hsreplay.net
 maj-soul.com
