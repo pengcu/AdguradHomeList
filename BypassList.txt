@@ -572,7 +572,8 @@
 [/broadpressinc.com/]10.0.0.11
 [/brookings.edu/]10.0.0.11
 [/brutaltgp.com/]10.0.0.11
-[/bt2mag.com/]10.0.0.11
+[/bsky.app/]10.0.0.11
+[/bsky.social/]10.0.0.11
 [/bt95.com/]10.0.0.11
 [/btaia.com/]10.0.0.11
 [/btbtav.com/]10.0.0.11
@@ -858,6 +859,7 @@
 [/cna.com.tw/]10.0.0.11
 [/cnabc.com/]10.0.0.11
 [/cnbbnews.wordpress.com/]10.0.0.11
+[/cnbeta.com.tw/]10.0.0.11
 [/cnd.org/]10.0.0.11
 [/cnex.org.cn/]10.0.0.11
 [/cnineu.com/]10.0.0.11
@@ -1024,6 +1026,7 @@
 [/deaftone.com/]10.0.0.11
 [/debug.com/]10.0.0.11
 [/decodet.co/]10.0.0.11
+[/deepai.org/]10.0.0.11
 [/deepmind.com/]10.0.0.11
 [/deezer.com/]10.0.0.11
 [/definebabe.com/]10.0.0.11
@@ -1097,6 +1100,7 @@
 [/dnsrd.com/]10.0.0.11
 [/dnssec.net/]10.0.0.11
 [/dnvod.tv/]10.0.0.11
+[/docs.new/]10.0.0.11
 [/documentingreality.com/]10.0.0.11
 [/dojin.com/]10.0.0.11
 [/dok-forum.net/]10.0.0.11
@@ -1808,6 +1812,7 @@
 [/greenvpn.org/]10.0.0.11
 [/grindr.com/]10.0.0.11
 [/grotty-monday.com/]10.0.0.11
+[/ground.news/]10.0.0.11
 [/groups.google.cn/]10.0.0.11
 [/grow.google/]10.0.0.11
 [/gsearch.media/]10.0.0.11
@@ -1844,14 +1849,10 @@
 [/h528.com/]10.0.0.11
 [/h5dm.com/]10.0.0.11
 [/h5galgame.me/]10.0.0.11
-[/hacg.club/]10.0.0.11
-[/hacg.in/]10.0.0.11
-[/hacg.li/]10.0.0.11
-[/hacg.me/]10.0.0.11
-[/hacg.red/]10.0.0.11
 [/hacker.org/]10.0.0.11
 [/hackmd.io/]10.0.0.11
 [/hackthatphone.net/]10.0.0.11
+[/haijiao.com/]10.0.0.11
 [/hakkatv.org.tw/]10.0.0.11
 [/handcraftedsoftware.org/]10.0.0.11
 [/hanime.tv/]10.0.0.11
@@ -1889,6 +1890,7 @@
 [/hentaivideoworld.com/]10.0.0.11
 [/heqinglian.net/]10.0.0.11
 [/heritage.org/]10.0.0.11
+[/herokuapp.com/]10.0.0.11
 [/heungkongdiscuss.com/]10.0.0.11
 [/hexieshe.com/]10.0.0.11
 [/hexieshe.xyz/]10.0.0.11
@@ -1998,6 +2000,7 @@
 [/howtoforge.com/]10.0.0.11
 [/hoxx.com/]10.0.0.11
 [/hpa.gov.tw/]10.0.0.11
+[/hpjav.com/]10.0.0.11
 [/hqcdp.org/]10.0.0.11
 [/hqjapanesesex.com/]10.0.0.11
 [/hqsbnet.wordpress.com/]10.0.0.11
@@ -2070,6 +2073,7 @@
 [/iask.bz/]10.0.0.11
 [/iask.ca/]10.0.0.11
 [/iav19.com/]10.0.0.11
+[/iavian.net/]10.0.0.11
 [/ibit.am/]10.0.0.11
 [/iblist.com/]10.0.0.11
 [/iblogserv-f.net/]10.0.0.11
@@ -3109,7 +3113,9 @@
 [/pbxes.org/]10.0.0.11
 [/pcanywhere.net/]10.0.0.11
 [/pcc.gov.tw/]10.0.0.11
+[/pcgamestorrents.com/]10.0.0.11
 [/pchome.com.tw/]10.0.0.11
+[/pcij.org/]10.0.0.11
 [/pcstore.com.tw/]10.0.0.11
 [/pct.org.tw/]10.0.0.11
 [/pdproxy.com/]10.0.0.11
@@ -3569,6 +3575,7 @@
 [/sharpdaily.tw/]10.0.0.11
 [/shat-tibet.com/]10.0.0.11
 [/shattered.io/]10.0.0.11
+[/sheets.new/]10.0.0.11
 [/shellfire.de/]10.0.0.11
 [/shenshou.org/]10.0.0.11
 [/shenyunperformingarts.org/]10.0.0.11
@@ -3638,6 +3645,7 @@
 [/sleazydream.com/]10.0.0.11
 [/slheng.com/]10.0.0.11
 [/slickvpn.com/]10.0.0.11
+[/slides.new/]10.0.0.11
 [/slideshare.net/]10.0.0.11
 [/slinkset.com/]10.0.0.11
 [/slutload.com/]10.0.0.11
@@ -3649,6 +3657,7 @@
 [/smarthide.com/]10.0.0.11
 [/smyxy.org/]10.0.0.11
 [/snapchat.com/]10.0.0.11
+[/snapseed.com/]10.0.0.11
 [/snaptu.com/]10.0.0.11
 [/sndcdn.com/]10.0.0.11
 [/sobees.com/]10.0.0.11
@@ -4461,6 +4470,7 @@
 [/vpnworldwide.com/]10.0.0.11
 [/vporn.com/]10.0.0.11
 [/vpser.net/]10.0.0.11
+[/vrchat.com/]10.0.0.11
 [/vrmtr.com/]10.0.0.11
 [/vrsmash.com/]10.0.0.11
 [/vtunnel.com/]10.0.0.11
@@ -4541,6 +4551,7 @@
 [/wha.la/]10.0.0.11
 [/whatblocked.com/]10.0.0.11
 [/whatbrowser.org/]10.0.0.11
+[/whats.new/]10.0.0.11
 [/whatsapp.com/]10.0.0.11
 [/whatsapp.net/]10.0.0.11
 [/whatsonweibo.com/]10.0.0.11
@@ -4876,7 +4887,6 @@
 [/bnbstatic.com/]10.0.0.11
 [/daisyui.com/]10.0.0.11
 [/docker.com/]10.0.0.11
-[/emby.xeton.dev/]10.0.0.11
 [/fastly.net/]10.0.0.11
 [/hsreplay.net/]10.0.0.11
 [/maj-soul.com/]10.0.0.11
