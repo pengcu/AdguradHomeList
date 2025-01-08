@@ -11,6 +11,7 @@ nintendo.net
 npm.community
 npmjs.com
 npmjs.org
+piaotia.com
 sublimetext.com
 stackpathcdn.com
 usevia.app
