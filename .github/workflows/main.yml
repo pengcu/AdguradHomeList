@@ -23,7 +23,15 @@ jobs:
       - name: Checkout codebase
         if: ${{ env.NeedToSync }}
         uses: actions/checkout@v4
-          
+
+      - name: Check Custom.txt is change
+        run: |
+          git fetch --depth=2
+          echo "Checking if './Custom.txt' has changed..."
+          if git diff --name-only HEAD^ HEAD | grep -q "./Custom.txt"; then
+            echo "The file './Custom.txt' has been updated."
+            echo "NeedToSync=true" >> $GITHUB_ENV
+          fi
       - name: Fetch GFWList
         if: ${{ env.NeedToSync }}
         run: |
