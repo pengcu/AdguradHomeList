@@ -21,7 +21,6 @@ jobs:
           echo "TAG_NAME=$upstreamLatestTag" >> $GITHUB_ENV
           
       - name: Checkout codebase
-        if: ${{ env.NeedToSync }}
         uses: actions/checkout@v4
 
       - name: Check Custom.txt is change
