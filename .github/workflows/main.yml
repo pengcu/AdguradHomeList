@@ -33,7 +33,7 @@ jobs:
         if: ${{ env.NeedToSync }}
         run: |
           curl -L https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt > ./AdList.txt
-          grep -v '^@@' ./AdList.txt | grep '||' | sed s/^||//; s/\^$//' > ./Reject.txt
+          grep -v '^@@' ./AdList.txt | grep '||' | sed 's/^||//; s/\^$//' > ./Reject.txt
 
       - name: Git push file to branch
         if: ${{ env.NeedToSync }}
