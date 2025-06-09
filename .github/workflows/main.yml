@@ -44,17 +44,3 @@ jobs:
           git add ./Reject.txt
           git commit -m "${{ env.RELEASE_NAME }}"
           git push -f
-
-      - name: Release and upload assets
-        if: ${{ env.NeedToSync }}
-        uses: softprops/action-gh-release@v1
-        with:
-          name: ${{ env.RELEASE_NAME }}
-          tag_name: ${{ env.TAG_NAME }}
-          draft: false
-          prerelease: false
-          files: |
-            ./BypassList.txt
-            ./Reject.txt
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
