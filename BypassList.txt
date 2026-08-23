@@ -463,6 +463,7 @@ break.com
 breakgfw.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 brill.com
 brizzly.com
 broadpressinc.com
@@ -597,6 +598,7 @@ character.ai
 chat.com
 chat.lmsys.org
 chatgpt.com
+chatgpt.site
 chatpdf.com
 chaturbate.com
 checkgfw.com
@@ -1693,6 +1695,7 @@ himalayan-foundation.org
 himemix.com
 hindustantimes.com
 hinet.net
+historylines.net
 hitbtc.com
 hive.blog
 hiveon.net
@@ -2012,6 +2015,7 @@ kingstone.com.tw
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
+kiwix.org
 kk-whys.co.jp
 kkbox.com
 kknews.cc
@@ -2115,6 +2119,7 @@ liveleak.com
 livemint.com
 livestream.com
 livevideo.com
+livingatlas.arcgis.com
 livingstream.com
 lmarena.ai
 localbitcoins.com
@@ -2195,6 +2200,7 @@ matthewdgreen.wordpress.com
 mattwilcox.net
 maven.neoforged.net
 mcadforums.com
+mceindex.com
 mcusercontent.com
 md-t.org
 me.me
@@ -2507,6 +2513,7 @@ okk.tw
 oklink.com
 okpool.me
 okx.com
+oldmapsonline.org
 olehdtv.com
 olelive.com
 olevod.com
@@ -2907,6 +2914,7 @@ rutracker.org
 s-cute.com
 s.yimg.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 sacks.com
 sacom.hk
 sadistic-v.com
@@ -2925,6 +2933,7 @@ savetibet.de
 savetibet.org
 savetibetstore.org
 saveuighur.org
+sb.sb
 sbti.unun.dev
 schema.org
 schwab.co.uk
@@ -3780,6 +3789,7 @@ wiktionary.org
 willw.net
 wilsoncenter.org
 windscribe.com
+windy.com
 wingamestore.com
 wingy.site
 wionews.com
